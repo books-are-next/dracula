@@ -1,0 +1,306 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Dracula",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Bram Stoker",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2020-03-18T00:00:00.000Z",
+    "published": "2020-03-16T00:00:00.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dracula_035.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/dracula_idstyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_dracula_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Poznámka autora",
+      "href": "OEBPS/Text/dracula_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "Kapitola 1",
+      "href": "OEBPS/Text/dracula_006.xhtml#toc_marker-2"
+    },
+    {
+      "title": "Kapitola 2",
+      "href": "OEBPS/Text/dracula_007.xhtml#toc_marker-3"
+    },
+    {
+      "title": "Kapitola 3",
+      "href": "OEBPS/Text/dracula_008.xhtml#toc_marker-4"
+    },
+    {
+      "title": "Kapitola 4",
+      "href": "OEBPS/Text/dracula_009.xhtml#toc_marker-5"
+    },
+    {
+      "title": "Kapitola 5",
+      "href": "OEBPS/Text/dracula_010.xhtml#toc_marker-6"
+    },
+    {
+      "title": "Kapitola 6",
+      "href": "OEBPS/Text/dracula_011.xhtml#toc_marker-7"
+    },
+    {
+      "title": "Kapitola 7",
+      "href": "OEBPS/Text/dracula_012.xhtml#toc_marker-8"
+    },
+    {
+      "title": "Kapitola 8",
+      "href": "OEBPS/Text/dracula_013.xhtml#toc_marker-9"
+    },
+    {
+      "title": "Kapitola 9",
+      "href": "OEBPS/Text/dracula_014.xhtml#toc_marker-10"
+    },
+    {
+      "title": "Kapitola 10",
+      "href": "OEBPS/Text/dracula_015.xhtml#toc_marker-11"
+    },
+    {
+      "title": "Kapitola 11",
+      "href": "OEBPS/Text/dracula_016.xhtml#toc_marker-12"
+    },
+    {
+      "title": "Kapitola 12",
+      "href": "OEBPS/Text/dracula_017.xhtml#toc_marker-13"
+    },
+    {
+      "title": "Kapitola 13",
+      "href": "OEBPS/Text/dracula_018.xhtml#toc_marker-14"
+    },
+    {
+      "title": "Kapitola 14",
+      "href": "OEBPS/Text/dracula_019.xhtml#toc_marker-15"
+    },
+    {
+      "title": "Kapitola 15",
+      "href": "OEBPS/Text/dracula_020.xhtml#toc_marker-16"
+    },
+    {
+      "title": "Kapitola 16",
+      "href": "OEBPS/Text/dracula_021.xhtml#toc_marker-17"
+    },
+    {
+      "title": "Kapitola 17",
+      "href": "OEBPS/Text/dracula_022.xhtml#toc_marker-18"
+    },
+    {
+      "title": "Kapitola 18",
+      "href": "OEBPS/Text/dracula_023.xhtml#toc_marker-19"
+    },
+    {
+      "title": "Kapitola 19",
+      "href": "OEBPS/Text/dracula_024.xhtml#toc_marker-20"
+    },
+    {
+      "title": "Kapitola 20",
+      "href": "OEBPS/Text/dracula_025.xhtml#toc_marker-21"
+    },
+    {
+      "title": "Kapitola 21",
+      "href": "OEBPS/Text/dracula_026.xhtml#toc_marker-22"
+    },
+    {
+      "title": "Kapitola 22",
+      "href": "OEBPS/Text/dracula_027.xhtml#toc_marker-23"
+    },
+    {
+      "title": "Kapitola 23",
+      "href": "OEBPS/Text/dracula_028.xhtml#toc_marker-24"
+    },
+    {
+      "title": "Kapitola 24",
+      "href": "OEBPS/Text/dracula_029.xhtml#toc_marker-25"
+    },
+    {
+      "title": "Kapitola 25",
+      "href": "OEBPS/Text/dracula_030.xhtml#toc_marker-26"
+    },
+    {
+      "title": "Kapitola 26",
+      "href": "OEBPS/Text/dracula_031.xhtml#toc_marker-27"
+    },
+    {
+      "title": "Kapitola 27",
+      "href": "OEBPS/Text/dracula_032.xhtml#toc_marker-28"
+    },
+    {
+      "title": "Poznámka",
+      "href": "OEBPS/Text/dracula_033.xhtml#toc_marker-29"
+    },
+    {
+      "title": "Nejslavnější horror",
+      "href": "OEBPS/Text/dracula_034.xhtml#toc_marker-30"
+    }
+  ]
+}
