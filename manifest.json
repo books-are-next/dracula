@@ -2,38 +2,18 @@
   "author": "Bram Stoker",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "stoker-dracula-1222772",
+  "identifier": "stoker-dracula-3426163",
   "languagecode": "cs",
   "modified": "2020-03-18T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Dracula",
-  "revision": "1222772",
+  "revision": "3426163",
   "generatedAt": {
-    "date": "Sat Mar 19 2022 11:40:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647690033000
+    "date": "Sat Mar 19 2022 11:49:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647690573266
   },
   "documents": [
-    {
-      "title": "Dracula",
-      "file": "dracula_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "dracula_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Dracula",
       "file": "dracula_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "dracula_001.html",
-      "next": "dracula_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dracula",
-      "file": "dracula_003.html",
-      "words": 6,
-      "chars": 39,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "dracula_002.html",
-      "next": "dracula_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dracula",
-      "file": "dracula_004.html",
-      "words": 88,
-      "chars": 576,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "dracula_003.html",
+      "order": 0,
+      "prev": null,
       "next": "dracula_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 15,
       "ideas": 1,
       "role": "chapter",
-      "order": 4,
-      "prev": "dracula_004.html",
+      "order": 1,
+      "prev": "dracula_002.html",
       "next": "dracula_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 27866,
       "ideas": 39,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "dracula_005.html",
       "next": "dracula_007.html",
       "toc": [
@@ -141,7 +81,7 @@
       "chars": 26681,
       "ideas": 62,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "dracula_006.html",
       "next": "dracula_008.html",
       "toc": [
@@ -161,7 +101,7 @@
       "chars": 28824,
       "ideas": 41,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "dracula_007.html",
       "next": "dracula_009.html",
       "toc": [
@@ -181,7 +121,7 @@
       "chars": 28284,
       "ideas": 73,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "dracula_008.html",
       "next": "dracula_010.html",
       "toc": [
@@ -201,7 +141,7 @@
       "chars": 17750,
       "ideas": 48,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "dracula_009.html",
       "next": "dracula_011.html",
       "toc": [
@@ -221,7 +161,7 @@
       "chars": 27762,
       "ideas": 53,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "dracula_010.html",
       "next": "dracula_012.html",
       "toc": [
@@ -241,7 +181,7 @@
       "chars": 28460,
       "ideas": 44,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "dracula_011.html",
       "next": "dracula_013.html",
       "toc": [
@@ -261,7 +201,7 @@
       "chars": 30817,
       "ideas": 64,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "dracula_012.html",
       "next": "dracula_014.html",
       "toc": [
@@ -281,7 +221,7 @@
       "chars": 29404,
       "ideas": 77,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "dracula_013.html",
       "next": "dracula_015.html",
       "toc": [
@@ -301,7 +241,7 @@
       "chars": 30053,
       "ideas": 105,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "dracula_014.html",
       "next": "dracula_016.html",
       "toc": [
@@ -321,7 +261,7 @@
       "chars": 25301,
       "ideas": 79,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "dracula_015.html",
       "next": "dracula_017.html",
       "toc": [
@@ -341,7 +281,7 @@
       "chars": 35478,
       "ideas": 110,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "dracula_016.html",
       "next": "dracula_018.html",
       "toc": [
@@ -361,7 +301,7 @@
       "chars": 33545,
       "ideas": 104,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "dracula_017.html",
       "next": "dracula_019.html",
       "toc": [
@@ -381,7 +321,7 @@
       "chars": 32358,
       "ideas": 107,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "dracula_018.html",
       "next": "dracula_020.html",
       "toc": [
@@ -401,7 +341,7 @@
       "chars": 28665,
       "ideas": 102,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "dracula_019.html",
       "next": "dracula_021.html",
       "toc": [
@@ -421,7 +361,7 @@
       "chars": 22214,
       "ideas": 60,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "dracula_020.html",
       "next": "dracula_022.html",
       "toc": [
@@ -441,7 +381,7 @@
       "chars": 27997,
       "ideas": 75,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "dracula_021.html",
       "next": "dracula_023.html",
       "toc": [
@@ -461,7 +401,7 @@
       "chars": 34627,
       "ideas": 85,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "dracula_022.html",
       "next": "dracula_024.html",
       "toc": [
@@ -481,7 +421,7 @@
       "chars": 26779,
       "ideas": 45,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "dracula_023.html",
       "next": "dracula_025.html",
       "toc": [
@@ -501,7 +441,7 @@
       "chars": 29131,
       "ideas": 100,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "dracula_024.html",
       "next": "dracula_026.html",
       "toc": [
@@ -521,7 +461,7 @@
       "chars": 29919,
       "ideas": 68,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "dracula_025.html",
       "next": "dracula_027.html",
       "toc": [
@@ -541,7 +481,7 @@
       "chars": 26845,
       "ideas": 60,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "dracula_026.html",
       "next": "dracula_028.html",
       "toc": [
@@ -561,7 +501,7 @@
       "chars": 27437,
       "ideas": 80,
       "role": "chapter",
-      "order": 27,
+      "order": 24,
       "prev": "dracula_027.html",
       "next": "dracula_029.html",
       "toc": [
@@ -581,7 +521,7 @@
       "chars": 30250,
       "ideas": 70,
       "role": "chapter",
-      "order": 28,
+      "order": 25,
       "prev": "dracula_028.html",
       "next": "dracula_030.html",
       "toc": [
@@ -601,7 +541,7 @@
       "chars": 31681,
       "ideas": 81,
       "role": "chapter",
-      "order": 29,
+      "order": 26,
       "prev": "dracula_029.html",
       "next": "dracula_031.html",
       "toc": [
@@ -621,7 +561,7 @@
       "chars": 35402,
       "ideas": 92,
       "role": "chapter",
-      "order": 30,
+      "order": 27,
       "prev": "dracula_030.html",
       "next": "dracula_032.html",
       "toc": [
@@ -641,7 +581,7 @@
       "chars": 36325,
       "ideas": 68,
       "role": "chapter",
-      "order": 31,
+      "order": 28,
       "prev": "dracula_031.html",
       "next": "dracula_033.html",
       "toc": [
@@ -661,7 +601,7 @@
       "chars": 1809,
       "ideas": 6,
       "role": "chapter",
-      "order": 32,
+      "order": 29,
       "prev": "dracula_032.html",
       "next": "dracula_034.html",
       "toc": [
@@ -681,9 +621,9 @@
       "chars": 5227,
       "ideas": 9,
       "role": "chapter",
-      "order": 33,
+      "order": 30,
       "prev": "dracula_033.html",
-      "next": "dracula_035.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -695,20 +635,20 @@
       ]
     },
     {
-      "title": "Dracula",
-      "file": "dracula_035.html",
-      "words": 47,
-      "chars": 300,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 34,
+      "title": "Tiráž • Dracula",
+      "file": "colophon.html",
+      "words": 142,
+      "chars": 920,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
       "prev": "dracula_034.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -722,9 +662,9 @@
       "ideas": 2035
     },
     "chapters": {
-      "words": 135487,
-      "chars": 797821,
-      "ideas": 2030
+      "words": 135346,
+      "chars": 796906,
+      "ideas": 2008
     }
   }
 }

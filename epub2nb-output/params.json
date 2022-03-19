@@ -34,14 +34,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "dracula_001.md",
             "xhtml": "dracula_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -51,9 +52,9 @@
             "filename": "dracula_002.md",
             "xhtml": "dracula_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -63,9 +64,9 @@
             "filename": "dracula_003.md",
             "xhtml": "dracula_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -75,9 +76,9 @@
             "filename": "dracula_004.md",
             "xhtml": "dracula_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -93,7 +94,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámka autora"
           },
           {
             "filename": "dracula_006.md",
@@ -105,7 +107,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 1"
           },
           {
             "filename": "dracula_007.md",
@@ -117,7 +120,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 2"
           },
           {
             "filename": "dracula_008.md",
@@ -129,7 +133,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 3"
           },
           {
             "filename": "dracula_009.md",
@@ -141,7 +146,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 4"
           },
           {
             "filename": "dracula_010.md",
@@ -153,7 +159,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 5"
           },
           {
             "filename": "dracula_011.md",
@@ -165,7 +172,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 6"
           },
           {
             "filename": "dracula_012.md",
@@ -177,7 +185,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 7"
           },
           {
             "filename": "dracula_013.md",
@@ -189,7 +198,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 8"
           },
           {
             "filename": "dracula_014.md",
@@ -201,7 +211,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 9"
           },
           {
             "filename": "dracula_015.md",
@@ -213,7 +224,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 10"
           },
           {
             "filename": "dracula_016.md",
@@ -225,7 +237,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 11"
           },
           {
             "filename": "dracula_017.md",
@@ -237,7 +250,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 12"
           },
           {
             "filename": "dracula_018.md",
@@ -249,7 +263,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 13"
           },
           {
             "filename": "dracula_019.md",
@@ -261,7 +276,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 14"
           },
           {
             "filename": "dracula_020.md",
@@ -273,7 +289,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 15"
           },
           {
             "filename": "dracula_021.md",
@@ -285,7 +302,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 16"
           },
           {
             "filename": "dracula_022.md",
@@ -297,7 +315,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 17"
           },
           {
             "filename": "dracula_023.md",
@@ -309,7 +328,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 18"
           },
           {
             "filename": "dracula_024.md",
@@ -321,7 +341,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 19"
           },
           {
             "filename": "dracula_025.md",
@@ -333,7 +354,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 20"
           },
           {
             "filename": "dracula_026.md",
@@ -345,7 +367,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 21"
           },
           {
             "filename": "dracula_027.md",
@@ -357,7 +380,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 22"
           },
           {
             "filename": "dracula_028.md",
@@ -369,7 +393,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 23"
           },
           {
             "filename": "dracula_029.md",
@@ -381,7 +406,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 24"
           },
           {
             "filename": "dracula_030.md",
@@ -393,7 +419,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 25"
           },
           {
             "filename": "dracula_031.md",
@@ -405,7 +432,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 26"
           },
           {
             "filename": "dracula_032.md",
@@ -417,7 +445,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kapitola 27"
           },
           {
             "filename": "dracula_033.md",
@@ -429,7 +458,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámka"
           },
           {
             "filename": "dracula_034.md",
@@ -441,15 +471,16 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Nejslavnější horror"
           },
           {
             "filename": "dracula_035.md",
             "xhtml": "dracula_035.xhtml",
             "id": 34,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -757,6 +788,6 @@
       "user": "books-are-next",
       "repo": "dracula"
     },
-    "generatedAt": 1647689973046
+    "generatedAt": 1647690512304
   }
 }
