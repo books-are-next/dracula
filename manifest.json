@@ -1,0 +1,730 @@
+{
+  "author": "Bram Stoker",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "stoker-dracula-1222772",
+  "languagecode": "cs",
+  "modified": "2020-03-18T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Dracula",
+  "revision": "1222772",
+  "generatedAt": {
+    "date": "Sat Mar 19 2022 11:40:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647690033000
+  },
+  "documents": [
+    {
+      "title": "Dracula",
+      "file": "dracula_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "dracula_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dracula",
+      "file": "dracula_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "dracula_001.html",
+      "next": "dracula_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dracula",
+      "file": "dracula_003.html",
+      "words": 6,
+      "chars": 39,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "dracula_002.html",
+      "next": "dracula_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dracula",
+      "file": "dracula_004.html",
+      "words": 88,
+      "chars": 576,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "dracula_003.html",
+      "next": "dracula_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámka autora • Dracula",
+      "file": "dracula_005.html",
+      "words": 2,
+      "chars": 15,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 4,
+      "prev": "dracula_004.html",
+      "next": "dracula_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámka autora",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 1 • Dracula",
+      "file": "dracula_006.html",
+      "words": 4597,
+      "chars": 27866,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 5,
+      "prev": "dracula_005.html",
+      "next": "dracula_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 2 • Dracula",
+      "file": "dracula_007.html",
+      "words": 4496,
+      "chars": 26681,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 6,
+      "prev": "dracula_006.html",
+      "next": "dracula_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 3 • Dracula",
+      "file": "dracula_008.html",
+      "words": 4842,
+      "chars": 28824,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 7,
+      "prev": "dracula_007.html",
+      "next": "dracula_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 3",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 4 • Dracula",
+      "file": "dracula_009.html",
+      "words": 4826,
+      "chars": 28284,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 8,
+      "prev": "dracula_008.html",
+      "next": "dracula_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 4",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 5 • Dracula",
+      "file": "dracula_010.html",
+      "words": 3098,
+      "chars": 17750,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 9,
+      "prev": "dracula_009.html",
+      "next": "dracula_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 5",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 6 • Dracula",
+      "file": "dracula_011.html",
+      "words": 4818,
+      "chars": 27762,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 10,
+      "prev": "dracula_010.html",
+      "next": "dracula_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 6",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 7 • Dracula",
+      "file": "dracula_012.html",
+      "words": 4698,
+      "chars": 28460,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 11,
+      "prev": "dracula_011.html",
+      "next": "dracula_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 7",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 8 • Dracula",
+      "file": "dracula_013.html",
+      "words": 5294,
+      "chars": 30817,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 12,
+      "prev": "dracula_012.html",
+      "next": "dracula_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 8",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 9 • Dracula",
+      "file": "dracula_014.html",
+      "words": 5057,
+      "chars": 29404,
+      "ideas": 77,
+      "role": "chapter",
+      "order": 13,
+      "prev": "dracula_013.html",
+      "next": "dracula_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 9",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 10 • Dracula",
+      "file": "dracula_015.html",
+      "words": 5167,
+      "chars": 30053,
+      "ideas": 105,
+      "role": "chapter",
+      "order": 14,
+      "prev": "dracula_014.html",
+      "next": "dracula_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 10",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 11 • Dracula",
+      "file": "dracula_016.html",
+      "words": 4370,
+      "chars": 25301,
+      "ideas": 79,
+      "role": "chapter",
+      "order": 15,
+      "prev": "dracula_015.html",
+      "next": "dracula_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 11",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 12 • Dracula",
+      "file": "dracula_017.html",
+      "words": 6070,
+      "chars": 35478,
+      "ideas": 110,
+      "role": "chapter",
+      "order": 16,
+      "prev": "dracula_016.html",
+      "next": "dracula_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 12",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 13 • Dracula",
+      "file": "dracula_018.html",
+      "words": 5684,
+      "chars": 33545,
+      "ideas": 104,
+      "role": "chapter",
+      "order": 17,
+      "prev": "dracula_017.html",
+      "next": "dracula_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 13",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 14 • Dracula",
+      "file": "dracula_019.html",
+      "words": 5592,
+      "chars": 32358,
+      "ideas": 107,
+      "role": "chapter",
+      "order": 18,
+      "prev": "dracula_018.html",
+      "next": "dracula_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 14",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 15 • Dracula",
+      "file": "dracula_020.html",
+      "words": 4856,
+      "chars": 28665,
+      "ideas": 102,
+      "role": "chapter",
+      "order": 19,
+      "prev": "dracula_019.html",
+      "next": "dracula_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 15",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 16 • Dracula",
+      "file": "dracula_021.html",
+      "words": 3741,
+      "chars": 22214,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 20,
+      "prev": "dracula_020.html",
+      "next": "dracula_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 16",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 17 • Dracula",
+      "file": "dracula_022.html",
+      "words": 4748,
+      "chars": 27997,
+      "ideas": 75,
+      "role": "chapter",
+      "order": 21,
+      "prev": "dracula_021.html",
+      "next": "dracula_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 17",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 18 • Dracula",
+      "file": "dracula_023.html",
+      "words": 5799,
+      "chars": 34627,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 22,
+      "prev": "dracula_022.html",
+      "next": "dracula_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 18",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 19 • Dracula",
+      "file": "dracula_024.html",
+      "words": 4533,
+      "chars": 26779,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 23,
+      "prev": "dracula_023.html",
+      "next": "dracula_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 19",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 20 • Dracula",
+      "file": "dracula_025.html",
+      "words": 4926,
+      "chars": 29131,
+      "ideas": 100,
+      "role": "chapter",
+      "order": 24,
+      "prev": "dracula_024.html",
+      "next": "dracula_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 20",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 21 • Dracula",
+      "file": "dracula_026.html",
+      "words": 5103,
+      "chars": 29919,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 25,
+      "prev": "dracula_025.html",
+      "next": "dracula_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 21",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 22 • Dracula",
+      "file": "dracula_027.html",
+      "words": 4527,
+      "chars": 26845,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 26,
+      "prev": "dracula_026.html",
+      "next": "dracula_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 22",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 23 • Dracula",
+      "file": "dracula_028.html",
+      "words": 4654,
+      "chars": 27437,
+      "ideas": 80,
+      "role": "chapter",
+      "order": 27,
+      "prev": "dracula_027.html",
+      "next": "dracula_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 23",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 24 • Dracula",
+      "file": "dracula_029.html",
+      "words": 5124,
+      "chars": 30250,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 28,
+      "prev": "dracula_028.html",
+      "next": "dracula_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 24",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 25 • Dracula",
+      "file": "dracula_030.html",
+      "words": 5356,
+      "chars": 31681,
+      "ideas": 81,
+      "role": "chapter",
+      "order": 29,
+      "prev": "dracula_029.html",
+      "next": "dracula_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 25",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 26 • Dracula",
+      "file": "dracula_031.html",
+      "words": 6069,
+      "chars": 35402,
+      "ideas": 92,
+      "role": "chapter",
+      "order": 30,
+      "prev": "dracula_030.html",
+      "next": "dracula_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 26",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 27 • Dracula",
+      "file": "dracula_032.html",
+      "words": 6221,
+      "chars": 36325,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 31,
+      "prev": "dracula_031.html",
+      "next": "dracula_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 27",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámka • Dracula",
+      "file": "dracula_033.html",
+      "words": 297,
+      "chars": 1809,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 32,
+      "prev": "dracula_032.html",
+      "next": "dracula_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nejslavnější horror • Dracula",
+      "file": "dracula_034.html",
+      "words": 781,
+      "chars": 5227,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 33,
+      "prev": "dracula_033.html",
+      "next": "dracula_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nejslavnější horror",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dracula",
+      "file": "dracula_035.html",
+      "words": 47,
+      "chars": 300,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 34,
+      "prev": "dracula_034.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 135493,
+      "chars": 797855,
+      "ideas": 2035
+    },
+    "chapters": {
+      "words": 135487,
+      "chars": 797821,
+      "ideas": 2030
+    }
+  }
+}
