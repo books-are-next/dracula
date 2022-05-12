@@ -52,7 +52,7 @@
             "filename": "dracula_002.md",
             "xhtml": "dracula_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -488,8 +488,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -788,6 +787,6 @@
       "user": "books-are-next",
       "repo": "dracula"
     },
-    "generatedAt": 1647690512304
+    "generatedAt": 1652351503231
   }
 }

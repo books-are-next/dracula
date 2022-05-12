@@ -1,22 +1,57 @@
 {
-  "author": "Bram Stoker",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "stoker-dracula-3426163",
-  "languagecode": "cs",
-  "modified": "2020-03-18T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Dracula",
-  "revision": "3426163",
+  "author": "Bram Stoker",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "stoker-dracula-e2be3b1",
+  "revision": "e2be3b1",
+  "readingOrder": [
+    "promo.html",
+    "dracula_005.html",
+    "dracula_006.html",
+    "dracula_007.html",
+    "dracula_008.html",
+    "dracula_009.html",
+    "dracula_010.html",
+    "dracula_011.html",
+    "dracula_012.html",
+    "dracula_013.html",
+    "dracula_014.html",
+    "dracula_015.html",
+    "dracula_016.html",
+    "dracula_017.html",
+    "dracula_018.html",
+    "dracula_019.html",
+    "dracula_020.html",
+    "dracula_021.html",
+    "dracula_022.html",
+    "dracula_023.html",
+    "dracula_024.html",
+    "dracula_025.html",
+    "dracula_026.html",
+    "dracula_027.html",
+    "dracula_028.html",
+    "dracula_029.html",
+    "dracula_030.html",
+    "dracula_031.html",
+    "dracula_032.html",
+    "dracula_033.html",
+    "dracula_034.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sat Mar 19 2022 11:49:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647690573266
+    "date": "Thu May 12 2022 10:40:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352020804
   },
   "documents": [
     {
-      "title": "Dracula",
-      "file": "dracula_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +59,17 @@
       "order": 0,
       "prev": null,
       "next": "dracula_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Poznámka autora • Dracula",
+      "title": "Poznámka autora",
       "file": "dracula_005.html",
       "words": 2,
       "chars": 15,
       "ideas": 1,
       "role": "chapter",
       "order": 1,
-      "prev": "dracula_002.html",
+      "prev": "promo.html",
       "next": "dracula_006.html",
       "toc": [
         {
@@ -55,7 +82,7 @@
       ]
     },
     {
-      "title": "Kapitola 1 • Dracula",
+      "title": "Kapitola 1",
       "file": "dracula_006.html",
       "words": 4597,
       "chars": 27866,
@@ -75,7 +102,7 @@
       ]
     },
     {
-      "title": "Kapitola 2 • Dracula",
+      "title": "Kapitola 2",
       "file": "dracula_007.html",
       "words": 4496,
       "chars": 26681,
@@ -95,7 +122,7 @@
       ]
     },
     {
-      "title": "Kapitola 3 • Dracula",
+      "title": "Kapitola 3",
       "file": "dracula_008.html",
       "words": 4842,
       "chars": 28824,
@@ -115,7 +142,7 @@
       ]
     },
     {
-      "title": "Kapitola 4 • Dracula",
+      "title": "Kapitola 4",
       "file": "dracula_009.html",
       "words": 4826,
       "chars": 28284,
@@ -135,7 +162,7 @@
       ]
     },
     {
-      "title": "Kapitola 5 • Dracula",
+      "title": "Kapitola 5",
       "file": "dracula_010.html",
       "words": 3098,
       "chars": 17750,
@@ -155,7 +182,7 @@
       ]
     },
     {
-      "title": "Kapitola 6 • Dracula",
+      "title": "Kapitola 6",
       "file": "dracula_011.html",
       "words": 4818,
       "chars": 27762,
@@ -175,7 +202,7 @@
       ]
     },
     {
-      "title": "Kapitola 7 • Dracula",
+      "title": "Kapitola 7",
       "file": "dracula_012.html",
       "words": 4698,
       "chars": 28460,
@@ -195,7 +222,7 @@
       ]
     },
     {
-      "title": "Kapitola 8 • Dracula",
+      "title": "Kapitola 8",
       "file": "dracula_013.html",
       "words": 5294,
       "chars": 30817,
@@ -215,7 +242,7 @@
       ]
     },
     {
-      "title": "Kapitola 9 • Dracula",
+      "title": "Kapitola 9",
       "file": "dracula_014.html",
       "words": 5057,
       "chars": 29404,
@@ -235,7 +262,7 @@
       ]
     },
     {
-      "title": "Kapitola 10 • Dracula",
+      "title": "Kapitola 10",
       "file": "dracula_015.html",
       "words": 5167,
       "chars": 30053,
@@ -255,7 +282,7 @@
       ]
     },
     {
-      "title": "Kapitola 11 • Dracula",
+      "title": "Kapitola 11",
       "file": "dracula_016.html",
       "words": 4370,
       "chars": 25301,
@@ -275,7 +302,7 @@
       ]
     },
     {
-      "title": "Kapitola 12 • Dracula",
+      "title": "Kapitola 12",
       "file": "dracula_017.html",
       "words": 6070,
       "chars": 35478,
@@ -295,7 +322,7 @@
       ]
     },
     {
-      "title": "Kapitola 13 • Dracula",
+      "title": "Kapitola 13",
       "file": "dracula_018.html",
       "words": 5684,
       "chars": 33545,
@@ -315,7 +342,7 @@
       ]
     },
     {
-      "title": "Kapitola 14 • Dracula",
+      "title": "Kapitola 14",
       "file": "dracula_019.html",
       "words": 5592,
       "chars": 32358,
@@ -335,7 +362,7 @@
       ]
     },
     {
-      "title": "Kapitola 15 • Dracula",
+      "title": "Kapitola 15",
       "file": "dracula_020.html",
       "words": 4856,
       "chars": 28665,
@@ -355,7 +382,7 @@
       ]
     },
     {
-      "title": "Kapitola 16 • Dracula",
+      "title": "Kapitola 16",
       "file": "dracula_021.html",
       "words": 3741,
       "chars": 22214,
@@ -375,7 +402,7 @@
       ]
     },
     {
-      "title": "Kapitola 17 • Dracula",
+      "title": "Kapitola 17",
       "file": "dracula_022.html",
       "words": 4748,
       "chars": 27997,
@@ -395,7 +422,7 @@
       ]
     },
     {
-      "title": "Kapitola 18 • Dracula",
+      "title": "Kapitola 18",
       "file": "dracula_023.html",
       "words": 5799,
       "chars": 34627,
@@ -415,7 +442,7 @@
       ]
     },
     {
-      "title": "Kapitola 19 • Dracula",
+      "title": "Kapitola 19",
       "file": "dracula_024.html",
       "words": 4533,
       "chars": 26779,
@@ -435,7 +462,7 @@
       ]
     },
     {
-      "title": "Kapitola 20 • Dracula",
+      "title": "Kapitola 20",
       "file": "dracula_025.html",
       "words": 4926,
       "chars": 29131,
@@ -455,7 +482,7 @@
       ]
     },
     {
-      "title": "Kapitola 21 • Dracula",
+      "title": "Kapitola 21",
       "file": "dracula_026.html",
       "words": 5103,
       "chars": 29919,
@@ -475,7 +502,7 @@
       ]
     },
     {
-      "title": "Kapitola 22 • Dracula",
+      "title": "Kapitola 22",
       "file": "dracula_027.html",
       "words": 4527,
       "chars": 26845,
@@ -495,7 +522,7 @@
       ]
     },
     {
-      "title": "Kapitola 23 • Dracula",
+      "title": "Kapitola 23",
       "file": "dracula_028.html",
       "words": 4654,
       "chars": 27437,
@@ -515,7 +542,7 @@
       ]
     },
     {
-      "title": "Kapitola 24 • Dracula",
+      "title": "Kapitola 24",
       "file": "dracula_029.html",
       "words": 5124,
       "chars": 30250,
@@ -535,7 +562,7 @@
       ]
     },
     {
-      "title": "Kapitola 25 • Dracula",
+      "title": "Kapitola 25",
       "file": "dracula_030.html",
       "words": 5356,
       "chars": 31681,
@@ -555,7 +582,7 @@
       ]
     },
     {
-      "title": "Kapitola 26 • Dracula",
+      "title": "Kapitola 26",
       "file": "dracula_031.html",
       "words": 6069,
       "chars": 35402,
@@ -575,7 +602,7 @@
       ]
     },
     {
-      "title": "Kapitola 27 • Dracula",
+      "title": "Kapitola 27",
       "file": "dracula_032.html",
       "words": 6221,
       "chars": 36325,
@@ -595,7 +622,7 @@
       ]
     },
     {
-      "title": "Poznámka • Dracula",
+      "title": "Poznámka",
       "file": "dracula_033.html",
       "words": 297,
       "chars": 1809,
@@ -615,7 +642,7 @@
       ]
     },
     {
-      "title": "Nejslavnější horror • Dracula",
+      "title": "Nejslavnější horror",
       "file": "dracula_034.html",
       "words": 781,
       "chars": 5227,
@@ -635,11 +662,11 @@
       ]
     },
     {
-      "title": "Tiráž • Dracula",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 142,
-      "chars": 920,
-      "ideas": 23,
+      "words": 122,
+      "chars": 771,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "dracula_034.html",
@@ -657,9 +684,9 @@
   ],
   "totals": {
     "all": {
-      "words": 135493,
-      "chars": 797855,
-      "ideas": 2035
+      "words": 135473,
+      "chars": 797706,
+      "ideas": 2029
     },
     "chapters": {
       "words": 135346,
