@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - dracula_002.html
+  - promo.html
   - dracula_005.html
   - dracula_006.html
   - dracula_007.html
