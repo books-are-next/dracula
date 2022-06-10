@@ -3,9 +3,13 @@ title: Kapitola 20
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK JONATHANA HARKERA
 
-  
+</section>
+
+<section>
 
 _1\. října, večer._ – Thomase Snellinga jsem zastihl v jeho domku v Beth­nal Greenu, ale bohužel nebyl vůbec s to si na cokoli vzpomenout. Naděje na pivo, kterou v něm vyvolal můj ohlášený příchod, ho natolik nadchla, že začal hýřit předčasně. Od jeho manželky, zřejmě poctivé, utlačené duše, jsem se dozvěděl, že Snelling pouze pomáhá jistému Smolletovi, který je vedoucím závoznické party. Odjel jsem proto do Walworthu a našel pana Josefa Smolleta doma, jak v košili právě popíjí čaj. Je to milý, inteligentní chlapík, typický pořádný, spolehlivý dělník, s vlastními, nikým neovlivněnými názory. Na příhodu s bednami si dobře pamatoval, z tajemných hlubin zadní kapsy kalhot vytáhl fantasticky ohmataný zápisník, nahlédl do hiero­glyfických poznámek, napsaných tlustým, napůl už smazaným písmem, a sdělil mi o bednách vše, co jsem chtěl vědět. Z Carfaxu jich odvezl celkem dvanáct, z toho šest do Mile End New Townu, Chicksand Street číslo 197, a druhých šest do Bermondsey, Jamaica Lane. Hrabě měl zřejmě v úmyslu rozmístit svá hrůzná útočiště po celém Londýně, a proto si asi vybral napřed tato místa, aby odtud mohl bedny později rozvážet dále. Systematičnost, s níž si počínal, naznačovala, že se určitě nehodlá omezit na tyto dvě londýnské končiny. Už teď má záchytné body na východním okraji jak severního Londýna, tak jižního Londýna a na jihu. Určitě nehodlá ze svého ďábelského plánu vypustit sever a západ – nemluvě o samotné City a středu elegantního Londýna na jihozápadě a západě. Požádal jsem proto Smolleta, aby mi řekl, zda byly z Carfaxu odvezeny ještě nějaké další bedny. Odpověděl:
 
@@ -15,7 +19,9 @@ _1\. října, večer._ – Thomase Snellinga jsem zastihl v jeho domku v Beth
 
 Byl to rozumný návrh, a proto jsme poslali jedno z jeho dětí, aby za penny koupilo obálku s listem papíru a zbytek si ponechalo. Na obálku jsem napsal adresu, nalepil známku, a když mi Smollet znovu závazně slíbil, že mi adresu pošle, jen co ji zjistí, vypravil jsem se domů. Už jsme rozhodně na stopě. Dnes večer jsem unaven a chce se mi spát. Mina už spí jako dudek a je až příliš pobledlá; oči má zarudlé, jako by byla plakala. Chudáček, určitě ji trápí, že ji necháváme v nevědomosti, a dělá si o mne i o ostatní dvojnásobné starosti. Přesto je to tak nejlepší. Ať se raději teď takhle mrzí a trápí, než aby se nervově zhroutila. Lékaři zcela správně naléhali, aby s tím neměla nic společného. Tohle břímě mlčení spočívá hlavně na mně, a nesmím se tedy dát zviklat. Za žádných okolností s ní o tom nezačnu mluvit. Snad to ani nebude tak obtížné, vždyť sama si v celé záležitosti ukládá rezervu a od okamžiku, kdy jsme jí sdělili své rozhodnutí, se o hraběti nebo jeho činech ani jednou nezmínila.
 
-  
+</section>
+
+<section>
 
 _2\. října, večer._ – Dlouhý, namáhavý a vzrušující den. Ranní poštou mi došla mnou nadepsaná obálka s ušpiněným lístkem, na němž neumělá ruka napsala tesařskou tužkou:
 
@@ -95,7 +101,9 @@ Ještě několik řádek. Mina spí zdravým spánkem a dýchá pra­videlně. 
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _1\. října._ – Renfield mě znovu zmátl. Jeho nálady se mění tak rychle, že s nimi stěží držím krok, a protože pokaždé vyplývají z něčeho jiného než z jeho zdravotního stavu, poskytují mi neobyčejně zajímavou látku ke studiu. Když jsem k němu zašel dnes ráno poté, co tak odbyl Van Helsinga, choval se jako člověk, který je pánem nad osudem. Subjektivně vzato ovšem osudu poroučel. Věci pozemské mu totiž byly zcela lhostejné; vznášel se vysoko v oblacích a shlížel dolů na všechny slabůstky a nedostatky nás ubohých smrtelníků. Usoudil jsem, že bych mohl využít příležitosti a něco se dozvědět, a proto jsem se ho zeptal:
 
@@ -175,7 +183,9 @@ A to ujištění…?
 
 Milosrdný Bože! Určitě ho navštívil hrabě a zřejmě připravuje nový hrůzný plán!
 
-  
+</section>
+
+<section>
 
 _Později._ – Po vizitě jsem zašel za Van Helsingem a zpravil ho o svém podezření. Velmi zvážněl, chvíli o věci přemýšlel a pak mě požádal, abych ho zavedl k Renfieldovi. Vyhověl jsem mu. Došli jsme k jeho pokoji a slyšeli jsme ho uvnitř vesele prozpěvovat, jak to dělával v dobách, které nám dnes připadají už tak vzdálené. Vešli jsme a s úžasem jsme shledali, že stejně jako před časem rozsypal všude cukr; podzimem zmalátněné mouchy už začaly vlétávat do pokoje. Pokusili jsme se ho přimět, aby se rozhovořil o věcech, o nichž jsme rozmlouvali předtím, leč marně. Pokračoval ve zpěvu, jako bychom ani nebyli vešli do místnosti. Odněkud vytáhl list papíru a začal si z něho skládat zápisníček. Odešli jsme stejně moudří, jako jsme přišli.
 
@@ -186,7 +196,9 @@ LORDU GODALMINGOVI
 
 _7\. října._
 
-  
+</section>
+
+<section>
 
 „Vaše Milosti,
 
@@ -196,7 +208,9 @@ V hluboké úctě MITCHELL, SYNOVÉ & CANDY“
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _2\. října._ – Včera v noci jsem umístil jednoho ošetřovatele do chodby a přikázal mu, aby naslouchal všem zvukům přicházejícím z Renfieldova pokoje a okamžitě mě zavolal, kdyby se událo něco výjimečného. Po večeři jsme se sesedli v pracovně u krbu – paní Harkerová se už odebrala na lože – a hovořili jsme o tom, co jsme během dne podnikli a objevili. Jedině Harker se mohl vykázat výsledkem a všichni upřímně doufáme, že jeho zjištění bude mít velký význam.
 
@@ -208,8 +222,12 @@ Harker už odešel dále za svou stopou a Art s Quinceym šli zkontrolovat kon
 
 Občas si říkám, že jsme se snad všichni zbláznili a že příčetnými se staneme teprve tehdy, až se probudíme ve svěracích kazajkách!
 
-  
+</section>
+
+<section>
 
 _Později._ – Znovu jsme se sešli. Konečně jsme snad už opravdu na stopě a naše zítřejší práce by už mohla znamenat začátek konce. Rád bych věděl, zda s tím nějak souvisí Renfieldův klid. Jeho nálady jsou přece tak úzce spjaty s činy hraběte, že by podvědomě mohl vytušit netvorovu blížící se záhubu. Kdyby se dal vypátrat alespoň náznak toho, co se událo v jeho mysli od okamžiku naší včerejší rozmluvy do chvíle, kdy zase začal chytat mouchy, jistě bychom tímto způsobem získali cenné vodítko. Teď se zřejmě na nějakou chvíli uklidnil… Opravdu? – Neozval se snad ten divoký výkřik od něho?
 
 Ošetřovatel vrazil prudce do pokoje a hlásil, že Renfielda stihla nějaká nehoda. Zaslechl výkřik, a když vběhl dovnitř, našel ho, jak leží úplně zakrvácený, obličejem na podlaze. Musím okamžitě k němu…
+
+</section>

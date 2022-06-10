@@ -3,6 +3,8 @@ title: Kapitola 3
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK JONATHANA HARKERA
 
 _(Pokračování)_
@@ -14,7 +16,9 @@ Když jsem zjistil, že jsem vlastně zajatec, posedla mě jakási zběsilost. P
 
 Sotva však jsem nabyl přesvědčení, že jsem bezmocný, klidně – stejně klidně jako při každém jiném konání ve svém životě – jsem usedl a začal uvažovat, jak dále nejvhodněji postupovat. Ještě o tom přemýšlím a nedospěl jsem dosud ke konečnému rozhodnutí. Jsem si jist pouze jednou věcí: nemá smysl vyjevit hraběti, co si myslím. On přece ví, že jsem vězněn; a protože to sám způsobil a bezesporu k tomu má své důvody, jen by mě klamal, kdybych se mu plně svěřil se svými závěry. Je mi jedině jasné, že si své poznatky a obavy musím nechávat pro sebe a že musím mít oči neustále otevřeny. Také se nesmím dát jako malé děcko ošálit vlastním strachem, dostal bych se tak totiž do zoufalé situace; a pokud se už do ní budu nucen dostat, pak potřebuji a budu potřebovat všechen rozum k tomu, abych vše zvládl. Sotva jsem dospěl k tomuto závěru, zaslechl jsem, jak se dole zavřely velké dveře; hrabě se tedy právě vrátil. Nezašel rovnou do knihovny, a tak jsem se opatrně vkradl do svého pokoje a přistihl ho, jak mi stele lůžko. Bylo to podivné, potvrzuje to ovšem mé podezření, které už dosti dlouho chovám, že v domě není žádné služebnictvo. V tomto přesvědčení jsem se utvrdil, když jsem ho později škvírami v závěsech mezi dveřmi zahlédl, jak prostírá stůl v jídelně; koná-li totiž sám všechny takové domácí práce, je to jasný důkaz, že tu není nikoho, kdo by je vykonával. Vyděsilo mě to, vždyť není-li v zámku nikdo jiný, pak to musel být hrabě sám, kdo řídil bryčku, která mě sem zavezla. Je to hrůzná myšlenka; jak si totiž v tomto případě mám vysvětlit, že dokázal ovládnout vlky tak, jak to učinil – pouhým zvednutím paže a bez jediného slova? Čím si vysvětlit, že všichni ti lidé v Bystřici a v dostavníku měli o mne takový hrozný strach? Jaký mělo význam, že mi darovali růženec s křížem, česnek, šípkovou růži, větvičku jeřábu? Bůh požehnej té předobré ženě, která mi zavěsila kolem krku růženec! Kdykoli se ho dotknu, dodá mi útěchu a sílu. Jak podivné, že předmět, který jsem až dosud považoval za nevhodný a modloslužebnický, mi v těchto chvílích samoty a nesnází přináší pomoc! Není snad něco v samé podstatě tohoto předmětu nebo nezprostředkovává mi hmatatelně vzpomínky na lásku a soucit? Bude-li to možné, začnu se jednou touto záležitostí zabývat a vynasnažím se dospět k nějakému názoru. Zatím však musím zjistit o hraběti Draculovi, co jen budu moci, protože mi to snad pomůže ho pochopit. Dnes večer se třeba rozhovoří o sobě, pokud obrátím rozhovor tímto směrem. Musím si však dát velký pozor, abych nevyvolal jeho podezření.
 
-  
+</section>
+
+<section>
 
 _Půlnoc._ – Měl jsem dlouhou rozmluvu s hrabětem. Položil jsem mu několik otázek o historii Transylvánie a on na toto téma skvěle zabral. Při líčení událostí, lidí a zejména bitev mluvil tak, jako by se byl všech sám účastnil. Později to vysvětlil poznámkou, že každý _bojar_ je hrdý na svůj rod i jméno, že sláva jeho rodu i jména dodává lesk i jemu, že osud jeho rodu a jména je i jeho osudem. Kdykoli se zmínil o svém rodu, říkal vždy „my“ a skoro vždycky používal množného čísla, jako král. Rád bych přesně vypsal všechno, co říkal a jak to říkal, bylo to totiž nesmírně fascinující. Připadalo mi, že se v jeho slovech obrážejí celé dějiny této země. V průběhu vyprávění se víc a víc vzrušoval, přecházel po pokoji, hladil si hustý bílý knír a bral do rukou nejrůznější předměty, jako by je chtěl pouhou silou rozdrtit. Příběh svého rodu vylíčil tak zajímavě, že se pokusím jej pokud možno co nejpřesněji reprodukovat.
 
@@ -22,7 +26,9 @@ _Půlnoc._ – Měl jsem dlouhou rozmluvu s hrabětem. Položil jsem mu někol
 
 V té chvíli se již blížil úsvit a my jsme se odebrali na lůžko. (_Pozn._ Tento deník trapně připomíná „Pohádky tisíce a jedné noci“, protože každé vyprávění se musí přerušit před prvním zakokrháním – nebo ducha Hamletova otce.)
 
-  
+</section>
+
+<section>
 
 _12\. května_ – Začněme fakty – holými, skrovnými fakty, ověřenými knihami a čísly, které jsou mimo veškerou pochybnost. Nesmím je zaměnit se zkušenostmi, které budou nezbytně vycházet z mých postřehů či z toho, co si z nich vtisknu do paměti. Když včera večer přišel hrabě ze svého pokoje, začal se mě vyptávat na různé právní problémy a způsoby uzavírání některých obchodů. Celý den jsem strávil únavným studiem knih, a abych trochu procvičil mysl, probral jsem několik otázek, které kandidáti musí zodpovědět při advokátních zkouškách. Protože dotazy hraběte prozrazovaly určitou soustavnost, pokusím se je vypsat v pořadí, jak mi byly kladeny; třeba mi to někdy bude ku prospěchu.
 
@@ -48,7 +54,9 @@ Co jiného mi zbývalo než mu vyhovět? Byl to zájem pana Haw­kinse, nikoli m
 
 Jeden z dopisů byl adresován Samuelu F. Billingtonovi, číslo 7, The Crescent, Whitby; druhý panu Leutnerovi ve Varně; třetí firmě Coutts & Co., Londýn, a čtvrtý pánům Klopstockovi & Billreuthovi, bankéřům v Budapešti. Druhý a čtvrtý nebyly zapečetěny. Právě když jsem se na ně chtěl podívat, spatřil jsem, jak se u dveří pohnula klika. Usedl jsem na křeslo, a sotva jsem položil dopis zpátky na místo a uchopil knihu, vešel hrabě do pokoje s dalším dopisem v ruce. Vzal dopisy se stolu, pečlivě je ofrankoval, a obrátiv se ke mně, řekl: „Jistě mě omluvíte, ale dnes večer musím vyřídit řadu soukromých záležitostí. Doufám, že najdete všechno, co potřebujete.“ U dveří se obrátil a po krátké zámlce dodal: „Dovolte, milý mladý příteli, abych vás s veškerou vážností varoval. Pokud byste snad opustil tyto místnosti, rozhodně se neukládejte ke spánku v nějaké jiné části zámku. Zámek je starý, hodně pamatuje a tomu, kdo se dá pošetile přemoci spánkem, přichystá zlé sny. Varuji vás! Jestliže vás teď či později začne přemáhat spánek, nebo se bude blížit, pospěšte do svého pokoje nebo do těchto místností, protože potom bude váš odpočinek nerušen. Jestliže však nebudete v tomto ohledu opatrný, pak –.“ Svou promluvu ukončil úděsným způsobem – učinil rukama pohyb, jako by si je myl. Dokonale jsem mu porozuměl; jenom jsem pochyboval, zda jakýkoli sen může být horší než onen nadpřirozený, hrůzný závoj příšeří a tajemství, který jako by mě začal ovíjet.
 
-  
+</section>
+
+<section>
 
 _Později._ – Chtěl bych jen potvrdit poslední řádky, protože tentokráte už vůbec nelze mít pochybnosti. Nebudu se už bát usnout na kterémkoli místě, kde on není. Pověsil jsem růženec nad hlavu svého lůžka v naději, že sny už nebudou tolik rušit můj odpočinek, a tam už zůstane.
 
@@ -58,11 +66,15 @@ To, co jsem předtím zahlédl, byla hlava hraběte, vynořující se z okna. O
 
 Co je to za člověka či bytost, která na sebe vzala lidskou podobu? Cítím, jak mě hrůzné ovzduší tohoto strašného zámku přemáhá; mám strach – úděsný strach – a možnost úniku nevidím. Ze všech stran mě obklopují hrůzy, na které se ani neodvažuj pomyslet…
 
-  
+</section>
+
+<section>
 
 _15\. května._ – Opět jsem spatřil hraběte, jak slézá dolů jako ještěrka. Sestoupil několik set stop dolů, šikmo a hodně doleva. Ztratil se mi v jakémsi otvoru, snad oknu. Jakmile mu tam zmizela hlava, vyklonil jsem se v naději, že uvidím víc, ale marně – vzdálenost byla příliš velká a zorný úhel příliš nepříhodný. Pochopil jsem, že teď už bude mimo zámek, a usoudil jsem, že bych měl této příležitosti využít a porozhlédnout se po budově trochu důkladněji, než jsem se až dosud odvážil. Vrátil jsem se do svého pokoje, vzal si svítilnu a zkoušel jedny dveře za druhými. Všechny byly zamčeny, jak jsem očekával, a zámky byly poměrně nové; proto jsem sešel dolů po kamenném schodišti do haly, kam jsem vstoupil po svém příjezdu. Závory se daly snadno odstrčit a řetězy vyháknout, jenže dveře byly zamčeny a klíč nikde! Určitě je v pokoji hraběte; musím tedy vyčkat, až bude jeho pokoj odemčen, pak ho vzít a prchnout! Pokračoval jsem v zevrubné prohlídce různých schodišť a chodeb a zkoušel všude jednotlivé dveře. Jeden či dva pokojíky vedle haly byly otevřeny, ale našel jsem tam jen starý nábytek, zšedlý prachem a rozežraný od molů. Nakonec jsem nahoře na konci schodiště přece jen nalezl jedny dveře, které, třebas se zdály zamčeny, trochu povolily, když jsem do nich strčil. Zatlačil jsem silněji a zjistil jsem, že vlastně nejsou zamčeny, ale kladou odpor jen proto, že závěsy se trochu uvolnily a těžké dveře dosedly na zem. Tahle příležitost se mi už podruhé nemusela naskytnout, a tak se mi s nasazením všech sil podařilo odtlačit je natolik, abych mohl vejít. Octl jsem se teď v zámeckém křídle ležícím o jedno poschodí níž, víc doprava než pokoje, které jsem znal. Z oken jsem zjistil, že se tyto pokoje táhnou po jižní straně zámku a že okna posledního pokoje vedou jak na jih, tak na západ. Pod oběma průčelími zela hluboká propast. Zámek byl vystavěn na okraji mohutného skalního útesu, takže je ze tří stran úplně nepřístupný. Střely z praků, luků a houfnic sem nemohly dolétnout; proto byla právě zde umístěna velká okna, zaručující světlo a pohodlí, jaké je nemožné tam, kde je třeba počítat s obranou. K západu se táhlo široké údolí a v dáli za ním se tyčily vysoké rozeklané hradby hor, korunované nesčetnými vrcholky, kde srázné útesy byly porostlé jeřáby a hlohem, jejichž kořeny se zachytily ve spárách, trhlinách a škvírách skal. Tato část zámku byla v dřívějších dobách zřejmě obývána; nábytek vypadal totiž mnohem útulněji než ten, který jsem až dosud spatřil. Okna byla bez záclon a žlutavé měsíční světlo, vnikající broušenými okenními tabulkami, podtrhovalo jednotlivé barvy a současně trochu zmírňovalo nános prachu, který všechno pokrýval a do jisté míry i zakrýval spoušť, způsobenou zubem času a moly. Připadalo mi, že v jasné měsíční záři je má lampa celkem zbytečná, přesto jsem však byl rád, že ji mám s sebou, protože ze všeho kolem čpěla tak hrůzná opuštěnost, až mě mrazilo u srdce a chvěly se mi nervy. Určitě to však bylo lepší než pobývat sám v pokojích, které jsem se pro přítomnost hraběte naučil nenávidět. Pokusil jsem se trochu utišit své nervy a za chvíli mě začal zaplavovat pocit sladkého klidu. A tak tu sedím u malého dubového stolku, k němuž si za starých dob nejspíš sedala krásná dáma, aby v hlubokém zamyšlení a s mnoha ruměnci skládala milostné psaníčko plné chyb, a zapisuji si do deníku těsnopisem všechny události, které se mi přihodily od doby, kdy jsem ho zavřel. Žijeme přece v úplně moderním devatenáctém století! A přesto, pokud mě ovšem neklamou smysly, chovala a chovají uplynulá staletí určité specifické síly, které pouhá „modernost“ nemůže zničit.
 
-  
+</section>
+
+<section>
 
 _Později_ – _ráno 16. května._ – Bůh mě zachovej při zdravém rozumu, vždyť mi už nic jiného nezbývá! Bezpečí a vědomí bezpečí patří minulosti. Dokud tu jsem, mohu doufat pouze v jedno: že nezešílím, nejsem-li ovšem šílený už teď. A pokud tedy jsem při smyslech, pak určitě je k zešílení představa, že ze všeho odporného, co na mě v tomto hnusném zámku číhá, znamená pro mne hrabě to nejmenší nebezpečí; že pouze u něho mohu hledat klid, i když jenom na tak dlouho, dokud mu budu užitečný. Velký Bože! Milosrdný Bože! Dej, abych si zachoval rozvahu, jinak mi opravdu hrozí šílenství. Teď mi teprve začínají být jasné některé věci, které mě dříve mátly. Až dosud jsem nikdy vlastně nevěděl, co Shakespeare myslel, když Hamletovými ústy pravil:
 
@@ -95,3 +107,5 @@ Z tohoto opojení mě však jako blesk vytrhl jiný vjem. Uvědomil jsem si, ž
 „A to máme dnes v noci vyjít naprázdno?“ otázala se jedna z nich a s hlubokým smíchem ukázala na pytel, který hrabě odhodil na podlahu; hýbal se, jako by v něm bylo něco živého. Hrabě místo odpovědi kývl hlavou. Jedna z žen přiskočila a pytel otevřela. Pokud mě nezklamal sluch, ozval se vzdech a tiché zakvílení jakoby napůl zadušeného dítěte. Ženy se shlukly kolem pytle. Byl jsem na smrt vyděšen; když jsem však vzhlédl, zmizely, a s nimi i hrůzný pytel. Blízko nebyly žádné dveře a kolem mne nemohly proklouznout bez povšimnutí. Prostě se snad rozplynuly v měsíčních paprscích a vytratily se oknem. Venku jsem totiž jen na malou chvilku zahlédl jakoby rozmazané mlhavé postavy, a pak úplně zmizely.
 
 Přemohla mě hrůza a já omdlel.
+
+</section>

@@ -3,6 +3,8 @@ title: Kapitola 13
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK Dr. SEWARDA
 
 _(Pokračování)_
@@ -138,7 +140,9 @@ Tu noc jsem spal na pohovce v Arthurově pokoji. Van Helsing vůbec neulehl. P�
 
 ### DENÍK MINY HARKEROVÉ
 
-  
+</section>
+
+<section>
 
 _22\. září._ – Ve vlaku do Exeteru. Jonathan spí. Připadá mi, jako bych naposledy zapisovala své zážitky teprve včera, jenže kolik se toho zatím událo! Tehdy jsem byla ve Whitby, přede mnou celý svět, Jonathan v cizině a žádné zprávy od něho; a teď jsem vdána za Jonathana, Jonathan je zámožný právní zástupce, majitel vlastní firmy, pan Hawkins je mrtev a pochován a Jonathana stihla nová rána, která mu může ublížit. Jednoho dne se mě na to třeba bude vyptávat. A teď všechno zapsat! V těsnopise už zase trochu pokulhávám – důkaz, co může člověku natropit nečekané štěstí – určitě tedy neuškodí, když se v něm zase začnu trochu cvičit.
 
@@ -164,7 +168,9 @@ Kolik smutku v těch několika slovech! Ubohá paní Westenrová! Ubohá Lucy! 
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _22\. září._ – Je po všem. Arthur se vrátil domů a odvedl s sebou Quinceyho Morrise. Ten Quincey je opravdu báječný chlapík!
 
@@ -199,7 +205,9 @@ FINIS.
 ### „WESTMINSTER GAZETTE“, 25. září  
 HAMPSTEADSKÁ ZÁHADA
 
-  
+</section>
+
+<section>
 
 V okolí Hampsteadu došlo v poslední době k řadě událostí nápadně připomínajících případy, které novináři označovali titulky „Kensingtonský postrach“ nebo „Žena s dýkou“ či „Žena v černém“. Za poslední dva tři dny se několikrát stalo, že se malé děti vzdálily z domova nebo dlouho nevracely domů z luk, kde si hrály. Ve všech těchto případech šlo o děti, které byly příliš malé, než aby mohly uvést opravdu spolehlivé důvody, ale všechny shodně se vymlouvaly na to, že byly s „krvavou dámou“. Ztrácely se vždy pozdě k večeru a při dvou příležitostech byly nalezeny až druhého dne časně ráno. V okolí se všeobecně předpokládá, že první dítě, po němž byla sháňka, zřejmě udalo jako důvod nepřítomnosti, že je „krvavá dáma“ pozvala na procházku, a ostatní děti tuto výmluvu převzaly a při vhodné příležitosti použily. Je to tím vysvětlitelnější, že právě teď si tamní drobotina nejraději hraje hru, kde se jeden druhého snaží úskočně někam vylákat. Jeden dopisovatel nám píše, že tihle caparti, vydávající se za „krvavou dámu“, jsou opravdu k smíchu. Podle jeho názoru by se mnohý z našich karikaturistů mohl zdokonalit v umění vyhmátnout ironii groteskních situací, kdyby tam mohl srovnat skutečnost s fantazií. A obecným podstatám lidské povahy jen odpovídá, že nejoblíbenější rolí těchto hrátek pod širým nebem je právě role „krvavé dámy“. Náš dopisovatel prostoduše prohlašuje, že ani Ellen Terryová by nemohla působit tak půvabně, jak to některá z oněch děcek předstírají nebo si dokonce namlouvají.
 
@@ -209,7 +217,9 @@ Celá záležitost má ovšem i svou vážnou stránku, protože některé dět
 Zvláštní vydání  
 POSTRACH HAMPSTEADU
 
-  
+</section>
+
+<section>
 
 Další dítě zraněno
 
@@ -219,3 +229,5 @@ _„Krvavá dáma“_
   
 
 Právě jsme dostali zprávu, že další dítě, zmizelé minulou noc, bylo nalezeno teprve pozdě ráno pod hlodašovým keřem na shooters­hillském úbočí Hampsteadských luk, tedy na místě nejméně vyhledávaném. Dítě má stejné drobné zranění na krku, jaká byla zjištěna u ostatních případů, bylo velmi zesláblé a vypadalo značně vyčerpaně. Když se poněkud zotavilo, vyprávělo již otřepanou historku o tom, že je odlákala „krvavá dáma“.
+
+</section>

@@ -3,9 +3,13 @@ title: Kapitola 6
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK MINY MURRAYOVÉ
 
-  
+</section>
+
+<section>
 
 _24\. června. Whitby._ – Lucy mě čekala u vlaku. Vypadala půvabněji a roztomileji než jindy. Odjely jsme nahoru k domu na Crescentu, kde mají pronajaty pokoje. Je tam překrásně. Říčka Esk protéká hlubokým údolím, které se směrem k přístavu rozšiřuje. Přes údolí se klene mohutný viadukt na vysokých pilířích, a dívá-li se jimi člověk na přístav, zdá se vzdálenější, než je ve skutečnosti. Údolí kypí sytou zelení a je tak těsné, že z výšin po obou stranách je člověk úplně přehlédne, pokud ovšem není tak blízko, aby viděl dolů. Všechny domy starého města – na odvrácené straně – mají červené střechy a vypadají, jako by byly nějak nakupeny jeden na druhém, podobně jako vypadá na obrázcích Norimberk. Přímo nad městem se tyčí zřícenina Whitbyského opatství, které bylo zpustošeno Dány a v němž se odehrává ta scéna „Marmionu“, v níž zazdívají dívku. Je to překrásná zřícenina, značně rozlehlá, s mnoha půvabnými a romantickými zákoutími; podle jakési pověsti se v jednom z oken zjevuje bílá paní. Mezi zříceninou a městem stojí další kostel, farní, obklopený kolem dokola velkým hřbitovem, plným náhrobních kamenů. To je podle mého názoru nejpůvabnější místo ve Whitby; leží totiž přímo nad městem a poskytuje dokonalou vyhlídku na přístav a na celý záliv až tam, kde do moře ční mys Kettleness. Svah nad zálivem je tak srázný, že se půda místy sesula a některé hroby byly zničeny. Na jednom místě dokonce přečnívají náhrobní kameny nad písčitou cestu, vedoucí hluboko pod nimi. Na hřbitově jsou pěšinky a lavičky, lidé tam chodí a posedávají tam celý den, kochají se krásnou vyhlídkou a dávají se ovívat svěžím vánkem. Sem budu určitě často chodit a pracovat. I teď tady odpočívám s knihou na klíně a naslouchám hovoru tří starců, sedících nedaleko mne. Zřejmě nemají celý den nic jiného na práci než tady nahoře sedět a povídat si.
 
@@ -23,7 +27,9 @@ Usoudila jsem, že bych se od něho mohla leccos zajímavého dozvědět, a tak
 
 Odbelhal se a já ho sledovala pohledem, jak v mezích možností spěchá dolů po schodech. Ty schody jsou pro Whitby typické. Vedou z města ke kostelu, je jich několik set – ani nevím kolik – a vinou se nahoru v ladném oblouku a s tak mírným stoupáním, že i pro koně by bylo snadné vyjít nahoru. Zřejmě měly původně něco společného s opatstvím. Půjdu také domů. Lucy odešla s matkou k nějakým známým, a protože šlo pouze o zdvořilostní návštěvy, nešla jsem s sebou. Teď už budou jistě doma.
 
-  
+</section>
+
+<section>
 
 _1\. srpna_. – Asi před hodinou jsem si sem vyšla s Lucy a hezky jsme si popovídaly s mým starým přítelem a jeho dvěma druhy, kteří sem za ním vždycky přicházejí. Je zřejmě jejich vševědem a v mladších letech určitě býval velmi panovačný. Ani teď nepřipouští žádnou námitku a s každým se hádá. Když se mu nepodaří ostatní přesvědčit, vysmívá se jim a jejich mlčení potom pokládá za souhlas se svými názory. Lucy vypadala rozkošně ve svých bílých tenisových šatech; za zdejšího pobytu se krásně opálila. Všimla jsem si, že jak jsme se usadily, už tu byl i ten děda a hned si k Lucy přisedl. Lucy je moc milá k starým lidem; myslím, že se všichni do ní okamžitě zamilují. I můj děda podlehl a vůbec jí neodporoval, zato mně to splácel dvojnásobně. Přiměla jsem ho, aby se rozhovořil o pověstech, a on k nám okamžitě pronesl hotové kázání. Snad jsem si je dobře zapamatovala; pokusím se je reprodukovat:
 
@@ -59,29 +65,41 @@ Nevěděla jsem, co říci, ale Lucy vstala a změnila námět rozhovoru slovy:
 
 Lucy a já jsme ještě chvíli zůstaly sedět a před námi se rozprostíralo tolik krásy, že jsme se vzaly za ruce. Lucy mi znovu pověděla všechno o Arthurovi a nastávající svatbě. Trochu mě to rozesmutnělo, nemám totiž už celý měsíc zprávy od Jonathana.
 
-  
+</section>
+
+<section>
 
 _Téhož dne._ – Vyšla jsem si sem nahoru sama, jsem totiž moc smutná. Zase žádný dopis. Doufám, že se Jonathanovi nic nestalo. Právě odbila devátá. Pode mnou ve městě všude vzplanula světla v řadách, kde jsou ulice, jinde rozházeně. Svítí souběžně s Eskem a mizejí v záhybu údolí. Na levé straně mi brání ve vyhlídce černý hřeben střechy starého domu vedle opatství. V polích daleko ze mnou bečí ovce a jehňata a na dlažbě silnice pode mnou se rozléhá klapot oslích podkov. Kapela na molu hraje falešně rytmický valčík a kousek dál po nábřeží se v jedné postranní uličce koná pobožnost Armády spásy. Kapely se vzájemně neslyší, jenže já tady nahoře je vidím a slyším obě. Kde asi je Jonathan a zdalipak na mě myslí? Kéž by byl zde!
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _5\. června._ – Čím víc Renfielda poznávám, tím je jeho případ zajímavější. Některé vlastnosti má značně vyvinuty: sobeckost, tajnůstkářství a cílevědomost. Rád bych přišel na to, co je předmětem jeho cílevědomosti. Zdá se, že má nějaký vlastní promyšlený plán, dosud však nevím, jaký. Jeho nejlepší vlastností je láska ke zvířatům, i když v ní kupodivu dochází k tak nečekaným obratům, že si občas říkám, že je vlastně abnormálně krutý. Má nejrůznější koníčky. Teď právě je to chytání much. Má jich už takové množství, že jsem mu to musel sám vytknout. K mému překvapení nedostal záchvat zuřivosti, jak jsem čekal, ale vzal výtku vážně na vědomí. Chvíli přemýšlel a potom řekl: „Povolíte mi tři dny? Všechny je odstraním.“ Pochopitelně jsem souhlasil. Musím ho sledovat.
 
-  
+</section>
+
+<section>
 
 _18\. června._ – Teď zase upnul mysl k pavoukům a ve velké krabici chová několik pořádně velkých exemplářů. Krmí je svými mouchami, jejichž počet již znatelně poklesl, ačkoli používá poloviny svého jídla k tomu, aby zvenčí nalákal do pokoje další mouchy.
 
-  
+</section>
+
+<section>
 
 _1\. července._ – Jeho pavouci jsou teď už stejně na obtíž jako jeho mouchy a dnes jsem mu oznámil, že se jich musí zbavit. Mé rozhodnutí přijal se smutnou tváří, a tak jsem mu řekl, že alespoň některé z nich tedy musí odstranit. Radostně souhlasil a já mu povolil stejnou lhůtu jako předtím. Jak jsem byl u něho v pokoji, velmi se mi zhnusil. Dovnitř vlétla masařka, vypasená na mršině, a on ji chytil, několik vteřin ji vzrušeně držel mezi ukazováčkem a palcem, a než jsem pochopil, co chce udělat, strčil ji do úst a snědl. Vyčinil jsem mu, ale on mi klidně namítl, že je to velmi chutné a velmi zdravé; že je to život, plný život, a dává to život i jemu. To mi vnuklo myšlenku, prozatím ovšem ještě zcela mlhavou. Musím sledovat, jak se bude zbavovat svých pavouků. Zřejmě se v mysli důkladně obírá nějakým problémem; má totiž malý zápisník a neustále si do něho dělá poznámky. Celé stránky jsou popsány spoustou čísel, většinou jednotlivých číslic, sečítaných po kolonkách, a výsledky jsou znovu sečteny v kolonkách, jako by dělal, jak říkají účtaři, nějakou bilanci.
 
-  
+</section>
+
+<section>
 
 _8\. července._ – V jeho šílenství je jakási soustavnost a má nejasná představa začíná dostávat přesnější tvar. Brzy však bude reálná, a pak budeš muset, mé podvědomí, ustoupit svému vědoucímu bratru. Několik dní jsem ke svému příteli nezašel, abych tak poznal, zda nastala nějaká změna. Vše zůstalo při starém až na to, že se rozloučil s některými svými miláčky a obstaral si nové. Podařilo se mu pořídit si vrabce a trochu ho ochočil. Není těžké uhádnout, čím – pavouků je už podstatně méně! Ty zbylé ovšem dále vydatně krmí mouchami, které láká do pokoje vlastním jídlem.
 
-  
+</section>
+
+<section>
 
 _19\. července._ – Děláme pokroky. Můj přítel má teď úplnou kolonii vrabců a jeho mouchy a pavouci jsou už skoro všichni _decimováni_. Když jsem k němu vešel, přiběhl ke mně a prohlásil, že mě chce požádat o velkou laskavost – o hodně, hodně velkou laskavost; přitom se ke mně lísal jako pes. Zeptal jsem se ho, oč jde, a on mi se vzrušeným výrazem řekl:
 
@@ -91,19 +109,27 @@ Taková žádost mě celkem nepřekvapila, všiml jsem si totiž, jak mu jeho mi
 
 „Ano, moc bych chtěl kočku! Bál jsem se, že byste mi kočku nepovolil, proto jsem poprosil jen o kotě. Koťátko by mi přece nikdo neodmítl, že?“ Zavrtěl jsem hlavou a prohlásil, že to zatím nejde, že však o tom budu přemýšlet. Obličej se mu protáhl a z jeho výrazu jsem vycítil nebezpečí. Šlehl totiž po mně pohledem plným zášti a potměšilosti – jako by mě chtěl zabít. Je to jasně potenciální homicidní maniak. Teď ho budu s tou jeho touhou napínat na skřipec, tak si ho vyzkouším a uvidím, co z toho vzejde; potom budu vědět víc.
 
-  
+</section>
+
+<section>
 
 _Deset hodin večer._ – Znovu jsem k němu zašel a zastihl ho, jak zamyšleně sedí v koutě. Sotva jsem vstoupil, vrhl se přede mne na kolena a úpěnlivě žadonil, abych mu povolil kočku, závisí prý na tom jeho spása. Pochopitelně jsem neustoupil a jeho prosbu jsem odmítl. Nato se beze slova otočil a hryzaje si nehty sedl si zpět do kouta, kde jsem ho předtím našel. Půjdu se na něho podívat časně ráno.
 
-  
+</section>
+
+<section>
 
 _20\. července._ – Navštívil jsem Renfielda časně ráno, dřív než se ošetřovatel vydal na obchůzku. Našel jsem ho vzhůru, broukal si písničku a právě sypal uspořený cukr na okno. Zřejmě se zase pouštěl do lapání much; byl veselý a dobře naladěn. Rozhlédl jsem se po ptácích, a když jsem je nikde nespatřil, zeptal jsem se ho, kde jsou. Ani se neobrátil a odpověděl, že všichni ulétli. V pokoji bylo roztroušeno pár peříček a na polštáři byla kapka krve. Neřekl jsem ani slovo, odešel jsem a nařídil ošetřovateli, aby mi hlásil, kdyby na něm během dne zpozoroval něco zvláštního.
 
-  
+</section>
+
+<section>
 
 _Jedenáct hodin dopoledne._ – Ošetřoval mi právě oznámil, že Ren­fieldovi se udělalo velmi nevolno a zvrátil spoustu peříček. „Podle mého názoru, pane doktore,“ řekl, „své ptáčky snědl; prostě je pochytal a snědl syrové!“
 
-  
+</section>
+
+<section>
 
 _Jedenáct hodin večer._ – Dal jsem dnes večer Renfieldovi silné narkotikum, aby tvrdě spal, a vzal si jeho zápisník, abych si ho prohlédl. Myšlenka, která mi poslední dobou vířila v mozku, se zformovala a má domněnka se ukázala opodstatněnou. Můj homicidní ma­niak patří do zvláštní skupiny. Budu muset pro něj vynalézt novou klasifikaci a zatím ho budu nazývat zoofágním (život požírajícím) maniakem; jeho touhou je absorbovat co největší počet životů a tohoto cíle se snaží dosáhnout kumulativním způsobem. Dával mnoho much jednomu pavouku a mnoho pavouků jednomu ptáku, a potom chtěl, aby kočka sežrala mnoho ptáků. Jak by byl postupoval dále? Skoro by stálo za to experiment dokončit. Mít dostatečný důvod, dalo by se to provést. Lidé se vysmívali vivisekci, a podívejme se dnes na její výsledky! Proč by neměla věda dosáhnout pokroku ve svém nejobtížnějším a nejdůležitějším úseku – v poznání mozku? Odhalit tajemství alespoň jedné takové mysli – mít v rukou klíč k představivosti alespoň jednoho šílence –, pak bych dokázal dovést svůj vlastní vědní obor na takovou výši, ve srovnání s níž by Burdon-Sandersonova fyziologie nebo Ferrierova znalost funkcí mozkových nebyly ničím! Mít jenom dostatečný důvod! Nesmím na to tolik myslet, jinak nakonec podlehnu pokušení; vyhovující důvod by totiž mohl u mne přivodit zvrat, vždyť nakonec třeba mám i já podobně výjimečný mozek, ne?
 
@@ -115,19 +141,27 @@ Kdybych jen mohl mít tak silný důvod jako můj ubohý šílený přítel, tak
 
 ### DENÍK MINY MURRAYOVÉ
 
-  
+</section>
+
+<section>
 
 _26\. července._ – Mám starosti, a proto mě uklidňuje psaní poznámek; je to, jako bych si něco šeptala a současně tomu naslouchala. A navíc v sobě těsnopisné značky skrývají něco, co je odlišuje od písma. Jsem nešťastná kvůli Lucy a kvůli Jonathanovi. Už dlouho jsem od Jonathana nedostala zprávu a velmi mě to zneklidňovalo; ale včera mi milý pan Hawkins, který je vždycky tak laskavý, poslal Jonathanův dopis. Napsala jsem mu, jestli nemá od něho zprávu, a on mi vzkázal, že právě obdržel přiložený list. Byl napsán na zámku Dracula a obsa­huje jednu řádku, v níž mi Jonathan oznamuje, že se právě vydává na cestu domů. Tohle není vůbec Jonathanovi podobné, nechápu to a jsem z toho celá nesvá. A Lucy, která je jinak tak zdravá, ke všemu trpí poslední dobou zase starým somnambulismem. Její matka mě na to upozornila a rozhodly jsme se, že budu každou noc zamykat dveře našeho pokoje. Paní Westenrová má totiž utkvělou představu, že náměsíčníci vždycky chodí po střechách nebo se procházejí na samém kraji skal, pak se náhle probudí a zřítí se dolů se zoufalým výkřikem, který se rozlehne kolem dokola. Chudinka si pochopitelně dělá o Lucy starosti, a řekla mi, že její manžel, Lucyin tatínek, měl stejný návyk. Probouzel se v noci, oblékl se a vyšel ven, pokud mu v tom někdo nezabránil. Lucy se má vdávat na podzim, a už teď uvažuje o šatech a o zařízení domu. Chápu ji, dělám přece totéž, jenže Jonathan a já začneme svůj život velmi jednoduše a budeme mít co dělat, abychom vyšli. Pan Holmwood – vlastně ctihodný pan Arthur Holmwood, jediný syn lorda Godalminga – sem velmi brzy přijede, jen co bude moci odjet z Londýna, protože zdravotní stav jeho otce není právě nejlepší. Myslím, že drahoušek Lucy počítá minuty do jeho příjezdu. Chce ho vyvést nahoru k lavici na hřbitovním útesu a ukázat mu krásy Whitby. Nejspíš ji znervózňuje to čekání; až Arthur přijede, bude Lucy úplně v pořádku.
 
-  
+</section>
+
+<section>
 
 _27\. července._ – Žádné zprávy od Jonathana. Začínám se o něho dost strachovat, i když nevím proč. Ale strašně bych si přála, aby napsal, aspoň jedinou řádečku. Lucy trpí somnambulismem víc než jindy, každou noc přechází po pokoji a tím mě probouzí. Naštěstí je tak teplo, že se nemůže nachladit; mě ovšem mé obavy a neustálé buzení začínají zmáhat, takže se sama stávám nervózní a trpím nespavostí. Jinak se Lucy bohudík těší dobrému zdraví. Pan Holm­wood byl náhle odvolán ke svému otci, který těžce onemocněl. Lucy mrzí, že jejich setkání se odkládá, ale na její vzhled to nijak nepůsobí; trošičku zesílila a tváře jí jen kvetou. Nevypadá už tak chudokrevně jako dřív. Kéž by to tak zůstalo!
 
-  
+</section>
+
+<section>
 
 _3\. srpna._ – Uplynul další týden a stále žádné zprávy od Jonathana; kdyby napsal panu Hawkinsovi, ten by mi dal jistě vědět. Ach, doufám, že není nemocen. Byl by určitě napsal. Občas se podívám na jeho poslední dopis, ale nijak mě neuklidňuje. Neodpovídá jeho stylu, i když je to určitě jeho rukopis. O tom nelze pochybovat. Minulý týden se už Lucy tak často nebudila, zato je nějak podivně ve střehu, až tomu nerozumím; připadá mi, jako by mě sledovala i ve spánku. Zkouší dveře, a když zjistí, že jsou zamčené, hledá po celém pokoji klíče.
 
-  
+</section>
+
+<section>
 
 _6\. srpna._ – Další tři dny a stále žádné zprávy. Tohle napětí začíná být nesnesitelné. Kdybych věděla, kam psát nebo kam odjet, hned by mi bylo líp; jenže od posledního dopisu nikomu od Jonathana žádná zpráva nedošla. Musím se jen modlit k Bohu, aby mě obrnil trpělivostí. Lucy je popudlivější než jindy, jinak je však v pořádku. Minulou noc to vypadalo dost hrozivě a rybáři říkají, že nás čeká bouře. Snad se mi podaří sledovat její průběh a naučit se rozpoznávat jednotlivé povětrnostní úkazy. Dnes je zataženo a ve chvíli, kdy píši, je slunce skryto za hustými mraky vysoko nad Kettle­nessem. Všechno je šedé – kromě zelené trávy, která se od šedi odráží jako smaragd; šedé jsou drsné skály; nad šedým mořem, do něhož jako prsty zasahují písečné ostrohy, visí šedé mraky, na okrajích ozářené sluncem. Mořské vlny se převalují nad mělčinami a písčinami a jejich šum tlumí šedé cáry mlhy, postupující do vnitro­zemí. Obzor mizí v šedé mlze. Všechno je obrovské: mraky jsou nakupeny jako obří skály a nad mořem se rozléhá hukot, znějící jako předzvěst zkázy. Sem tam je možno na pobřeží zahlédnout temné postavy, čas od času napůl ponořené v mlze a podobající se „mužům chodícím jako stromy“. Rybářské čluny plují o závod domů a pohupují se na vzdutém moři, naklánějíce se až po odtokové otvo­ry, jak pospíchají do přístavu. Právě přichází pan Swales. Míří přímo ke mně a podle způsobu, jakým smekl klobouk, usuzuji, že má řečnou náladu…
 
@@ -138,3 +172,5 @@ Dojalo mě, jak velmi se ten starý chudák změnil. Když si ke mně sedl, řek
 „Bojím se, má milá, že sem vás asi všema těma vošklivejma věcma, co sem minulej tejden napovídal vo mrtvejch a podobně, pořádně vystrašil. Já to tak nemyslel a chci, abyste si to zapamatovala, až tu nebudu. My starý lidi, kterejm už zdraví neslouží a který už jednou nohou stojíme v hrobě, neradi na to myslíme a nechcem mít strach ze smrti. Proto sem si taky z toho dělal šoufky, abysem trošku potěšil svý starý srdce. Ale, ať vás Pánbu miluje, slečinko, já se ani trochu nebojím smrti, jenom nechci umřít, dokaď to nemusí bejt. Stejně se můj čas už blíží, dyk sem starej a málokomu se podaří, aby se dožil sta let. Má smrt je už tak blízko, že slyším, jak tý starý babě sviští kosa. Za ňákej den zatroubí anděl smrti na pozoun a zavolá mě. Nebuďte z toho smutná, má milá,“ konejšil mě, protože uviděl, že pláči, „dyby třeba přišel tuhle noc, vůbec by mě nenapadlo vodmítnout jeho výzvu. Dyk život je třeba vlastně čekání na něco úplně jinýho, než co sme dělali, a smrt je možná to jediný, nač můžem mít spoleh. Ale já sem spokojenej, má milá, protože si už pro mě de a de si rychle. Třeba je v tom větru, co je tam nad mořem a co nese s sebou zkázu a ztroskotání a žal a smutný srdce. Podívejte! Podívejte!“ náhle zvolal. „V tom větru a v tý mlze je něco, co zní a vypadá a chutná a zapáchá jako smrt. Je to ve vzduchu; cejtím, jak se to blíží. Bože, dej, abych nebyl smutnej, až mě k sobě zavoláš!“ Stařec oddaně zdvihl paže a smekl. Pohyboval ústy, jako by se modlil. Po několika minutách ticha vstal, potřásl mi rukou, pokřižoval mě, rozloučil se se mnou a odbelhal se. To všechno mě dojalo a velmi rozrušilo. Byla jsem ráda, když kolem mne přešel pobřežní strážce s dalekohledem v podpaždí. Zastavil se, aby si se mnou jako obvykle popovídal, ale po celou dobu nespouštěl zrak z jakési záhadné lodi.
 
 „Já vám se v ní nevyznám,“ řekl. „Podle vzhledu to je ruská loď, ale tak divně se zmítá! Vůbec neví, co chce; zřejmě vidí, že se blíží bouřka, ale nemůže se rozhodnout, jestli má vyplout na sever na volné moře, nebo přistát tady. Jen se podívejte! Kormidlují ji set­sakra­mentsky, vždyť vůbec nedbá ruky držící kormidlo; při každém poryvu větru se totiž otáčí! No, zítra touhle dobou už o ní budeme vědět víc.“
+
+</section>

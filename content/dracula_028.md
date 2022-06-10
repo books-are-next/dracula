@@ -3,9 +3,13 @@ title: Kapitola 23
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _3\. října._ – Čekali jsme na lorda Godalminga a Quinceyho. Čas se příšerně vlekl. Profesor nám raději nedopřával klidu a neustále nás něčím zaměstnával. Z postranních pohledů, které chvílemi vrhal na Harkera, jsem pochopil jeho blahodárný záměr. Chudák Harker byl tak zdrcen, až mi to nahánělo hrůzu. Ještě včera večer to byl veselý, spokojeně vyhlížející tmavovlasý muž s odhodlanou mladistvou tváří, plný energie. Dnes je z něho zdrcený, rozrušený stařec, jehož bílé vlasy jsou v souladu s vpadlýma žhnoucíma očima a obličejem rozrytým vráskami bolesti. Jeho energie však zůstala nedotčena, dokonce plápolá jako živý plamen. V tom snad tkví jeho spása, pokud ovšem všechno půjde hladce; tak se totiž přenese přes období zoufalství a celkem lehce se vrátí do koloběhu každodenního života. Chudák! Namlouval jsem si, jak těžký je můj úděl, ale jeho…! Tohle profesor velmi dobře ví a všemožně se snaží zaměstnat jeho mysl. To, co právě vyprávěl, je za daných okolností neobyčejně zajímavé. Pokud si vzpomínám, říkal:
 
@@ -79,11 +83,15 @@ Potom, dřív než se odebrali na lože, zabezpečil profesor jejich pokoj proti
 
 ### DENÍK JONATHANA HARKERA
 
-  
+</section>
+
+<section>
 
 _3.–4. října, krátce před půlnocí._ – Málem jsem myslil, že včerejšek vůbec neskončí. V mé touze po spánku se skrývala jakási slepá naděje, že najdu všechno změněné, až se probudím, a že teď již mohou nastat pouze změny k lepšímu. Před rozchodem jsme se ještě dohadovali o dalším postupu, nedospěli jsme však k výsledku. Jediné, co jsme věděli, bylo, že někde zbývá ještě jedna bedna s hlínou a že toliko hrabě ví, kde. Jestli se rozhodne ukrýt se v ní, může nás dlouhá léta vodit za nos, a přitom ta představa je příliš strašná, než abych se na ni odvážil jen pomyslit! Vím pouze jedno: pokud vůbec je na světě nějaká dokonalá žena, je to můj těžce zkoušený miláček. Miluji ji tisíckrát víc za ten včerejší sladký soucit, v jehož odlesku se má nenávist k netvoru jeví ještě odporněji. Bůh jistě nepřipustí, aby svět byl o tak skvělého člověka ochuzen. To je má jediná naděje. Všichni se teď ženeme k úskalí a jedinou naší spásou je kotva. Mina bohudík spí, a spí beze snů. Při představě všech těch strašných vzpomínek mě děsí, jak hrůzné sny by mohla mít. Tak klidná ještě nebyla od západu slunce. Tehdy se jí na chvíli rozhostil na tváři klidný výraz, podobný příchodu jara po březnových vichrech. Myslel jsem si, že výraz klidu vytvářejí červánky zapadajícího slunce, teď se ovšem domnívám, že v něm byl skryt hlubší význam. Nejsem ospalý, ačkoli jsem unaven – k smrti unaven. Musím se však pokusit o spánek; musím přece pamatovat na zítřek a nebudu mít klid, dokud…
 
-  
+</section>
+
+<section>
 
 _Později._ – Zřejmě jsem usnul. Probudila mě totiž Mina, která seděla s vyděšeným výrazem na lůžku. Nestáhli jsme záclony, takže v pokoji bylo poměrně dobře vidět. Mina mi s varovným posunkem přikryla dlaní ústa a pošeptala mi do ucha:
 
@@ -97,7 +105,9 @@ Jeho výraz a posunek nepřipouštěly námitek, a tak jsem se vrátil a pov�
 
 „Díky Bohu za ty dobré, statečné muže!“ a s povzdechem klesla nazpět a usnula. Píši to, protože nejsem ospalý, ale musím se znovu nutit usnout!
 
-  
+</section>
+
+<section>
 
 _4\. října, ráno._ – Mina mě v noci probudila ještě jednou. Zřejmě jsme oba spali už dlouho, protože v šeru přicházejícího jitra se ostře rýsovaly obdélníky okna a plynový plamen se jen kmital a vůbec nešířil jas. Mina mě rychle vyzvala:
 
@@ -168,3 +178,5 @@ Po snídani opakovala Mina svou otázku. Profesor na ni chvíli odevzdaně hled�
 „Protože on může žíti po staletí,“ odvětil vážným hlasem, „a vy jste jen smrtelná žena. Teď, od chvíle, co vám vtiskl na hrdlo toto znamení, může býti každá ztracená hodina osudná!“
 
 Mina se nachýlila a kácela se v mdlobách k zemi. V posledním zlomku vteřiny jsem ji zachytil.
+
+</section>

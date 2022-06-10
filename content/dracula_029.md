@@ -3,10 +3,14 @@ title: Kapitola 24
 contentType: prose
 ---
 
+<section>
+
 ### FONOGRAFICKÝ DENÍK Dr. SEWARDA,  
 NAMLUVENÝ VAN HELSINGEM
 
-  
+</section>
+
+<section>
 
 Vzkaz pro Jonathana Harkera.
 
@@ -16,7 +20,9 @@ VAN HELSING
 
 ### DENÍK JONATHANA HARKERA
 
-  
+</section>
+
+<section>
 
 _4\. října._ – Přečetl jsem Mině Van Helsingův fonografický vzkaz a to ubohé děvče úplně pookřálo. Jistota, že hrabě odplul z Anglie, jí dodala útěchu, a útěcha je pro ni posilou. Já osobně skoro ani nemohu uvěřit, že už nestojíme tváří v tvář tomu strašnému nebezpečí. Dokonce mé hrůzné zážitky v zámku Dracula mi připadají jako dávno zapomenutý sen. Tady ve svěžím podzimním vzduchu, v jasném svitu slunce…
 
@@ -26,7 +32,9 @@ Den mi ubíhá rychleji, než jsem si kdy pomyslil. Už jsou tři hodiny.
 
 ### DENÍK MINY HARKEROVÉ
 
-  
+</section>
+
+<section>
 
 _5\. října, 5 hodin odpoledne_. – Schůzka, na níž dr. Van Helsing podal zprávu. Přítomni: profesor Van Helsing, lord Godalming, dr. Seward, pan Quincey Morris, Jonathan Harker, Mina Harkerová.
 
@@ -50,7 +58,9 @@ Když dr. Van Helsing domluvil, zeptala jsem se ho, zda hrabě určitě zůstal 
 
 Po společné úradě bylo dohodnuto, že dnes večer zatím nic definitivně nerozhodneme; že se na všechno vyspíme a že se pokusíme každý dojít k vlastním závěrům. Sejdeme se opět zítra při snídani a tam si sdělíme, k čemu jsme dospěli, a rozhodneme o dalším postupu.
 
-  
+</section>
+
+<section>
 
 Dnes v noci se cítím báječně klidná a odpočatá. Jako bych se zbavila nějaké strašné tíže. Snad…
 
@@ -58,7 +68,9 @@ Ani jsem to nedomyslila, nemohla jsem; v zrcadle jsem zahlédla rudé znamení 
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _5\. října._ – Všichni jsme záhy vstali a myslím, že každému z nás spánek prospěl. Při snídani vládla mnohem lepší nálada, než jsme se domnívali, že je vůbec ještě někdy možné.
 
@@ -68,7 +80,9 @@ I teď, kdy vážně o všem uvažuji, skoro nemohu pochopit, že příčina c
 
 Van Helsing se dostaví do pracovny chvíli předtím, než přijdou ostatní. Pokusím se s ním o tom promluvit.
 
-  
+</section>
+
+<section>
 
 _Později._ – Po profesorově příchodu jsme probírali situaci. Postřehl jsem, že ho něco tíží a že by o tom chtěl se mnou promluvit, ale stejně jako já s tím otálel. Když jsme tak chvíli chodili okolo celé věci jako kočka kolem horké kaše, vyhrkl:
 
@@ -82,7 +96,9 @@ _Později._ – Po profesorově příchodu jsme probírali situaci. Postřehl j
 
 Čas naší porady se už blíží. Van Helsing odešel, aby se prý připravil na ni i na svou bolestnou úlohu. Řekl bych však, že pravou příčinou jeho odchodu byla touha pomodlit se o samotě.
 
-  
+</section>
+
+<section>
 
 _Později._ – Hned jak jsme se sešli, jsme si s Van Helsingem oddychli. Paní Harkerová vzkázala po manželovi, že se našeho setkání nezúčastní; pokládá prý za vhodnější, budeme-li moci své akce projednávat sami bez ní; její přítomnost by nám prý mohla vadit. Profesor i já jsme na sebe na okamžik pohlédli a oběma se nám podstatně ulevilo. Osobně se domnívám, že pokud si paní Harkerová sama uvědomila nebezpečí, odvrátila tím od sebe hodně bolestí i soužení. Za těchto okolností jsem si s profesorem vyměnil souhlasné pohledy a s prstem na rtech jsme se shodli, že o svém podezření pomlčíme, dokud si o něm nepromluvíme sami. Ihned jsme se pustili do příprav válečného plánu. Napřed nám Van Helsing zhruba nastínil fakta:
 
@@ -100,11 +116,15 @@ _Později._ – Hned jak jsme se sešli, jsme si s Van Helsingem oddychli. Pan
 
 ### DENÍK JONATHANA HARKERA
 
-  
+</section>
+
+<section>
 
 _5\. října, odpoledne_. – Dnes ráno jsem měl po naší schůzce dlouhou dobu hlavu jako vymetenou. Nové fáze vývoje nechávají mou mysl v tak otupeném stavu, že v ní není místa pro činorodé myšlení. Minino rozhodnutí nezúčastnit se porady mě udivilo, a protože jsem se s ní nehodlal přít, mohl jsem se o jejích důvodech pouze dohadovat. Nic jsem zatím nevyzkoumal. Překvapil mě i způsob, jakým to ostatní přijali; když jsme o tom mluvili naposledy, dohodli jsme se, že nebudeme před sebou už nic skrývat. Mina teď spí, klidně a sladce jako malé děcko. Rty má našpulené a obličej jí září blahem. Díky Bohu, že stále ještě prožívá takové okamžiky!
 
-  
+</section>
+
+<section>
 
 _Později._ – Všechno je tak zvláštní! Seděl jsem u blaženě spící Miny a byl jsem naplněn tak velkým štěstím, že snad ani většího nemohu dosáhnout. Jak se den chýlil k večeru a na zem se snášely dlouhé stíny zapadajícího slunce, působilo na mě ticho pokoje neustále slavnostnějším dojmem. Pojednou otevřela Mina oči, něžně na mě pohlédla a pravila:
 
@@ -118,11 +138,15 @@ _Později._ – Všechno je tak zvláštní! Seděl jsem u blaženě spící M
 
 „Slib mi, že mi nesdělíš vůbec nic o plánech vašeho tažení proti hraběti. Ani jediné slovo, ani jedinou poznámku, ani jediný náznak; zhola nic tak dlouho, dokud ponesu toto znamení,“ a důrazně ukázala na jizvu. Pochopil jsem, že mluví smrtelně vážně, a slavnostně jsem opakoval: „Slibuji!“ A v tom okamžiku mi bylo, jako by se mezi námi zavřely dveře.
 
-  
+</section>
+
+<section>
 
 _Později, o půlnoci._ – Celý večer byla Mina tak veselá a plná života, že z ní nakonec ostatní načerpali odvahu, jako by se jejím veselím nakazili. I mně připadalo, že ze mne trochu opadl onen závoj chmury, který člověka někdy zahaluje. Všichni jsme se záhy odebrali na lože. Mina teď spí jako děťátko; jak báječné, že dokáže spát i při takových starostech! Díky Bohu, alespoň zapomene na své trápení! Třeba zapůsobí její příklad i na mě tak, jak na mě večer zapůsobilo její veselí. Pokusím se o to. Ach, co bych dal za spánek beze snů!
 
-  
+</section>
+
+<section>
 
 _6\. října, ráno._ – Další překvapení. Mina mě záhy probudila, asi ve stejnou hodinu jako včera, a požádala mě, abych přivedl dr. Van Helsinga. Domníval jsem se, že se chce dát znovu zhypnotizovat, a bez námitky jsem zašel pro profesora. Ten zřejmě na zavolání čekal, zastihl jsem ho v pokoji oblečeného. Dveře měl dokořán, takže slyšel, jak jsem otevřel dveře našeho pokoje. Ihned mi vyhověl, a sotva vešel, zeptal se Miny, zda mají ostatní přijít také.
 
@@ -156,10 +180,14 @@ Mina při odpovědi zdvihla prst a ukázala si na čelo.
 
 Tím bylo řečeno vše a my jsme se rozešli. Uspořádám teď všechny své pozemské záležitosti a přichystám se na všechny možnosti…
 
-  
+</section>
+
+<section>
 
 _Později._ – Vše je hotovo, poslední vůle napsána a opatřena všemi náležitostmi. Jestli mě Mina přežije, stane se mou univerzální dědičkou. A kdyby tomu tak nemělo být, podělí se o můj majetek ti, kdo se k nám tak skvěle zachovali.
 
 Slunce se pomalu chýlí k západu; upozornil mě na to Minin vzrůstající neklid. V jejím podvědomí se určitě skrývá něco, co se projeví přesně při západu slunce. Tyhle chvíle jsou pro nás všechny naplněny mukami, vždyť každý východ či západ slunce signalizuje nějaké nové nebezpečí – nějakou novou trýzeň, které snad nakonec z vůle boží přece jen povedou k dobrému konci. Tohle všechno si zapisuji do deníku, protože má drahá Mina se o tom zatím nesmí dozvědět; bude to však pro ni připraveno, jakmile jí snad jednou bude dovoleno zase do mého deníku nahlédnout.
 
 Právě mě volá.
+
+</section>

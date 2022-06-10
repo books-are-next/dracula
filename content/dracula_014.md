@@ -3,11 +3,15 @@ title: Kapitola 9
 contentType: prose
 ---
 
+<section>
+
 ### DOPIS MINY HARKEROVÉ LUCY WESTENROVÉ
 
 _Budapešť, 24. srpna_
 
-  
+</section>
+
+<section>
 
 „Má nejdražší Lucy,
 
@@ -29,7 +33,9 @@ Tvá milující MINA HARKEROVÁ“
 
 _Whitby, 30. srpna_
 
-  
+</section>
+
+<section>
 
 „Má nejdražší Mino,
 
@@ -45,7 +51,9 @@ P. P. S. Naše svatba se koná 28. září.“
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _20\. srpna._ – Případ Renfield je čím dál tím zajímavější. Pacient se uklidnil natolik, že už neustále nezuří. První týden po záchvatu nepřestával běsnit. Potom jednu noc, právě když vyšel měsíc, se utišil a pořád mumlal: „Teď už můžu čekat, teď už můžu čekat.“ Ošetřovatel mi to přišel ohlásit a já ihned seběhl dolů, abych se na něho podíval. Byl stále ve svěrací kazajce a ve vypolštářované cele, ale z obličeje mu už zmizel vytřeštěný výraz a oči opět měly v sobě něco z dřívější doprošující se – řekl bych dokonce podlízavé – dobráckosti. Jeho stav mě uspokojil, a proto jsem nařídil, aby mu kazajku svlékli. Ošetřovatelé váhali, ale nakonec uposlechli bez námitek. Pacient měl kupodivu natolik snášenlivou náladu, že si uvědomil jejich nedůvěru, přistoupil těsně ke mně, úkosem na ně pohlédl a zašeptal mi:
 
@@ -59,11 +67,15 @@ Po chvilce jsem od něho odešel. Ošetřovatel mi hlásil, že byl mírný až 
 
 …Tři noci za sebou stejný úkaz – celý den zuří a od východu měsíce do východu slunce je klidný. Jak rád bych tomu přišel na kloub! Málem to vypadá, jako by podléhal nějakému vlivu, který se dostavuje a mizí. Dobrý nápad! Dnes v noci uskutečníme souboj zdravého rozumu s šíleným. Minule utekl bez naší pomoci, dnes v noci mu tedy k útěku pomůžeme. Poskytneme mu příležitost a v případě potřeby ho budu sledovat i se svými lidmi…
 
-  
+</section>
+
+<section>
 
 _23\. srpna._ – „Vždy se přihodí to, co nečekáme.“ Jak dobře znal Disraeli život! Když náš ptáček shledal, že klec je otevřena, nechtěl vylétnout, takže všechna naše rafinovaná opatření byla zbytečná. Jedno jsme však s jistotou zjistili: že údobí klidu trvají dost dlouho. Napříště ho budeme moci denně uvolnit vždy na několik hodin ze svěrací kazajky. Nařídil jsem už noční službě, aby ho, jakmile se uklidní, jen zavírala do vypolštářované cely a teprve hodinu před úsvitem ho zase spoutala. Ubožákovu tělu se jistě uleví, i když to jeho duch neocení. Pozor! Zase něco nečekaného! Volají mě, pacient opět uprchl.
 
-  
+</section>
+
+<section>
 
 _Později._ – Další noční dobrodružství. Renfield lstivě vyčkával, až ošetřovatel vejde do cely na inspekci. Pak kolem něho proběhl a prchal chodbou. Vzkázal jsem ošetřovatelům, aby ho pronásledovali. Renfield utekl znovu do parku u opuštěného domu a našli jsme ho na stejném místě, jak se tiskne ke dveřím staré kaple. Sotva mě spatřil, rozběsnil se, a kdyby ho ošetřovatelé včas neuchopili, byl by se pokusil mě zabít. Jak jsme ho drželi, došlo k něčemu podivnému. Náhle zdvojnásobil svůj odpor, ale vzápětí se stejně rychle uklidnil. Mimovolně jsem se rozhlédl kolem, ale nic jsem neviděl. Zachytil jsem však pacientův pohled a sledoval, kam se dívá, ale na obloze zalité měsíčními paprsky jsem spatřil pouze velkého netopýra, odlétávajícího tiše jako duch směrem k západu. Netopýři obyčejně létají a třepotají se v kruzích, jenže tenhle zřejmě letěl přímo, jako by věděl, kam má namířeno, nebo měl něco v úmyslu. Pacient se postupně uklidňoval, až řekl:
 
@@ -71,11 +83,15 @@ _Později._ – Další noční dobrodružství. Renfield lstivě vyčkával, a
 
 ### DENÍK LUCY WESTENROVÉ
 
-  
+</section>
+
+<section>
 
 _Hillingham, 24. srpna._ – Musím napodobit Minu a všechno si zapiso­vat. Až se shledáme, hezky si o tom popovídáme. Kdy to asi jen bude? Kéž by už opět byla u mě, připadám si tak nešťastná. V noci na dnešek jsem asi zase měla stejné sny jako ve Whitby. Snad to je změnou vzduchu nebo tím, že jsem zase doma. Na nic si nevzpomínám, ze všeho mám jenom pocit tmy a hrůzy. Svírá mě však neurčitý strach a cítím se strašně slabá a vyčerpaná. Arthur přišel na oběd, a když mě uviděl, velmi se zasmušil, a já jsem ani neměla sílu být veselá. Co kdybych dnes v noci spala v maminčině pokoji? Vymyslím si nějakou záminku a zkusím to.
 
-  
+</section>
+
+<section>
 
 _25\. srpna._ – Další zlá noc. Maminka na můj návrh ani nezabrala. Zřejmě jí není příliš dobře a asi se bojí přidělávat mi starosti. Snažila jsem se neusnout a nějakou dobu se mi to dařilo; ale jak hodiny odbíjely půlnoc, probudila jsem se z dřímoty, takže jsem asi přece jenom usnula. Venku na okně něco škrabalo a šustilo, jenže já jsem si toho nevšímala. Na víc si nepamatuji, zřejmě jsem tedy usnula. A zase noční můry. Kdybych si je alespoň zapamatovala! Dnes ráno jsem strašně zesláblá. Tváře mám bílé jako křída a bolí mě krk. Mám asi něco v nepořádku s plícemi, jako bych totiž stále měla nedostatek vzduchu. Musím se sebrat, než přijde Arthur, jinak bude nešťastný, když mě takhle uvidí.
 
@@ -83,7 +99,9 @@ _25\. srpna._ – Další zlá noc. Maminka na můj návrh ani nezabrala. Zřej
 
 _Hotel Albermarle, 31. srpna_
 
-  
+</section>
+
+<section>
 
 „Milý Jacku,
 
@@ -95,7 +113,9 @@ ARTHUR“
 
 _1\. září_
 
-  
+</section>
+
+<section>
 
 „Volají mě k otci; jeho stav se zhoršil. Poslal jsem Ti dopis. Zašli mi dnes večer podrobnou zprávu na otcovu adresu. V případě potřeby telegrafuj.“
 
@@ -103,7 +123,9 @@ _1\. září_
 
 _2\. září_
 
-  
+</section>
+
+<section>
 
 „Milý kamaráde,
 
@@ -122,7 +144,9 @@ VAN HELSINGA Dr. SEWARDOVI
 
 _2\. září_
 
-  
+</section>
+
+<section>
 
 „Můj milý příteli,
 
@@ -135,7 +159,9 @@ CTIHODNÉMU ARTHURU HOLMWOODOVI
 
 _3\. září_
 
-  
+</section>
+
+<section>
 
 „Milý Arte,
 
@@ -149,7 +175,9 @@ Víc mi toho nebyl ochoten říci, jak jsem Ti už napsal, i když jsme byli sa
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _4\. září._ – Náš zoofágní pacient neustále upoutává náš zájem. Měl zatím pouze jeden záchvat, včera v neobvyklou hodinu. Krátce před polednem začal být neklidný. Ošetřovatel včas rozpoznal symptomy a přivolal pomoc. Naštěstí muži rychle přiběhli a dostavili se v nejvyšší čas, protože v okamžiku, kdy odbíjelo poledne, Renfield se tak rozzuřil, že ho ošetřovatelé ovládli jen s vypětím všech sil. Asi za pět minut se však začal postupně uklidňovat a nakonec upadl do melancholie, v níž stále setrvává.
 
@@ -163,7 +191,9 @@ _Později._ – Další změna u mého pacienta. V pět hodin jsem k němu z
 
 „Ano! Mouchy ho také mají rády a já mám rád mouchy; proto ho mám rád.“ A pak si někteří ignoranti myslí, že šílenci neumějí argumentovat. Přinesl jsem mu dvojitou dávku, a když jsem od něho odcházel, byl snad tím nejšťastnějším člověkem pod sluncem. Kéž bych jen dokázal vniknout do jeho mysli!
 
-  
+</section>
+
+<section>
 
 _Půlnoc._ – Další změna. Právě když jsem se vrátil z návštěvy u slečny Westenrové, které se daří mnohem lépe, a pozoroval od naší brány západ slunce, dolehly ke mně jeho výkřiky. Renfieldův pokoj je na stejné straně budovy, a proto jsem všechno slyšel zřetelněji než ráno. Zdrtilo mě, že jsem se musel obrátit od nádherné, jakoby do oparu ponořené krásy západu slunce nad Londýnem a jeho sinavými světly, fialovými stíny a nejrozmanitějšími skvělými odstíny objevujícími se stejně na šedivých mracích jako v kalných vodách, a že si musím uvědomit onu zachmuřenou strohost té chladné kamenné budovy, plné dýchajících ubožáků, i své opuštěné srdce, které tohle všechno musí vydržet. Vešel jsem k Renfieldovi právě ve chvíli, kdy slunce zapadalo. Oknem bylo vidět klesající rudý kotouč. Čím hlouběji slunce zapadalo, tím víc se mírnil Renfieldův záchvat, a v okamžiku, kdy se slunce ztratilo za obzorem, vysmekl se Renfield jako neživá hmota z rukou, které ho držely, a zhroutil se na podlahu. Je ovšem fantastické, jak neobyčejně velkou intelektuální reku­perační schopnost mají šílenci – za několik málo minut se úplně klidně zvedl a podíval se kolem sebe. Pokynul jsem ošetřovatelům, aby ho nechali volně stát; byl jsem zvědav, co udělá. Šel rovnou k oknu a smetl krystalky cukru, nato uchopil krabičku s mouchami, obsah vytřepal z okna a krabičku vyhodil. Pak okno zavřel, přešel přes pokoj a usedl na lůžko. Velmi mě to všechno překvapilo a zeptal jsem se ho: „To už nebudete chytat žádné mouchy?“
 
@@ -180,3 +210,5 @@ _Půlnoc._ – Další změna. Právě když jsem se vrátil z návštěvy u 
 ### TELEGRAM Dr. SEWARDA, LONDÝN, VAN HELSINGOVI, AMSTERODAM
 
 „_6\. září._ – Zdrcující změna k horšímu. Přijeďte ihned, neztrácejte ani hodinu. Holmwoodovi zatelegrafuji až po rozmluvě s vámi.“
+
+</section>

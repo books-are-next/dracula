@@ -3,9 +3,13 @@ title: Kapitola 26
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _29\. říjen._ – Toto píši ve vlaku z Varny do Galace. Včera večer jsme se všichni sešli krátce před západem slunce. Úkoly, které nám byly uloženy, jsme vykonali, jak nejlépe jsme dovedli. Na cestu a všechny povinnosti, které nás v Galaci čekají, jsme se duševně připravili a počítáme se všemi možnostmi. Když se blížil obvyklý čas, připravila se paní Harkerová k hypnotizování, ale tentokráte se Van Helsingovi podařilo ji dostat do transu teprve po delším úsilí, namáhavějším než jindy. Až dosud stačíval pouhý pokyn, aby se rozhovořila, jenže tento večer jí profesor musel klást otázky, a to značně důrazně, abychom se vůbec něco dozvěděli. Nakonec přece jen odpovídala:
 
@@ -25,13 +29,17 @@ Tím bylo řečeno vše, a proto jsme jen trpělivě čekali na rozbřesk, kdy 
 
 A tak ujíždíme ke Galaci se zoufalou nadějí v srdci. Měli bychom tam dorazit mezi druhou a třetí hodinou ranní; přijeli jsme však už do Bukurešti s tříhodinovým zpožděním, takže tam dojedeme nejdříve hodinu či dvě po východu slunce. Od paní Harkerové se nám tedy dostane z hypnózy ještě dvou zpráv; snad alespoň jedna poodhrne trochu roušku z toho, co se vlastně děje.
 
-  
+</section>
+
+<section>
 
 _Později._ – Slunce už zmizelo. Zapadalo za obzor naštěstí v době, kdy nám nic nepřekáželo; kdybychom právě stáli někde na nádraží, snad bychom ani nebyli mohli zajistit potřebný a nerušený klid. Paní Harkerová se hypnóze bránila ještě houževnatěji než ráno. Obávám se, že její schopnost číst pocity hraběte Draculy přestává právě ve chvíli, kdy ji nejvíce potřebujeme. Dokonce mám dojem, jako by jí začala pracovat fantazie. Až dosud se v transu omezovala na sdělování holých fakt. Jestli to tímto způsobem půjde dál, může nás nakonec přivést na zcela falešnou stopu. Bylo by vítané, kdyby moc hraběte nad ní skončila současně s její schopností vnikat do jeho pocitů, ale bohužel tomu tak asi nebude. To, co říkala, bylo zcela záhadné:
 
 „Něco vychází; cítím, jak to vane kolem mne jako studený vítr. Zdáli slyším směsici zvuků – snad lidi hovořící různými jazyky, prudké vodopády a vytí vlků.“ Zarazila se, prudce se roztřásla, chvění se několik vteřin stupňovalo, až se nakonec chvěla jako osika. Nic víc neřekla a na důrazné profesorovy otázky vůbec neodpověděla. Když se probrala z transu, byla prokřehlá, vyčerpaná a malátná; ale duševně byla zcela čilá. Na nic se nemohla upamatovat, jen se zeptala, co vlastně říkala. Když jí to profesor sdělil, dlouho beze slova o tom přemítala.
 
-  
+</section>
+
+<section>
 
 _30\. října._ – Blížíme se už ke Galaci a později snad ani nebudu mít čas psát. Všichni jsme dnes ráno čekali na východ slunce. Vzhledem k neustále větším potížím s hypnotizováním začal Van Helsing s přípravami dřív než obvykle. Neměly však žádný účinek a paní Harkerová se poddala teprve v obvyklou dobu, a to až minutu před skutečným východem slunce. Profesor neztrácel čas a okamžitě jí položil obvyklou otázku; odpověď se dostavila stejně rychle:
 
@@ -49,17 +57,23 @@ Vlak zahvízdal, blížíme se ke Galaci. Zmítají námi obavy a hoříme netr
 
 ### DENÍK MINY HARKEROVÉ
 
-  
+</section>
+
+<section>
 
 _30\. října._ – Do hotelu, kde jsme si telegraficky zamluvili pokoje, mě zavezl pan Morris. Nemluví totiž jinak než anglicky, a byl proto nejsnáze postradatelný. Úkoly byly rozděleny podobně jako ve Varně, jen k vicekonzulovi se vypravil lord Godalming, protože jeho společenské postavení mohlo být pro tuto úřední osobu jistou zárukou, a my jsme potřebovali vše co nejrychleji vyřídit. John a oba lékaři odešli do lodní agentury zjistit podrobnosti o příjezdu _Carevny Kateřiny_.
 
-  
+</section>
+
+<section>
 
 _Později._ – Lord Godalming se vrátil. Konzul není ve městě, vicekonzul je nemocen a běžnou agendu vykonává místo nich tamní úředník. Byl velice ochotný a slíbil, že učiní vše, co je v jeho moci.
 
 ### DENÍK JONATHANA HARKERA
 
-  
+</section>
+
+<section>
 
 _30\. října._ – V devět hodin jsme s dr. Van Helsingem a dr. Sewardem navštívili firmu Mackenzie & Steinkoff, která tu zastupuje londýnskou firmu Hapgood. Na podkladě telegrafické žádosti lorda Godalminga už dostali z Londýna kabelogram s prosbou, aby nám vyšli co nejvíce vstříc. Byli neobyčejně milí a ochotní a okamžitě nás zavedli na palubu Carevny Kateřiny, která kotvila v říčním přístavu. Tam jsme se mohli domluvit s jejím kapitánem, panem Donelsonem. Vylíčil nám průběh plavby a prohlásil, že se dosud nikdy neplavil za příznivějších podmínek.
 
@@ -83,7 +97,9 @@ Prvním problémem, který jsme řešili, sotva jsme se všichni sešli, bylo, z
 
 ### DENÍK MINY HARKEROVĚ
 
-  
+</section>
+
+<section>
 
 _30\. října, večer._ – Byli tak unaveni, vyčerpáni a zdeptáni, že se nedalo nic dělat, dokud si neodpočinou. Požádala jsem je proto všechny, aby si šli na půl hodiny lehnout, že zatím dovedu deník až do současnosti. Jsem nesmírně vděčná vynálezci přenosného psacího stroje a panu Morrisovi, že mi takový stroj obstaral. Určitě by pro mě bylo velmi únavné, kdybych tohle všechno musela psát perem…
 
@@ -173,58 +189,84 @@ Když jsem dočetla, Jonathan mě objal a políbil. Ostatní mi tiskli ruce a 
 
 „Čiňte, jak uznáte za vhodné,“ povzdychl Jonathan a celý se roztřásl. „Jsme všichni v rukou božích!“
 
-  
+</section>
+
+<section>
 
 _Později._ – Velmi mě potěšilo, když jsem viděla tyhle odvážné muže pustit se do příprav. Ženy prostě musí milovat muže, jakmile jsou tak odhodlaní, upřímní a odvážní. A zároveň jsem si uvědomila zázračnou moc peněz! Co všechno peníze dokáží, jestli se jich vhodně použije; a co by mohly natropit, jestli se vynaloží na podlé účely. Jsem velmi ráda, že je lord Godalming bohatý a že on i pan Morris, který také má spoustu peněz, jsou ochotni je tak velkoryse vydávat. V opačném případě by se naše malá výprava ani nemohla vydat tak rychle a tak dokonale vybavena na cestu, jako tomu bude za hodinu. Uplynuly teprve tři hodiny od chvíle, kdy jsme si rozdělili úlohy; lord Godalming a Jonathan už mají krásný parní člun, připravený každou chvíli vyplout. Dr. Seward a pan Morris si opatřili šest výborných, dobře vystrojených koní. Sehnali jsme si všechny potřebné mapy a pomůcky, jaké se daly opatřit. Profesor Van Helsing odjede se mnou dnes večer v 11.40 vlakem do Veresti, odkud pojedeme kočárem do Borgoského průsmyku. Bereme s sebou hodně peněz, protože hodláme koupit kočár a koně. Pojedeme sami, vždyť nikomu nemůžeme v této záležitosti důvěřovat. Profesor zná několik cizích řečí, takže nebudeme míti potíže. Všichni máme zbraně, dokonce i já mám revolver velkého kalibru; Jonathan by neměl klid, kdybych nebyla ozbrojena stejně jako ostatní. Bohužel však nemohu mít u sebe tu zbraň, jíž jsou vyzbrojeni mí druzi – brání mi v tom jizva na čele. Drahoušek dr. Van Helsing mě utěšuje, že jsem pořádně ozbrojena proti vlkům; hodinu od hodiny je chladněji a občas jako na výstrahu se objeví několik sněhových vloček.
 
-  
+</section>
+
+<section>
 
 _Později._ – K rozloučení se svým miláčkem musím sebrat všechnu odvahu. Třeba se už nikdy neshledáme! Buď statečná, Mino! Profesor tě bedlivě pozoruje a jeho pohled varuje. Zatím žádné slzy – teprve později, až snad z boží vůle budu prolévat slzy radosti!
 
 ### DENÍK JONATHANA HARKERA
 
-  
+</section>
+
+<section>
 
 _30\. října, v noci_. – Píši tohle při svitu světla vycházejícího z dvířek kotle našeho parního člunu; lord Godalming právě přikládá. Vyzná se v tom dokonale; několik let si držel parní čluny na Temži a na Norfolk Broads. Pokud jde o naše plány, usoudili jsme nakonec, že Minin odhad je správný, a jestli se hrabě opravdu rozhodl prchat zpět do zámku po vodě, plavil by se proti proudu Seretu a pak proti proudu Bystřice, která se do něho vlévá. Domníváme se, že na břeh by hrabě vystoupil někde kolem 47. severní rovnoběžky a odtud by se vydal po pevnině ke Karpatům. V noci plujeme bez potíží velkou rychlostí, protože voda je dost hluboká a břehy jsou od sebe natolik vzdálené, že i ve tmě lze snadno manévrovat. Lord Godalming mě vyzval, abych šel spát, že zatím úplně stačí, aby hlídkoval pouze jeden z nás. Nemohu však usnout – jak bych vůbec mohl spát, když mému miláčkovi hrozí takové nebezpečí a je na cestě k onomu strašnému zámku…? Mou jedinou útěchou je, že jsme v rukou božích. Nebýt této víry, bylo by snazší zemřít než žít a zbavit se tak všech trýzní. Pan Morris a dr. Seward se vypravili na svou dlouhou cestu ještě před námi; pojedou po pravém břehu, ale ve větší vzdálenosti od řeky po kopcích, aby měli výhled na celý tok a nebyli nuceni úzkostlivě sledovat jeho zákruty. Na první úsek cesty najali dva muže, aby se jim starali o rezervní koně – jsou celkem čtyři –; kdyby jeli sami, vyvolávali by pozornost. Muže brzy propustí, a pak se o koně už budou starat sami. Možná že se budeme muset spojit; alespoň bude dost koní pro celou naši skupinu. Jedno ze sedel se dá upravit na dámské a v případě potřeby je tedy může použít Mina.
 
 Pustili jsme se do hezky riskantního podniku! Uvědomujeme si to, když tak rychle plujeme nocí a řezavě se do nás opírá studený vítr, zdvíhající se z řeky. Všude kolem slyšíme tajemné hlasy noci. Připadá nám, že neznámými cestami směřujeme k neznámým cílům, do světa tmy a hrůzných jevů. Godalming právě přivírá dvířka kotle.
 
-  
+</section>
+
+<section>
 
 _31\. října._ – Stále plujeme rychle vpřed. Rozednilo se a Godalming spí. Hlídku držím já. Ráno je sychravé a člověk je vděčný kotli za žár, i když máme na sobě těžké kožichy. Až dosud jsme předjeli jen několik otevřených člunů, ale žádný z nich neměl na palubě tak velkou bednu či balík, jaké hledáme. Kdykoli jsme na plavce zamířili světlo elektrického reflektoru, vyděsili se, padli na kolena a začali se modlit.
 
-  
+</section>
+
+<section>
 
 _1\. listopadu, večer._ – Za celý den se nic nepřihodilo. Nic podobného tomu, co hledáme, jsme nenašli. Vpluli jsme již do Bystřice, a jestli je náš předpoklad chybný, pak už jsme ztratili všechnu naději. Předjeli jsme všechna plavidla, velká i malá. Dnes ráno nás jedna posádka považovala za vládní člun a podle toho se k nám chovala. Z jejich postoje jsme usoudili, že by se tak dalo všelicos lépe zařídit, a ve Fundu, kde se Bystřice vlévá do Seretu, jsme si opatřili rumunskou vlajku, vyvěsili ji a hrdě pod ní plujeme. Tento trik se nám vyplatil u každého člunu, který jsme od té doby předhonili; všichni se k nám chovali neobyčejně uctivě, a ani jednou nevznesli námitky proti našemu jednání a našim dotazům. Několik Slováků nám oznámilo, že je předjel nějaký velký člun, který plul rychleji než oni, protože měl na palubě dvojnásobnou posádku. To ovšem bylo ještě před jejich příjezdem do Fundu, takže nevěděli, zda člun zabočil na Bystřici nebo pokračoval proti proudu Seretu. Ve Fundu jsme se o takovém člunu nedoslechli, zřejmě tudy proplul v noci. Jsem velmi ospalý; snad i mě začíná zmáhat ta zima a někdy si příroda odpočinek prostě vynutí. Godalming trvá na tom, že převezme stráž první. Bůh mu žehnej za všechno dobro, které prokazuje ubohé Mině i mně.
 
-  
+</section>
+
+<section>
 
 _2\. listopadu, ráno._ – Je jasný den. Lord Godalming byl tak hodný, že mě neprobudil! Tvrdí, že by to byl hřích; spal jsem prý velmi klidně a určitě jsem zapomněl na všechny starosti. Připadá mi nesmírně sobecké, že jsem tak dlouho spal a nechal ho probdít celou noc; měl však pravdu. Cítím se dnes ráno jako znovuzrozený. Sedím tu, dívám se na něho, jak spí, a přitom dokážu obstarat všechno, co je třeba – postarat se o chod stroje, o kormidlo i hlídkovat. Cítím, jak se zase do mne vlévá síla a energie. Kde asi jsou teď Mina a Van Helsing? Ve středu k polednímu měli dojet do Veresti. Jistě jim trvalo chvíli, než si opatřili kočár a koně; pokud tedy už vyrazili a jeli rychle, mohli by se teď asi blížit Borgoskému průsmyku. Bůh je veď a ochraňuj! Raději ani nemyslím na to, co všechno by se mohlo přihodit! Kdybychom jen mohli plout rychleji! Bohužel nemůžeme; stroje rámusí a pracují ze všech sil. Jak se asi daří dr. Sewardovi a panu Morrisovi? Z hor stékají do téhle řeky nesčetné bystřiny, ale ani jedna z nich není natolik široká – alespoň ne v tenhle roční čas, i když jsou v zimě a v době tání určitě nebezpečné –, aby byly jezdcům příliš na obtíž. Snad se s nimi setkáme ještě před příjezdem do Strasby; pokud do té doby hraběte nepředstihneme, budeme se muset poradit o dalším postupu.
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _2\. listopadu._ – Tři dny na cestě. Nic nového, a kdyby náhodou k něčemu došlo, neměl bych ani čas to zapsat, záleží přece na každé minutě. Odpočíváme jen tehdy, když to koně potřebují, ale snášíme to oba skvěle. Naše dřívější lovecké výpravy teď přinášejí ovoce. Musíme dál; nebudeme mít klid, dokud nespatříme náš parní člun.
 
-  
+</section>
+
+<section>
 
 _3\. listopadu._ – Ve Fundu jsme se dozvěděli, že parní člun plul dál proti proudu Bystřice. Kdyby jen nebyla taková zima! Zdá se, že už brzy začne sněžit; a jestli napadne mnoho sněhu, nebudeme moci jet dál na koních, ale budeme si muset opatřit sáně a pokračovat v cestě po ruském způsobu.
 
-  
+</section>
+
+<section>
 
 _4\. listopadu._ – Dnes jsme se doslechli, že parní člun zdržela nehoda při proplouvání peřejí. Slováci přes ně své čluny přepraví snadno, protože je táhnou na laně a znají cestu. Někteří tudy propluli před několika hodinami. Godalming je zručný a všechno opraví sám, takže určitě zase uvedl člun do chodu. Nakonec se s pomocí místních lidí dostali přes peřeje a pokračují v plavbě. Nehoda se však zřejmě bohužel neobešla bez dalších následků; venkované nám říkali, že jakmile se člun dostal na klidnou vodu, tak, pokud viděli, se každou chvíli zastavoval. Musíme si co nejvíc pospíšit; možná že nás už brzy budou potřebovat.
 
 ### DENÍK MINY HARKEROVÉ
 
-  
+</section>
+
+<section>
 
 _31\. října._ – V poledne jsme dojeli do Veresti. Profesor mi sdělil, že mě dnes ráno skoro nedokázal uvést do hypnotického stavu a že jsem mu nakonec neřekla víc než „Tma a ticho“. Teď odešel koupit kočár a koně. Později prý ještě přikoupí další koně, abychom mohli cestou přepřahat. Máme před sebou víc než sedmdesát mil. Krajina je tu překrásná a neobyčejně zajímavá; kdybychom sem přijeli za jiných okolností, jak ráda bych si všechno prohlédla! Jakým potěšením by bylo projíždět tudy spolu s Jonathanem! Mohli bychom se zastavovat, seznamovat se s lidmi, poznávat trochu jejich život a vstřebávat do mysli a vzpomínek všechnu barvitost a malebnost této divoké, překrásné krajiny a zdejšího svérázného lidu! Ale bohužel…
 
-  
+</section>
+
+<section>
 
 _Později._ – Dr. Van Helsing se vrátil. Obstaral kočár a koně; navečeříme se a asi za hodinu vyrazíme. Hostinská nám dá s sebou velký košík zásob; stačil by pro celou četu vojáků. Jenže profesor jí to nerozmlouval a pošeptal mi, že celý týden možná nebudeme moci sehnat nic dobrého k jídlu. Profesor nakoupil ještě jiné věci – dal sem přivézt celou hromadu kožichů a přikrývek a nejrůznějších teplých oděvů. Zima nám určitě nebude!
 
-  
+</section>
+
+<section>
 
 Brzy vyjedeme. Raději ani nemyslím na to, co všechno se nám může přihodit. Jsme opravdu v rukou božích. Jedině on ví, co se stane, a já se k němu modlím z hloubi své smutné a pokorné duše, aby chránil mého milovaného manžela; aby Jonathan věděl, ať už se stane cokoli, že ho miluji a ctím víc, než se dá slovy vyjádřit, a že má poslední a nejvěrnější myšlenka bude platit vždycky jemu!
+
+</section>

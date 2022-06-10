@@ -3,15 +3,21 @@ title: Kapitola 11
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK LUCY WESTENROVÉ
 
-  
+</section>
+
+<section>
 
 _12\. září._ – Všichni jsou ke mně strašně hodní! Do toho drahouška doktora Van Helsinga jsem se úplně zamilovala! Jen se divím, proč se kvůli těm květům tak rozčilil! Docela mě vylekal svou prudkostí. Ale stejně asi měl pravdu, vždyť mi už teď přinášejí úlevu. Dnes se ani nebojím, že budu sama, a určitě bez obav usnu. A nějakého třepotání venku za oknem si prostě nebudu všímat. Jak já jsem se poslední dobou úporně bránila spánku, to bylo opravdu strašné! Jak zlé je volit mezi úzkostí z nespavosti a úzkostí ze spánku naplněného strachem, přinášejícího mi tolik tajemných hrůz! Jak šťastni jsou někteří lidé, kteří v životě nepoznají ani strach, ani hrůzu, a kterým je spánek požehnáním, dostavujícím se noc co noc a přinášejícím pouze sladké sny! A teď je tedy večer, čekám na spánek a ležím jako Ofélie s „vínkem panenským a dívčím obsypáním květinami“. Až dosud mi byl česnek protivný, ale dnes večer mi je milý. Vůně, která z něho vane, přináší mír a já cítím, jak mě už pomalu zmáhá spánek. Dobrou noc, drazí!
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _13\. září._ – Přišel jsem do hotelu Berkeley a zastihl Van Helsinga jako obvykle připraveného. Objednaný kočár už čekal. Profesor si vzal svou brašnu, kterou teď stejně stále nosí s sebou.
 
@@ -47,14 +53,18 @@ Co to všechno znamená? Nezačínají mít snad ta dlouhá léta strávená mez
 
 ### DENÍK LUCY WESTENROVÉ
 
-  
+</section>
+
+<section>
 
 _17\. září._ – Čtyři dny a noci klidu. Už jsem nabyla tolik sil, že si připadám jako znovuzrozená. Je mi, jako bych přestála dlouhou noční můru, právě se probudila, uviděla nádherný sluneční jas a všude kolem sebe cítila svěží ranní vzduch. Nejasně a mlhavě si vzpomínám na dlouhé, úzkostné chvíle čekání a obav; na tmu, v níž nebylo jediného bolestného záblesku naděje, takže mé zoufalství bylo ještě hlubší; na dlouhá období nicoty a návraty k životu, kdy jsem si připadala jako potápěč vynořující se z velkých hlubin na hladinu. Jelikož je však celou dobu se mnou dr. Van Helsing, všechny ty zlé sny snad zmizely. Přestaly také šelesty, které mě přiváděly na okraj šílenství – třepetání o okna, vzdálené hlasy, které mi připadaly tak blízké, drsná slova přicházející nevím odkud a přikazující mi ani nevím co. Uléhám teď do postele bez jakékoli obavy před spánkem. Dokonce se ani nepokouším udržet v bdělém stavu. Česnek mi už celkem nevadí a každý den mi ho sem z Haarlemu posílají plnou bedničku. Dnes večer dr. Van Helsing odjíždí, protože musí strávit jeden den v Amsterodamu. Mne však už nemusí nikdo hlídat; je mi už natolik dobře, že mě mohou nechat o samotě. Děkuji za to Bohu kvůli mamince a drahému Arthurovi a kvůli všem našim přátelům, kteří jsou tak laskaví. Stejně ani nepocítím žádný velký rozdíl, vždyť včera spal dr. Van Helsing hezky dlouho v křesle. Dvakrát jsem se probudila a přistihla ho spícího. Přesto se však nebojím usnout, ačkoli mi do okenních tabulí skoro zlostně tlučou nějaké větve nebo netopýři či něco jiného.
 
 ### „THE PALL MALL GAZETTE“, 18. ZÁŘÍ  
 UPRCHLÝ VLK
 
-  
+</section>
+
+<section>
 
 Nebezpečné dobrodružství našeho dopisovatele
 
@@ -135,7 +145,9 @@ Bilder odvedl vlka a zamkl ho do klece s kusem masa, které alespoň množstv�
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _17\. září._ – Po večeři jsem seděl v pracovně a snažil se dohnat všechny záznamy, s nimiž jsem se pro nával jiné práce a četné návštěvy u Lucy hodně opozdil. Pojednou se rozlétly dveře a dovnitř vrazil můj pacient s obličejem zrůzněným vášní. Do mne jako by udeřil blesk; je to totiž něco téměř nebývalého, aby pacient z vlastní vůle vnikl do ředitelovy pracovny. Renfield se hnal rovnou ke mně. V ruce držel nůž, a protože jsem okamžitě pochopil, že mi hrozí nebezpečí, pokusil jsem se přistrčit stůl mezi sebe a jeho. Byl však rychlejší a silnější než já, a než se mi to podařilo, rozmáchl se po mně a dost hluboko mě řízl do levého zápěstí. Než mě však dokázal bodnout podruhé, uhodil jsem ho pravičkou a on padl naznak na podlahu. Zápěstí mi silně krvácelo a na koberec nakapala malá kaluž krve. Přesvědčil jsem se, že se můj přítel už nebude mít k ničemu dalšímu, a ovazoval jsem si zápěstí. Přitom jsem ovšem nespouštěl ani na okamžik zrak z ležící postavy. Mezitím přiběhli ošetřovatelé a obrátili jsme pozornost k němu. Právě dělal něco, co mě naplnilo odporem. Ležel na břiše a jako pes lízal krev, která skapala z rány na zápěstí. Snadno jsme ho přemohli a k mému překvapení se dal ošetřovateli odvést klidně jako beránek. Jenom neustále opakoval: „Krev je život! Krev je život!“
 
@@ -146,19 +158,25 @@ Dr. SEWARDOVI, CARFAX
 
 (Zaslán do Carfaxu, Sussex, protože nebylo udáno hrabství; doručen s dvaadvacetihodinovým zpožděním.)
 
-  
+</section>
+
+<section>
 
 _17\. září._ – „Určitě přijeďte dnes v noci do Hillinghamu. Pokud nebudete bdíti celou noc, často navštěvujte a dohlédněte, aby květy zůstaly na svém místě. Spoléhám na vás! Dostavím se co nejdřív po příjezdu.“
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _18\. září._ – Chystám se k vlaku do Londýna. Van Helsingův telegram mě naplnil chmurnou předtuchou. Celá noc ztracena – a já vím z trpké zkušenosti, co se za jednu noc může přihodit. Ovšem, všechno snad dopadne dobře, jenže co se vlastně mohlo stát? Zřejmě nad námi visí nějaká strašná hrozba a každá nepředvídaná okolnost může asi zvrátit všechno, čeho se pokoušíme dosáhnout. Vezmu si tento váleček s sebou a svůj záznam pak budu moci dokončit na Lucyině fonografu.
 
 ### POZNÁMKY ZANECHANÉ LUCY WESTENROVOU
 
-  
+</section>
+
+<section>
 
 _17\. září. Noc._ – Píši tyto poznámky a zanechávám je zde, aby se rozhodně nikdo nedostal mým přičiněním do neštěstí. Je to přesný zápis toho, co se událo dnešní noci. Cítím, že umírám slabostí, a nemám už téměř sílu psát, ale musím to udělat, i kdyby mi psaní přivodilo smrt.
 
@@ -175,3 +193,5 @@ Zanedlouho jsem přišla k sobě, ale bylo mi hrozně, nevýslovně hrozně. N�
 Sotva jsem spatřila, co se stalo, opustila mě všechna naděje. Všechny čtyři ležely bezvládně na zemi a těžce oddychovaly. Stolní láhev, v níž bylo sherry, byla zpoloviny plná, ale vanul z ní podivný, ostrý zápach. Pojala jsem podezření a prohlédla láhev. Byla cítit opiovým extraktem, a když jsem pohlédla na příborník, zpozorovala jsem, že lahvička, ze které mamince její lékař dává – ach! vlastně dával – užívat, je prázdná. Co mám dělat? Co mám dělat? Vrátila jsem se zpět do pokoje k mamince. Nemohu ji přece opustit a jsem v domě sama kromě služebných, které někdo uspal. Sama s mrtvou! A odejít z domu se bojím, protože rozbitým oknem doléhá do pokoje hluboké vytí vlka.
 
 Vzduch jako by byl plný skvrnek, poletujících a kroužících v průvanu od okna, a světla planou modře a mdle. Co mám dělat? Bože, chraň mě této noci všeho zlého! Tento list skryji na ňadrech, kde ho najdou, až mě přijdou položit do rakve. Má drahá maminka skonala! Je čas, abych odešla také. Jestliže tuto noc nepřežiji, pak sbohem, můj drahý Arthure! Nechť tě Bůh ochrání, můj drahý, a mně nechť pomůže!
+
+</section>

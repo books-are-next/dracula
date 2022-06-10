@@ -3,9 +3,13 @@ title: Kapitola 21
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _3\. října._ – Pokusím se teď napnout paměť a zaznamenat přesně vše, co se událo od posledního zápisu. Musím si vzpomenout na každou sebemenší podrobnost, ani jednu nesmím vynechat, a budu postupovat rozvážně.
 
@@ -138,3 +142,5 @@ Zatímco vyprávěla své hrůzné zážitky, začalo na východě svítat a v�
 Domluvili jsme se, že dokud se zase nesejdeme a nedomluvíme další postup, bude jeden z nás vždy v blízkosti nešťastné dvojice.
 
 Jedním jsem si jist: žádný dům, na který dnes budou po celou dlouhou dráhu denního oběhu dopadat paprsky právě vycházejícího slunce, není tak nešťastný jako náš!
+
+</section>

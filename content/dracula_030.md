@@ -3,9 +3,13 @@ title: Kapitola 25
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _11\. října, večer._ – Zaznamenávám toto na přání Jonathana Harkera, protože sám prý k tomu nemá sílu a chce, aby existoval přesný zápis.
 
@@ -61,7 +65,9 @@ Paní Mina měla podvědomě pravdu. Jakkoli to bylo zvláštní a jakkoli jsme
 
 ### DENÍK JONATHANA HARKERA
 
-  
+</section>
+
+<section>
 
 _15\. října. Varna._ – Odjeli jsme z Charing Crossu dvanáctého ráno, téhož dne večer jsme dojeli do Paříže a přesedli na rezervovaná místa v Orient-Expressu. Cestovali jsme přes noc a po celý další den. Do Varny jsme dojeli v pět hodin odpoledne. Lord Godalming šel na konzulát, zda mu tam nedošel nějaký telegram, a my ostatní jsme zatím jeli do hotelu Oděsa. Cestou jsme mohli spatřit mnoho zajímavého, ale já jsem se nemohl dočkat, abychom tu byli, a na ničem jiném mi nezáleželo. Dokud _Carevna Kateřina_ nepřistane, nic na širém světě mě nezajímá! Mině se bohudík daří dobře; vypadá silnější a do tváří se jí vrací barva. Hodně spí; skoro celou cestu prospala. Ale před západem a východem slunce je velmi čilá a svěží; Van Helsing ji už v těchto hodinách pravidelně hypnotizuje. Zprvu to šlo dost těžce a pokaždé se musel několikrát pokoušet, ale teď už mu podléhá naráz, jako by to byl návyk, a Van Helsing nemusí vynakládat téměř žádné úsilí. V tyhle chvíle jako by jí prostě dokázal vnutit svou vůli a její myšlenky ho poslouchají. Pokaždé se jí ptá, co vidí a slyší. Na první otázku odpovídá:
 
@@ -71,15 +77,21 @@ _15\. října. Varna._ – Odjeli jsme z Charing Crossu dvanáctého ráno, t�
 
 Navečeřeli jsme se a záhy jsme šli spát. Zítra navštívíme vicekonzula a chceme si pokud možno vyjednat přístup na palubu lodi, hned po přistání. Van Helsing tvrdí, že bychom se na palubu měli nejraději dostat mezi východem a západem slunce. I kdyby se hrabě změnil v netopýra, nemůže se vlastním letem přenést přes tekoucí vody, a proto ani nemůže opustit loď. A jelikož se odvažuje brát na sebe lidskou podobu jenom tehdy, když ví, že nevzbudí podezření – a něčeho takového se zřejmě chce vyvarovat –, musí zůstat v bedně. Jestli se nám tedy podaří dostat se na palubu po východu slunce, bude nám vydán na milost a nemilost. Vždyť dřív, než se probudí, budeme moci otevřít bednu a naložit s ním stejným způsobem jako s ubohou Lucy. A žádnou milost s ním jistě mít nebudeme! Od úředníků a námořníků nečekáme celkem potíže. Tohle je bohudík země, kde se úplatky dá dosáhnout všeho, a penězi jsme zásobeni bohatě. Musíme jenom zařídit, aby loď nemohla přistát bez našeho vědomí mezi západem a východem slunce, a pak bude všechno v nejlepším pořádku. Váček s penězi to určitě zaručí!
 
-  
+</section>
+
+<section>
 
 _16\. října_. – Mina stále vypovídá o narážejících vlnách a šplouchající vodě, o tmě a příhodných větrech. Čas nám zřejmě přeje, a až se doslechneme, že _Carevna Kateřina_ připlouvá, budeme již připraveni. Musí přece proplout Dardanelami, takže o ní určitě dostaneme nějakou zprávu.
 
-  
+</section>
+
+<section>
 
 _17\. října_. – Mám za to, že všechno je dokonale připraveno na přivítání hraběte při návratu z cest. Godalming oznámil rejdařům, že naloděná bedna by mohla pravděpodobně obsahovat ukradený majetek jednoho jeho přítele, a dostalo se mu neoficiálního povolení bednu na vlastní riziko otevřít. Rejdař mu dal list, v němž žádá kapitána, aby mu poskytl pomoc při všem, co bude chtít na palubě zařídit, a podobné povolení poslal svému agentovi ve Varně. S tím jsme mluvili; Godalmingovo vlídné chování mu velmi zalichotilo a jsme přesvědčeni, že učiní vše, co je v jeho silách, aby nám pomohl. Už jsme se dohodli, co uděláme, jestli se nám podaří zmocnit se bedny a otevřít ji. Bude-li v ní hrabě, Van Helsing se Sewardem mu okamžitě uříznou hlavu a probodnou srdce kůlem. Morris, Godalming a já je budeme chránit proti jakémukoli zásahu zvenčí, i kdybychom museli použít zbraní. Ty ovšem budeme mít po ruce. Podle profesora by se tělo hraběte po takovém zákroku rozpadlo velmi brzy v prach. Pak by ovšem chyběl proti nám jakýkoliv důkaz v případě, že by nás snad někdo chtěl obvinit z vraždy. Ale i kdyby se nerozpadlo, budeme za svým činem stát a s ním i padneme, a jednoho dne nás třeba právě tento zápis zachrání před oprátkou. Já osobně budu jenom přešťasten, jestli se nám tato okolnost naskytne. Jsme odhodláni nasadit k provedení svého záměru všechny dostupné prostředky. Někteří úředníci nám slíbili, že jakmile se _Carevna Kateřina_ objeví na obzoru, pošlou nám po zvláštním kurýrovi zprávu.
 
-  
+</section>
+
+<section>
 
 _24\. října._ – Celý týden čekání. Denně dostává Godalming telegramy, ale vždy stejná písnička: „Dosud žádná zpráva.“ Ani Mininy odpovědi v hypnóze se nemění: „Narážející vlny, šplouchající voda a vrzající stěžně.“
 
@@ -92,27 +104,37 @@ _Telegram, 24. října._
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _24\. října._ – Jak mi jen chybí můj fonograf! Psát deník rukou mě unavuje, ale Van Helsing na tom trvá. Telegram, který včera dostal Godalming od Lloydů, nás velmi rozrušil. Už chápu, jaké má pocity voják, když ho volá polnice do boje. Jedině paní Harkerová nedává najevo žádné vzrušení. Ostatně na tom ani není nic divného; dali jsme si obzvlášť pozor, abychom jí o telegramu vůbec nic neřekli, a v její přítomnosti se snažíme zachovávat úplný klid. Kdysi by si toho byla určitě všimla, i kdybychom se to snažili co nejvíc zatajit, jenže v tomto směru se za poslední tři týdny značně změnila. Začíná ji zmáhat letargie, a i když vypadá silně a zdravě a trochu se jí vrací barva, nejsme s Van Helsingem ani trochu spokojeni. Často o ní hovoříme, ale raději jsme se o tom ostatním ani nezmínili. Kdyby chudák Harker věděl, že chováme i tady podezření, zlomilo by mu to srdce anebo určitě by mu to pocuchalo nervy. Kdykoli je Mina v hypnotickém spánku, prohlíží jí Van Helsing, jak mi sdělil, velmi bedlivě zuby, protože dokud prý se nezačnou zaostřovat, nehrozí jí ještě žádné akutní nebezpečí. Až by ovšem k takové změně došlo, museli bychom podniknout patřičné kroky…! Oba víme, jaké kroky by to musely být, i když si o tom nevyměňujeme názory. A nikdo před povinností necouvne – třebas to je hrůzné pomyšlení. „Euthanasia“ je báječné a uklidňující slovo! Díky tomu, kdo je vymyslil!
 
 Z Dardanel je sem pouze 24 hodin plavby, pokud ovšem _Carevna Kateřina_ popluje stejnou rychlostí jako z Londýna. Podle toho by měla přistát někdy ráno, a protože dříve rozhodně dorazit nemůže, odebereme se dnes všichni záhy na lože. Vstaneme v jednu hodinu, abychom byli připraveni.
 
-  
+</section>
+
+<section>
 
 _25\. října, poledne._ – Dosud žádné zprávy o přistání lodi. Sdělení paní Harkerové při ranní hypnóze znělo stejně jako vždycky, takže není vyloučeno, že se každým okamžikem něco dozvíme. Všichni už jsme rozrušeni na nejvyšší míru, jenom Harker zůstává klidný; ruce má chladné jako led a před hodinou jsem ho zastihl, jak brousí ostří zakřivené dýky, kterou neustále nosí při sobě. Jestli Harkerova odhodlaná, ledově chladná ruka jednou přiloží ostří té dýky hraběti na hrdlo, příliš naděje mu pak nekyne!
 
 Dnes nám paní Harkerová nahnala trochu strachu. K polednímu upadla do letargického stavu, který se nám ani trochu nezamlouval; ostatním jsme sice o něm pomlčeli, ale nijak nás nepotěšil. Celé dopoledne byla neklidná, takže jsme zprvu přivítali, že usnula. Když se nám však její manžel jen mimochodem zmínil, že má tak tvrdý spánek, až ji ani nemohl probudit, zašli jsme k ní do pokoje. Dýchala normálně a vypadala tak dobře a klidně, že jsme nakonec rezignovaně usoudili, že spánek je pro ni lepší než cokoli jiného. Tolik věcí tíží mysl toho ubohého děvčete, že jí spánek, pokud jí přináší zapomnění, jenom prospěje.
 
-  
+</section>
+
+<section>
 
 _Později._ – Náš názor byl správný. Po několikahodinovém osvěžujícím spánku se probudila a působila svěžeji a veseleji než poslední dny. Při západu slunce nám podala z hypnózy svou obvyklou zprávu. Ať už se hrabě nalézá v Černém moři kdekoli, spěje rychle vstříc svému osudu. Své zkáze, doufám!
 
-  
+</section>
+
+<section>
 
 _26\. října._ – Další den a žádné novinky o _Carevně Kateřině_. Už by tady měla být! Ranní zpráva paní Harkerové z hypnózy zněla stejně, takže se určitě stále ještě někde plaví. Není vyloučeno, že loď musela občas kvůli mlze někde spustit kotvy; některé parníky, které včera večer připluly, hlásily husté mlhy severně a jižně od přístavu. Musíme být dál na stráži, vždyť loď může být ohlášena každou chvílí.
 
-  
+</section>
+
+<section>
 
 _27\. říjen, poledne_. – Je to nanejvýš podivné; stále žádné zprávy o lodi, na kterou čekáme. Včera večer a dnes ráno hlásila paní Harkerová jako obvykle: „Narážející vlny a šplouchající voda,“ ačkoli tentokráte dodala, že „vlny jsou velmi mírné“. Londýnské telegramy se neustále opakují: „Žádná další zpráva.“ Van Helsing má hrozné obavy a právě mi sdělil, že se bojí, aby nám hrabě neunikl. Dodal významně:
 
@@ -127,7 +149,9 @@ _Telegram, 28. října._
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _28\. října._ – Když nám byl doručen telegram se zprávou o přistání lodi v Galaci, nebyl to pro nikoho z nás takový šok, jak by se dalo očekávat. Pravda, nevěděli jsme, odkud, kdy a jak přijde pohroma, ale všichni jsme počítali s tím, že dojde k něčemu nepředvídanému. Už skutečnost, že loď stále nepřistávala ve Varně, každého z nás přesvědčila, že se situace nebude vyvíjet podle našich předpokladů. Čekali jsme pouze na to, co se změní. Přesto nás to překvapilo. Příroda zřejmě v člověku neustále živí tak silnou naději, že člověk i proti zdravému rozumu věří, že věci dopadnou tak, jak by si přál, aby dopadly, a ne tak, jak bychom měli předpokládat, že dopadnou. Transcendentalismus je majákem pro anděly, i když je pro lidi pouhou bludičkou. Byl to prazvláštní zážitek a každý jsme na něj reagovali jinak. Van Helsing na okamžik pozdvihl paže nad hlavu, jakoby Všemohoucímu na protest; neřekl však ani slovo a za několik vteřin povstal se zachmuřenou tváří. Lord Godalming nadmíru zbledl a těžce oddychuje usedl. Quincey Morris si utáhl opasek prudkým pohybem, který tak dobře znám; za našeho mládí to byl pokyn k akci! Tvář paní Harkerové pokryla přízračná bledost, takže jí jizva na čele téměř vzplanula, ale pokorně sepjala ruce a s pohledem upřeným vzhůru se modlila. Harker se usmál – skutečně se usmál – tím trpkým, temným úsměškem člověka, který už nemá v co doufat. Ale posunkem současně usvědčil výraz tváře ze lži, protože jeho ruka bezděčně nahmatala jílec dýky a sevřela ho. „Kdy odjíždí příští vlak do Galace?“ zeptal se mimochodem Van Helsing.
 
@@ -182,3 +206,5 @@ Co z toho pro nás plyne? Poměrně málo? Ne! Dětský rozum hraběte nic nech
 „Takto už vaší mysli zneužil a zdržel nás tady ve Varně, zatímco loď, na níž byl, plula zahalena mlhou vzhůru do Galace, kde bezpochyby už dal vykonati přípravy pro útěk. Dále však jeho dětský mozek nedohlédl; a třeba se právě díky prozřetelnosti boží stane, že to, co zlosyn pokládá pro sebe za nejvýhodnější, mu nakonec nejvíce uškodí. Lovec se chytil do vlastních tenat, jak říká velký žalmista. Jestliže je nyní přesvědčen, že jsme zcela ztratili jeho stopu a že nám unikl s mnohahodinovým náskokem, bude ho jeho sobecký dětský mozek ukolébávat ke spánku. Také se domnívá, že teď, kdy se odpoutal od toho, co se odehrává ve vaší mysli, nemůžete ani vy nic věděti o něm. Jenže zde se mýlí! Ten hrůzný křest krve, který vám vnutil, vám umožňuje vyhledávati jeho myšlenky tak, jak jste to až dosud dělala ve chvílích, kdy jste byla svobodná – při východu a západu slunce. V takových chvílích k němu přicházíte z vůle mé, a nikoli jeho; a této moci, která je ku prospěchu vám i nám, jste nabyla utrpením pocházejícím z jeho ruky. Tato vaše schopnost je pro nás teď o to vzácnější, že on o ní neví, a aby se chránil, vzdal se i možnosti zjistiti, kde právě dlíme. My ovšem nejsme vůbec sobečtí a věříme, že Bůh nás provází touto tmou a těmito černými hodinami. Budeme hraběte pronásledovati a před ničím neustoupíme, i kdyby nám hrozilo nebezpečí, že se staneme stejnými jako on. Příteli Johne, toto byla požehnaná hodina; pomohla nám, abychom na své cestě pokročili notný kus kupředu. Musíme učiniti podrobný a přesný zápis a dáti ho ostatním, až se vrátí ze svých pochůzek, aby tak znali totéž co my.“
 
 Do návratu našich přátel jsem všechno popsal a paní Harkerová nám pak už donesla na stroji přepsaný rukopis.
+
+</section>

@@ -3,9 +3,13 @@ title: Kapitola 12
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _18\. září._ – Odjel jsem okamžitě do Hillinghamu. Protože bylo ještě brzy ráno, nechal jsem kočár čekat u branky a šel stromořadím k domu. Tiše jsem zaklepal a co nejohleduplněji zazvonil, abych snad neprobudil Lucy nebo její matku. Doufal jsem, že mi přijde otevřít pouze služka, jenže nikdo nešel. A tak jsem za chvíli znovu zaklepal a zazvonil. Pak mě popadl vztek, že služky mohou být tak líné a být ještě tak pozdě v posteli – bylo už totiž deset hodin, a klepal jsem a zvonil dál, tentokráte netrpělivěji. Přesto nikdo nepřicházel. Až do této chvíle jsem podezíral jenom služebnictvo, jenže pomalu na mě začínala dotírat hrozná úzkost. Není tohle mrtvolné ticho jenom dalším článkem v řetězu zhouby, který se snad kolem nás stahuje? Nepřišel jsem snad opravdu už pozdě do domu smrti? Jestli Lucy dostane opět jeden z těch strašných záchvatů, pak každá minuta nebo dokonce vteřina zpoždění pro ni může znamenat hodinu plnou nebezpečí. Obešel jsem proto dům, zda náhodou nenajdu otevřený jiný vchod.
 
@@ -49,7 +53,9 @@ Hlas zazněl z pohovky na druhé straně pokoje. Jeho zvuk mě naplnil radostí
 
 Podal mi telegram:
 
-  
+</section>
+
+<section>
 
 „Už tři dny žádné zprávy od Sewarda. Mám velké starosti. Nemohu odjet. Otcův zdravotní stav nezměněn. Neprodleně mi pošli zprávu, jak se daří Lucy.
 
@@ -99,7 +105,9 @@ Pokrčil jsem rameny: „V tom je právě ta záhada,“ odpověděl jsem. „H
 
 Sotva se Lucy na sklonku odpoledne probudila, sáhla za ňadra a k mému překvapení vytáhla poznámky, které mi dal Van Helsing přečíst. Prozíravý profesor je vrátil tam, odkud vypadly, aby se při probouzení nevylekala. Její zrak spočinul na Van Helsingovi, pak na mně a svitla v něm radost. Potom se rozhlédla po pokoji, a když zjistila, kde je, zachvěla se. Vzápětí pronikavě zakvílela a ubohýma vyhublýma rukama si přikryla bledou tvář. Pochopili jsme, co to znamená – plně si uvědomila matčinu smrt. Pokusili jsme se ji ukonejšit, jak jen se dalo, a naše účast jí zřejmě přinesla jistou úlevu. Byla však velmi sklíčená a smutná a dlouho tiše a vylekaně plakala. Řekli jsme jí, že teď už po celou dobu u ní vždycky zůstane jeden z nás dvou, a to ji zřejmě uklidnilo. K večeru si zdřímla. Tehdy se stalo něco podivného. Ještě ve spánku vytáhla list ze záňadří a roztrhla ho v půli. Van Helsing k ní přistoupil a vzal jí roztržený papír z ruky. Nicméně pohybovala rukama, jako by ho trhala dál, nakonec ruce nadzdvihla a rozevřela prsty, jako aby rozhodila útržky do vzduchu. Van Helsinga to zřejmě překvapilo, zamyšleně svraštil obočí, ale nic neřekl.
 
-  
+</section>
+
+<section>
 
 _19\. září._ – Celou noc na dnešek prospala Lucy neklidně, stále se bránila spánku, a kdykoli se probudila, byla o něco slabší. Střídali jsme se s profesorem u jejího lůžka a nenechali ji ani na jediný okamžik o samotě. Quincey Morris nám o svých záměrech neřekl nic, ale vím, že celou noc hlídkoval kolem domu.
 
@@ -111,13 +119,17 @@ Teď už je téměř jedna. Arthur a Van Helsing sedí u Lucy, já je mám za 
 
 ### DOPIS MINY HARKEROVÉ LUCY WESTENROVÉ
 
-  
+</section>
+
+<section>
 
 (Neotevřen adresátkou)
 
 _7\. září_
 
-  
+</section>
+
+<section>
 
 „Nejdražší Lucy,
 
@@ -138,7 +150,9 @@ Dr. JOHNU SEWARDOVI
 
 _20\. září_
 
-  
+</section>
+
+<section>
 
 „Vážený pane doktore,
 
@@ -152,13 +166,17 @@ S veškerou úctou Váš PATRICK HENESSEY“
 
 ### DOPIS MINY HARKEROVÉ LUCY WESTENROVÉ
 
-  
+</section>
+
+<section>
 
 (Neotevřen adresátkou)
 
 _18\. září_
 
-  
+</section>
+
+<section>
 
 „Nejdražší Lucy,
 
@@ -168,7 +186,9 @@ Tvá MINA HARKEROVÁ“
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _20\. září._ – Jen sebeovládání a zvyk mě nutí dnes večer zaznamenat všechny události. Cítím se hrozně mizerně, hrozně sklíčeně, a tak žehrám na celý svět a všechno v něm, i na život samý, že by mi bylo zcela lhostejno, kdyby v této chvíli nade mnou zamávaly perutě anděla smrti. A jeho perutě se tu přece zcela nedávno rozevřely – Lucyina matka, Arthurův otec, a teď… Nu, raději se pustím do práce.
 
@@ -234,3 +254,5 @@ Profesor se ke mně obrátil a vážně poznamenal:
 Otázal jsem se ho, co tím myslí, ale on pouze zavrtěl hlavou a odpověděl:
 
 „Zatím nemůžeme nic podniknouti. Můžeme jen čekati a míti oči otevřeny.“
+
+</section>
