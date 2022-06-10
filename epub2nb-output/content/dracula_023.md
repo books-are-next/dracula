@@ -3,9 +3,13 @@ title: Kapitola 18
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _30\. září._ – Vrátil jsem se domů v pět hodin. Godalming a Morris nejen už přijeli, nýbrž si už také prostudovali přepisy všech deníků a dopisů, které pořídili a uspořádali Harker se svou báječnou manželkou. Harker se dosud nevrátil z návštěvy u povozníků, o nichž mi kdysi napsal dr. Hennessey. Paní Harkerová nám podala čaj a musím poctivě doznat, že jsem si poprvé od doby, co tu bydlím, připadal v téhle staré budově _jako doma_. Když jsme posvačili, pravila paní Harkerová:
 
@@ -71,7 +75,9 @@ Teď tedy jsou všechny záznamy úplné, v pořádku a dovedeny až do této 
 
 ### DENÍK MINY HARKEROVÉ
 
-  
+</section>
+
+<section>
 
 _30\. září_. – Povečeřeli jsme v šest hodin a dvě hodiny nato jsme se sešli v pracovně dr. Sewarda. Zcela podvědomě jsme se sesedli jako nějaké kolegium či správní rada. Profesor Van Helsing zaujal na výzvu dr. Sewarda místo v čele stolu. Mne posadil dr. Seward po jeho pravici a požádal mě, abych dělala zápis; Jonathan usedl vedle mne, proti nám lord Godalming, dr. Seward a pan Morris, a to lord Godalming vedle profesora a dr. Seward uprostřed.
 
@@ -131,7 +137,9 @@ Jako typičtí muži mi uložili, abych šla na lůžko a spala; může snad ž
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _1\. října, 4 hodiny ráno_. – Ve chvíli, kdy jsme hodlali odejít z domu, dostal jsem od Renfielda naléhavou prosbu, abych k němu nepro­dleně zašel; prý mi chce sdělit něco nesmírně důležitého. Vzkázal jsem mu, že k němu přijdu ráno, že teď mám plné ruce práce. Ošetřovatel však namítl:
 
@@ -176,3 +184,5 @@ Obával jsem se, že čím déle tohle potrvá, tím víc bude rozčilenější,
 Renfield okamžitě ustal a několik vteřin na mne upřeně hleděl. Pak bez jediného slova vstal, přešel na druhou stranu pokoje a usedl na pelest. Jak jsem čekal, došlo u něho opět k rezignaci. Odcházel jsem z místnosti jako poslední a Renfield mi tichým, zdvořilým hlasem pravil:
 
 „Pane doktore, doufám, že si ráčíte do budoucna zapamatovat, že jsem dnes v noci učinil všechno, co bylo v mých silách, abych vás přesvědčil.“
+
+</section>

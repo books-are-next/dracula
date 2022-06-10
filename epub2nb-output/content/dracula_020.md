@@ -3,6 +3,8 @@ title: Kapitola 15
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK Dr. SEWARDA
 
 _(Pokračování)_
@@ -88,7 +90,9 @@ Když jsme poodešli kus cesty, zastavili jsme se mezi několika stromy, rozškr
 
 Museli jsme se okamžitě rozhodnout, co s dítětem, a dohadovali jsme se o tom. Kdybychom je odnesli na policejní strážnici, museli bychom vysvětlovat, kde jsme v noci chodili, a přinejmenším bychom byli nuceni oznámit, jak jsme dítě našli. Nakonec jsme se rozhodli, že odneseme dítě na Hampsteadská luka; jakmile zaslechneme, že se blíží strážník, položíme je na takové místo, aby je určitě našel, a co nejrychleji se odebereme domů. Dopadlo to dobře. Na okraji Hampsteadských luk jsme zaslechli těžký krok strážníka, dítě jsme položili na cestu a vyčkávali, až je strážník v mihotavém svitu své svítilny spatří. Zaslechli jsme, jak údivem vzkřikl, a tiše jsme se vzdálili. Štěstí nám přálo a nedaleko hostince _The Spaniards_ jsme sehnali drožku a vrátili se do města.
 
-  
+</section>
+
+<section>
 
 Nemohu usnout, a proto tohle všechno zaznamenávám. Musím se však pokusit o několik hodin spánku, protože Van Helsing pro mě v poledne přijde. Trvá na tom, že ho musím doprovodit na další výpravě. _27\. září._ – Vhodná příležitost pro další pokus se nám naskytla teprve ve dvě hodiny. Pohřeb, který se konal v poledne, už skončil a zbytek okolkujících pozůstalých loudavě odcházel. Vyhlédli jsme opatrně z hustého olšoví a zahlédli správce hřbitova, jak za sebou zamyká hřbitovní bránu. Pochopili jsme, že jsme v bezpečí třebas až do rána, pokud bychom si to přáli. Profesor mi však řekl, že nám postačí nanejvýš jedna hodina. Opět jsem si uvědomil onen hrůzný pocit, kdy všechno je chladná skutečnost a pro fantazii tu vůbec není místa. Také jsem si uvědomil, jaké nebezpečí nám hrozí ze strany zákona, kdybychom byli přistiženi při této svatokrádežné činnosti. A navíc mi připadalo, že je to úplně zbytečné. Stejně tak, jak už bylo zneuctívajícím činem otevřít olověnou rakev v úmyslu přesvědčit se, že žena téměř týden mrtvá je opravdu mrtva, považoval jsem teď další otevření hrobky za vrchol šílenství. Vždyť jsme se už na vlastní oči přesvědčili, že rakev je prázdná! Nicméně jsem pokrčil rameny a mlčel, protože Van Helsing svůj záměr provede vždycky, byť by mu ho kdokoli vymlouval. Profesor vyndal klíč, odemkl hrobku a opět mi zdvořile pokynul, abych vešel první. Uvnitř už to sice nevypadalo tak strašidelně jako včera v noci, ale sluneční paprsky, které sem vnikaly, stejně vyvolávaly chmurný dojem. Van Helsing přikročil k Lucyině rakvi a já šel za ním. Naklonil se a znovu odklopil vyříznutou část. Jako blesk mnou projel pocit překvapení a hrůzy.
 
@@ -126,7 +130,9 @@ Zamkli jsme hrobku a odešli; celkem bez nesnází jsme přelezli hřbitovní z
 
 _(Nedoručena)_
 
-  
+</section>
+
+<section>
 
 > _27\. září_
 
@@ -140,11 +146,15 @@ VAN HELSING“
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _28\. září._ – Je báječné, jak blahodárně může na člověka zapůsobit dobrý spánek. Ještě včera jsem byl málem ochoten akceptovat Van Helsingovy nestvůrné představy, jenže teď se mi začínají jevit jako urážky zdravého rozumu. Nepochybuji, že jim profesor věří. Rád bych jen věděl, zda jeho rozum nedošel nějaké úhony. Vždyť přece pro všechny tyhle záhadné úkazy musí existovat _nějaké_ racionální vysvětlení! Je možné, aby pachatelem byl sám profesor? Je nadán tak abnormální inteligencí, že kdyby propadl šílenství, určitě by svou utkvělou představu realizoval tím nejbrilantnějším způsobem. Tahle myšlenka mi není příjemná a zjištění, že Van Helsing je šílenec, by se vymykalo všem představám. Rozhodně ho budu bedlivě pozorovat. Snad tak vnesu trochu světla do této záhady.
 
-  
+</section>
+
+<section>
 
 _29\. září, ráno_… Včera večer krátce před desátou přišli Arthur a Quincey do Van Helsingova pokoje; profesor nám všem pověděl, co od nás očekává, ale obracel se zejména na Arthura, jako by ho pokládal za našeho mluvčího. Napřed vyjádřil naději, že s ním půjdeme všichni, „protože,“ jak řekl, „nás tam čeká těžká povinnost. Můj dopis vás jistě překvapil, že?“ Tento dotaz byl určen přímo lordu Godalmingovi.
 
@@ -215,3 +225,5 @@ Van Helsing povstal ze židle, na níž doteď seděl, a s trpkou vážností 
 „Snažně vás však prosím, abyste se nerozešel se mnou v hněvu. Za svůj dlouhý život, naplněný často činy, které jsem nekonal rád a které mi někdy rozdíraly srdce, jsem ještě nikdy nestál před tak strašlivým úkolem jako nyní. A až nastane čas, kdy mi zase budete nakloněn, pak, věřte mi, smaže váš jediný pohled tyto truchlivé chvíle, protože bych učinil vše, co je v lidských silách, jen abych vás uchránil před zármutkem. Uvažujte přece! Proč bych se jinak tolik namáhal a trápil? Přijel jsem sem z vlasti, abych byl prospěšným. Chtěl jsem vyhověti svému příteli Johnovi a pomoci roztomilé mladé dámě, kterou jsem si rovněž zamiloval. A jí – říkám to nerad, ale nikoli s výčitkou – jsem daroval to, co jste jí daroval i vy: krev ze svých žil. Daroval jsem ji, i když jsem nebyl jako vy jejím snoubencem, nýbrž pouze jejím lékařem a přítelem. Dal jsem jí své noci a dny – před smrtí i po smrti; a kdyby jí má smrt mohla prospět i teď, kdy je tou mrtvou Nemrtvou, rád jí svůj život poskytnu.“ Tato slova, pronesená s vážnou, procítěnou hrdostí, Arthura velmi dojala. Uchopil starcovu ruku a přerývaným hlasem řekl:
 
 „Ach, ano, je to trudné pomyšlení a já ničemu nerozumím. Rozhodně však půjdu s vámi a uvidím.“
+
+</section>

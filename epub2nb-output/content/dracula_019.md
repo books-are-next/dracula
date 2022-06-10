@@ -3,13 +3,19 @@ title: Kapitola 14
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK MINY HARKEROVÉ
 
-  
+</section>
+
+<section>
 
 _23\. září._ – Jonathan měl zlou noc, ale dnes se už cítí líp. Jsem tak ráda, že má tolik práce, alespoň nemyslí na ty strašné věci; a opravdu mě blaží, že nové odpovědné postavení ho nijak netíží. Věděla jsem, že neselže, a jsem hrdá, když vidím, jak je můj Jonathan práv své nové kariéře a jak nezanedbává ani jednu z povinností, které mu náležejí. Bude dnes až do pozdního večera pryč; oznámil mi totiž, že nebude doma obědvat. Domácí práce jsem už vykonala, vezmu si tedy jeho deník z ciziny, zamknu se v pokoji a přečtu si ho…
 
-  
+</section>
+
+<section>
 
 _24\. září._ – Včera večer jsem neměla sílu psát; ty hrůzné Jonathanovy zápisky mě úplně vyvedly z míry. Ubožák! Co asi vytrpěl, ať to už byla skutečnost, nebo pouhá fantazie. Ráda bych věděla, zda je na tom vůbec něco pravdy! Sepsal snad všechny ty hrůzné věci až po zápalu mozkových blan, nebo měl pro to vše jiné důvody? Tohle se nejspíš nikdy nedozvím, vždyť se ani neodvážím tuto otázku byť i hodně zdaleka nakousnout… Ale co onen muž, jehož jsme včera viděli? Jonathan se zdál zcela jist, že je to on… Ubožák! Pohřeb ho nejspíše rozrušil a přivedl na takové myšlenky… Sám tomu ovšem věří. Vzpomínám si, jak mi ve svatební den řekl: ‚Pokud mě ovšem nějaká svatá povinnost nepřiměje vrátit se k oněm hořkým chvílím, ať už jsem je probděl, či prosnil, šílený, nebo zdráv!‘ A přece jako by tu všechno zapadalo do sebe… Ten odporný hrabě měl namířeno do Londýna… A jestliže opravdu přibyl do Londýna, kypícího mi­lióny obyvatel…? Snad budeme muset splnit svou svatou povinnost, a dojde-li k tomu, nebudeme smět před ní couvnout… Připravím se na všechno. Hned si přinesu psací stroj a začnu přepisovat. Pak to alespoň bude připraveno, aby si to v případě nutnosti přečetly i jiné oči. A jestli bude třeba, pak, pokud budu připravena, nebude snad ubohý Jonathan vydán rozčilení, protože budu moci mluvit za něho a tak zabránit jeho dalším strachům a starostem. A pokud někdy překoná Jonathan svou úzkost a třeba mi o tom všem bude chtít vyprávět, pak se ho já budu moci vyptávat a všelicos si ověřit. A teprve potom budu vědět, jak ho uklidnit.
 
@@ -17,7 +23,9 @@ _24\. září._ – Včera večer jsem neměla sílu psát; ty hrůzné Jonatha
 
 _Důvěrné!_
 
-  
+</section>
+
+<section>
 
 > _24\. září_
 
@@ -35,13 +43,17 @@ WILHELMINA HARKEROVÁ“
 
 ### DENÍK MINY HARKEROVÉ
 
-  
+</section>
+
+<section>
 
 _25\. září._ – Jsem hrozně rozčilená a nemohu se tomu ubránit – blíží se už chvíle, kdy mě navštíví dr. Van Helsing, a já doufám, že se něco dozvím o Jonathanových truchlivých zážitcích. A protože profesor ošetřoval ubohou Lucy při její poslední nemoci, bude mi moci všechno o ní povědět. Proto zřejmě chce přijet – týká se to Lucy a jejího somnambulismu, a nikoli Jonathana. Jenže pak se té pravé pravdy už nikdy nedopátrám! Jsem to ale hloupá! Ten odporný deník upoutal mou fantazii a všechno přibarvuje svým koloritem. Pochopitelně přijíždí profesor kvůli Lucy. Chudinka zase podlehla svému starému návyku a ta hrozná noc na útesu jí zřejmě dodala. Měla jsem tolik starostí, že jsem málem zapomněla, jak zle jí potom bylo. Zřejmě mu vyprávěla o své noční vycházce na útes a že já o všem vím; a teď nejspíš chce, abych mu to vylíčila. Jedině tak totiž může celou záležitost objasnit. Doufám, že jsem jednala správně, když jsem se o tom paní Westenrové nezmínila; nikdy bych si neodpustila, kdyby jakýkoli můj čin, třebas i nesprávný, ubohé Lucy nějak ublížil. Doufám také, že mi dr. Van Helsing nic nevytkne. Zažila jsem poslední dobou tolik starostí a úzkostí, že víc bych jich dnes už určitě nesnesla.
 
 Člověku občas pomůže, jestli si popláče – pročistí to vzduch jako déšť. Snad mě včera rozrušila četba novin a nato dnes ráno Jonathan odjel, na celý den a noc, poprvé od doby, co jsme se vzali. Doufám, že si drahoušek dá na sebe pozor a že sem doktor brzy přijede. O Jonathanově deníku se mu nezmíním, pokud se mě nezeptá. Jsem velmi ráda, že jsem svůj deník přepsala na stroji, alespoň mu ho budu moci dát, kdyby se mě snad ptal na Lucy. Ušetří se tím mnoho otázek.
 
-  
+</section>
+
+<section>
 
 _Později._ – Přišel a zase odešel. Bylo to divné setkání, až se mi z něho hlava točí. Připadám si jako ve snu. Je tohle všechno vůbec možné, nebo dokonce i jen část toho? Kdybych si nebyla předtím přečetla Jonathanův deník, nebyla bych takovou možnost nikdy ani připustila! Ubohý, ubohý drahý Jonathan! Co všechno musel protrpět! Dej Bůh, aby mu tohle zase znovu neublížilo! Pokusím se ho před tím uchránit, ale – třebas je to hrozná představa s nedozírnými následky – snad by mu bylo útěchou i pomocí, kdyby věděl najisto, že ho neoklamal ani zrak, ani sluch, ani mysl a že všechno byla skutečnost. Není vyloučeno, že ho trýzní právě pochybnosti a že by byl spokojenější a odolnější proti dalším otřesům, kdyby se jich zbavil a přesvědčil se o pravdivosti všeho, ať už to byl zážitek skutečný, nebo jen snový. Van Helsing je jistě dobrý člověk, a také moudrý, vždyť je Arthurovým přítelem i přítelem doktora Sewarda a oni ho sem pozvali až z Holandska, aby ošetřoval Lucy. Už z našeho setkání jsem vycítila, že je to dobrý, laskavý a ušlechtilý člověk. Až zítra přijde, zeptám se ho na Jonathana; a potom snad, dá Bůh, povedou všechen ten strach a úzkost k dobrému konci. Kdysi jsem si myslela, že bych ráda dělala interviewy; Jonathanův přítel z _Exeter News_ mu řekl, že při takovém povolání je nejdůležitější paměť – člověk musí umět zachytit téměř každé vyslovené slovo, i kdyby se později mělo něco vylepšovat. Konečně se mi dostává vzácné příležitosti k takovému interview; pokusím se ho zaznamenat _verbatim_.
 
@@ -140,7 +152,9 @@ MINA HARKEROVÁ“
 
 ### DENÍK JONATHANA HARKERA
 
-  
+</section>
+
+<section>
 
 _26\. září._ – Nemyslil jsem, že budu ještě někdy pokračovat v tomto deníku, ale okolnosti toho vyžadují. Když jsem se včera večer vrátil domů, Mina už na mě čekala s večeří, a po ní mi pověděla o Van Helsingově návštěvě a o tom, že mu dala přepisy obou deníků. Také mi řekla, jak se o mne strachovala, a na podkladě doktorova dopisu mě přesvědčila, že všechno, co jsem si poznamenal, je skutečnost. Udělalo to ze mě úplně nového člověka. Až do této chvíle mě vlastně ničila nejistota, zda se to všechno skutečně událo. Připadal jsem si úplně bezmocný, jako bych tápal ve tmách; vůbec jsem si nedůvěřoval. Ale teď, kdy už vím, vůbec se nebojím, ani hraběte ne. Zřejmě tedy uspěl ve svém záměru dostat se do Londýna a byl to on, koho jsem zahlédl. Omládl, ale jak? Jestliže je Van Helsing takovým člověkem, za jakého ho Mina pokládá, pak dokáže hraběte odhalit a najít. Seděli jsme dlouho do noci a důkladně jsme všechno prohovořili. Mina se právě obléká a já za několik minut dojdu pro doktora do hotelu a přivedu ho sem…
 
@@ -174,7 +188,9 @@ Opatřil jsem mu raníky a včerejší londýnské večerníky, a zatímco jsm
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _26\. září._ – Nic definitivního zřejmě neexistuje. Před necelým týdnem jsem řekl „FINIS“, a dnes už zase začínám znovu, nebo spíše pokračuji ve svých záznamech. Až do dnešního odpoledne nebylo důvodu uvažovat o běžných věcech. Renfield je zatím po všech stránkách tak klidný, jak až dosud nikdy nebyl. S lovem much dospěl již značně daleko, teď se už také pustil do pavouků, takže mi nedělá vůbec starosti. Od Arthura jsem dostal dopis, psaný v neděli, a z něho jsem usoudil, že se už se vším postupně báječně vyrovnává. Quincey Morris je u něho a to mu velmi prospívá, protože Quincey je nevyčerpatelným zdrojem dobré nálady. Připsal mi několik řádek a v nich mi sděluje, že se Arthur už konečně pomalu vrací do starých kolejí, takže si kvůli nim starosti dělat nemusím. Začínal jsem se už věnovat své práci se stejným zápalem jako dřív a mohl jsem tedy klidně prohlašovat, že rána, kterou mi ubohá Lucy zasadila, se už pomalu zaceluje. Jenže teď se opět otevřela, a jak všechno skončí, ví jen Bůh. Mám nejasné tušení, že Van Helsing se domnívá, že to ví, jenže to, co vždycky prozradí, jen vyvolává mou další zvědavost. Včera odjel do Exeteru a zůstal tam přes noc. Dnes se vrátil a asi v půl šesté málem vlétl do mého pokoje a do ruky mi vrazil včerejší večerní vydání _Westminster Gazette_. Pak poodstoupil, a zkříživ paže, zeptal se mě:
 
@@ -227,3 +243,5 @@ Přelétl jsem noviny očima, protože jsem opravdu nevěděl, co má na mysli. 
 „Probůh, pane profesore, co tím chcete říci?“ zvolal jsem.
 
 Van Helsing sklesl s výrazem zoufalství do křesla, opřel se lokty o stůl, obličej skryl do dlaní a řekl: „Způsobila jim je slečna Lucy!“
+
+</section>

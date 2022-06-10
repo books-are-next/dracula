@@ -3,7 +3,7 @@ title: Nejslavnější horror
 contentType: prose
 ---
 
-  
+<section>
 
 Pověsti a zprávy o upírech tvoří odedávna vděčný námět pro literární zpracování. U starých Řeků a Římanů, v kramářských písních i u autorů tak slavných, jako je Goethe, Heine, E. T. A. Hoffmann, Maupassant, Baudelaire, Gogol, Turgeněv, setkáváme se s postavou upíra, s tímto zosobněným zlem, jehož synonymem se právě stalo jméno Dracula. Strach člověka z upíra je stár jako lidstvo samo; je to strach z nepochopitelného, nepoznatelného, podvědomý strach ze zvratu v lidském životě, způsobený silou zcela se vymykající lidské moci. Je to strach, jehož ekvivalentem je dnešní strach z atomové pumy, z hrozby neznámé budoucnosti…
 
@@ -20,3 +20,5 @@ Stoker zůstal u Irvinga až do jeho smrti v roce 1905; za tu dobu napsal dese
 K tématu „Draculy“ inspirovali Stokera jednak jeho literární předchůdci, jednak jeho přítel, orientalista Arminius Vambery, působící na budapešťské universitě. Ten ho seznámil s historickou postavou valašského vojvody Vlada, panujícího ve druhé polovině 15. století, jehož ukrutnost a krvavé skutky byly tak pověstné, že podle lidového podání byl prý spolčen s ďáblem. Tohoto mistra trojího umění – diplomatického, na jehož základě si dovedným využíváním rozporů mezi králem uherským a sultánem tureckým udržoval nezávislost; vojenského, s nímž vedl své tlupy pastýřů a sedláků proti nepřátelům za Dunajem; a konečně práva útrpného, jemuž padly za oběť tisíce lidských životů – použil Stoker jako předobrazu svého hraběte Draculy (je to i jméno několika valašských vojvodů). Se vzácným vkusem, s ohledem na reálie, s hlubokou znalostí vampyrismu se Stokerovi podařilo vzkřísit v povědomí miliónů čtenářů prastarou legendu, provázející lidstvo od nepaměti. Do typicky měšťácké společnosti minulého století, do prostředí viktoriánské Anglie umístil Stoker příběh, v němž se silou tmy a zkázy zápolí obyčejní lidé, nucení bojovat zbraněmi stejnými jako síla zla – symboly a prostředky čerpanými ze středověkých mýtů. Pravda, občas pronikne na povrch Stokerův irský katolicismus, jenže v rukou profesora Van Helsinga se stejně všechny zbraně, jimiž se bojuje proti upírům, stávají dezinfekčními a sterilizačními prostředky. A proto si snad ani dnešní čtenář nepoloží otázku, zda něco takového je v moderním světě možné. Z vlastní zkušenosti už ví, že zlo je na světě všudypřítomné a že je nutno proti němu bojovat, neúnavně, vytrvale, trpělivě.
 
 TOMÁŠ KORBAŘ
+
+</section>

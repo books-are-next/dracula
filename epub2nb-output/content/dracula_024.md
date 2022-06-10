@@ -3,9 +3,13 @@ title: Kapitola 19
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK JONATHANA HARKERA
 
-  
+</section>
+
+<section>
 
 _1\. říjen, 5 hodin ráno._ – Vypravil jsem se s ostatními na prohlídku domu s klidnou myslí; vždyť jsem ještě nikdy neviděl Minu tak naprosto rozhodnou a svěží. Těší mě, že se bude držet stranou a nechá jednat nás muže. Vlastně mě i trochu děsilo, že je vůbec do této strašné záležitosti zapletena; teď však už její úloha skončila, díky její energii, důvtipu i předvídavosti máme celý příběh ve všech souvislostech jasně před sebou a všechno ostatní už může Mina přenechat nám. Ten výstup s panem Renfieldem mé druhy poněkud vyvedl z míry. Mlčky se vrátili z jeho pokoje do pracovny. Tam se pan Morris obrátil k dr. Sewardovi:
 
@@ -57,13 +61,17 @@ Dům byl při návratu tichý, jen v jednom odlehlém sále naříkal nějaký 
 
 Vešel jsem po špičkách do našeho pokoje; Mina spala a oddychovala tak potichu, že jsem se k ní musel sklonit, abych ji slyšel. Vypadá bledší než jindy. Jsem upřímně rád, že nebude mít nic společného ani s naším budoucím konáním, ba ani s našimi poradami. Je to příliš těžké břímě pro ženu. Původně jsem si to nemyslil, jenže teď ano. Jsem proto rád, že jsme se tak dohodli. Leccos, co by zaslechla, by ji mohlo vyděsit; jestliže by ovšem jednou pojala podezření, že něco zatajujeme, pak by bylo asi vhodnější jí to vyjevit, než to před ní skrývat. Proto je lepší, že náš úkol bude pro ni zapečetěnou knihou alespoň do té doby, než jí budeme moci říci, že všechno je skončeno a svět zbaven netvora z pekel. Na počátku to bude určitě svízelné zachovávat před ní mlčení po tak dlouhé době důvěrné otevřenosti. Nesmím se však dát zviklat, zítra prostě pomlčím o našem nočním výletě a odmítnu jí sdělit cokoli z toho, co se odehrálo. Lehnu si na pohovku, abych ji nerušil.
 
-  
+</section>
+
+<section>
 
 _1\. října, později._ – Bylo vlastně přirozené, že jsme všichni zaspali; měli jsme za sebou rušný den a v noci jsme si vůbec neodpočinuli. I Mina byla zřejmě vyčerpána; probudil jsem se totiž ještě před ní, ačkoli už slunce stálo hodně vysoko, a musel jsem na ni dvakrát či třikrát zavolat, aby se probudila. Spala dokonce tak tvrdě, že mě v prvních okamžicích ani nepoznávala, ale hleděla na mě s výrazem naprostého úděsu jako někdo, kdo se probírá ze zlého snu. Stěžovala si, že je trochu malátná, a tak jsem ji nechal v posteli. Víme už, že bylo odvezeno dvacet jedna beden. Za předpokladu, že při každém stěhování jich bylo odvezeno najednou několik, budeme je snad moci vypátrat všechny. Zajdu dnes za Thomasem Snellingem.
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _1\. října._ – Dopoledne ke mně vešel do pokoje profesor a probudil mě. Byl veselejší a spokojenější než jindy a výsledky včerejší noční výpravy mu zřejmě trochu zlepšily náladu. Hovořili jsme o našem nočním dobrodružství a vtom řekl:
 
@@ -85,7 +93,9 @@ Van Helsing tedy odešel popovídat si s paní Harkerovou a s Har­kerem; Qui
 
 ### DENÍK MINY HARKEROVÉ
 
-  
+</section>
+
+<section>
 
 _1\. října._ – Je pro mne nezvyklé být ponechána v nevědomosti, jak tomu je dnes; řadu let se mi Jonathan úplně se vším svěřoval, a teď mi určitě některé záležitosti zamlčuje, a to ty nejdůležitější. Po včerejší únavě jsem dnes ráno dlouho spala, a ačkoli také Jonathan vstával pozdě, přece jen se probudil přede mnou. Před odchodem ještě se mnou velmi něžně a mile pohovořil, ale ani slovem se nezmínil o tom, co se událo při prohlídce domu hraběte Draculy. Přitom určitě věděl, jak hrozně jsem zvědavá! Ubohý drahoušek! Zřejmě ho to trápilo víc než mne. Všichni se dohodli, že mě do své strašné práce už dále zatahovat nebudou, a já jsem s tím souhlasila. Ale ta představa, že něco přede mnou tají! A teď brečím jako hloupá, třebas _vím_, že všechno vyplývá z nesmírné lásky mého manžela a správných, ano správných úmyslů těch ostatních odvážlivců…
 
@@ -97,6 +107,10 @@ Ani si nevzpomínám, jak jsem včera večer usnula. Jen si pamatuji, že jsem n
 
 Připadalo mi, že spím a čekám na Jonathanův návrat. Strašně jsem se o něho bála a nebyla jsem vůbec schopna cokoli dělat; ruce, nohy i mozek jsem měla jako ochrnuté, takže nic nemělo obvyklé tempo. Spala jsem neklidně a přemýšlela. Potom jsem si začala uvědomovat, jak vzduch v pokoji je těžký, vlhký a chladný. Odhrnula jsem přikrývku z obličeje a překvapeně shledala, že jsem obklopena jakousi mlhou. Plynový plamínek, který jsem nechala zapálený pro Jonathanův návrat a pouze ho trochu stáhla, pronikal jen jako nepatrná rudá jiskřička mlhou, která zhoustla a vnikla do pokoje. Uvědomila jsem si, že jsem přece předtím, než jsem si lehla, okno zavřela. Chtěla jsem vstát, abych se o tom přesvědčila, ale jakási olověná tíže mi ochromila údy, a dokonce i vůli. Zůstala jsem tedy trpělivě ležet; nic víc. Zavřela jsem oči, přesto jsem však viděla zpod zavřených víček. (Je fantastické, jaké kousky nám provádějí sny a jak pohotově jim přizpůsobujeme svou fantazii.) Mlha stále houstla, a teď už jsem viděla, kudy vniká dovnitř; prýštila do pokoje jako kouř – nebo jako bílá pára vroucí vody – nikoli oknem, nýbrž spárami dveří. Neustále houstla, až nakonec vytvořila v pokoji jakýsi sloup dýmu, jehož vrcholkem prozařoval plynový plamínek jako rudé oko. V hlavě mi začaly vířit myšlenky stejným způsobem, jakým teď vířil sloup dýmu v pokoji, a napadla mě slova Písma: „Sloup oblakový za dne a sloup ohnivý za noci.“ Že by se mi ve spánku dostalo duševní posily? Jenže sloup byl stvořen z útěchy denní i noční, vždyť v rudém oku byl oheň, a to mě okamžitě neobyčejně upoutalo. Hleděla jsem tam, a tu se oheň rozdělil a mlhou se na mě pronikavě upíraly dvě rudé oči, jak se o nich zmínila Lucy ve chvilkovém zmatení mysli – tehdy na útesu, když paprsky zapadajícího slunce dopadly na okna kostela Panny Marie. Vtom jsem si s hrůzou uvědomila, že i Jonathan viděl, jak se ony tři strašné ženy stejně zhmotňují z vířící mlhy v měsíčním světle, a zřejmě jsem ve snu omdlela, protože se mi všechno změnilo v černou prázdnotu. Krátce předtím, než jsem pozbyla vědomí, mi má obrazotvornost ukázala bílý nejasný obličej, sklánějící se ke mně z mlhy. Takových snů se musím vyvarovat, kdyby jich totiž bylo přespříliš, ještě by člověka připravily o rozum. Nejraději bych si dala od dr. Van Helsinga nebo dr. Sewarda předepsat nějaký prášek na spaní, bojím se však, abych je nevylekala. A kdyby věděli, že se mi teď zdál takový sen, jistě by měli o mne ještě větší strach. Dnes se rozhodně pokusím o klidný spánek. Jestli se mi to nepodaří, poprosím je zítra večer o dávku chloralu; pro jednou mi to neuškodí a zaručí mi to nerušený spánek. Včerejší noc mě znavila víc, než kdybych vůbec nespala.
 
-  
+</section>
+
+<section>
 
 _2\. října, 10 hodin večer._ – Na dnešek jsem spala, nic se mi však ne­zdálo. Zřejmě jsem spala tvrdě, protože mě neprobudil ani Jonathan, když si šel lehnout. Spánek mě však neosvěžil, cítím se dnes hrozně slabá a malátná. Včera jsem se celý den pokoušela trochu číst nebo jsem podřimovala. Odpoledne mi vzkázal pan Renfield, zda bych ho mohla navštívit. Chudák, byl velmi milý a před odchodem mi políbil ruku a svěřil mě do péče boží. Úplně mě to dojalo, a kdykoli si na něho vzpomenu, rozpláču se. Tohle je další slabost, na kterou si musím dát pozor. Jonathan by se rmoutil, kdyby věděl, že jsem plakala. On i ostatní byli až do večeře mimo dům a vrátili se unaveni. Ze všech sil jsem se snažila je rozveselit, a myslím, že jsem tím prospěla i sobě; zapomněla jsem totiž na vlastní únavu. Po večeři mě poslali na lože a všichni si šli vykouřit doutník, jak tvrdili; já ovšem vím, že si chtěli navzájem sdělit, co každý z nich za dnešek zjistil. Z Jonathanova chování jsem poznala, že má nějakou důležitou zprávu. Nebyla jsem tak ospalá, jak se dalo čekat. Řekla jsem proto před odchodem dr. Sewardovi, že jsem předešlou noc nespala dobře, a požádala ho, aby mi dal uspávací prostředek. Velmi laskavě mi ho namíchal a dal mi ho s upozorněním, že je velmi mírný a že mi neublíží… Vzala jsem si ho a teď čekám na spánek; stále ještě nepřichází. Snad jsem se nedopustila chyby; jakmile totiž se mnou spánek začíná flirtovat, přepadá mě nová obava: že je ode mne bláhové takhle se sama připravit o schopnost bdít. Třeba bych měla bdít. Spánek už přichází. Dobrou noc.
+
+</section>

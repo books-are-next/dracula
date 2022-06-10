@@ -3,15 +3,21 @@ title: Kapitola 17
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK Dr. SEWARDA
 
 _(Pokračování)_
 
-  
+</section>
+
+<section>
 
 Na Van Helsinga už čekal v hotelu Berkeley telegram:
 
-  
+</section>
+
+<section>
 
 „Přijíždím vlakem. Jonathan ve Whitby. Důležité zprávy. –
 
@@ -35,7 +41,9 @@ Prohlásila, že by nejraději zašla okamžitě ke mně do pracovny, že toho m
 
 ### DENÍK MINY HARKEROVÉ
 
-  
+</section>
+
+<section>
 
 _29\. září._ – Trochu jsem se upravila a sešla dolů do pracovny dr. Sewarda. Přede dveřmi jsem se na okamžik zarazila, protože mi připadalo, že ho slyším s někým mluvit. Jelikož mě však prosil, abych si pospíšila, zaklepala jsem a na jeho výzvu „Dále!“ jsem vešla.
 
@@ -79,7 +87,9 @@ Dr. Seward je zřejmě ušlechtilý člověk; chudák Lucy ho správně odhadla.
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _29\. září._ – Byl jsem tak zahloubán do skvělého deníku Jonathana Harkera a deníku jeho ženy, že jsem si ani neuvědomil, jak čas utíká. Když služebná oznámila, že je prostřeno k večeři, nebyla paní Harkerová ještě dole. Prohlásil jsem: „Asi je unavena, počkáme s večeří ještě hodinu,“ a pokračoval v četbě. Paní Harkerová vešla právě ve chvíli, kdy jsem dočetl její deník. Vypadala velmi půvabně, ale zároveň i velmi smutně a oči měla zarudlé od pláče. Hluboce mě to dojalo. Poslední dobou jsem měl několikrát důvod k slzám, ale jejich úleva mi byla pokaždé odepřena, takže pohled na tyto milé oči, ještě se třpytící nedávnými slzami, mi sevřel srdce. Oslovil jsem ji proto co nejpřátelštěji:
 
@@ -95,7 +105,9 @@ _29\. září._ – Byl jsem tak zahloubán do skvělého deníku Jonathana Har
 
 ### DENÍK MINY HARKEROVÉ
 
-  
+</section>
+
+<section>
 
 _29\. září._ – Po večeři jsem šla s dr. Sewardem do jeho pracovny. Přenesl tam fonograf z mého pokoje a já jsem vzala s sebou psací stroj. Doktor mě posadil do pohodlného křesla a umístil fonograf tak, abych na něj bez vstávání dosáhla. Také mi ukázal, jak ho zastavit, kdybych snad chtěla přestat psát. Potom se velmi ohleduplně posadil do křesla zády ke mně, abych se cítila co nejvolněji, a pustil se do četby. Nasadila jsem si sluchátka na uši a zaposlouchala se.
 
@@ -105,15 +117,21 @@ Když jsem doposlouchala hrůzný příběh Lucyiny smrti a všeho, co následo
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _30\. září._ – Pan Harker přijel v devět hodin. Telegram své ženy obdržel krátce před odjezdem. Je neobyčejně inteligentní, pokud lze z tváře usuzovat, a překypuje energií. Jestli je jeho deník pravdivý – a podle mých vlastních neobyčejných zkušeností pravdivý je –, je to také neslýchaně statečný člověk. Jeho druhý sestup do krypty byl neobyčejně smělým činem. Po přečtení jeho zápisků jsem čekal, že se setkám s typickým představitelem mužné síly, a nikoli s klidným, věcným džentlmenem, který sem dnes přijel.
 
-  
+</section>
+
+<section>
 
 _Později._ – Po obědě se Harkerovi vrátili do svého pokoje, a když jsem před chvílí šel kolem, slyšel jsem klapání psacího stroje. Pilně pracovali. Paní Harkerová říká, že všechny, i sebemenší důkazy seřadí chronologicky. Harker si obstaral korespondenci mezi příjemcem beden ve Whitby a londýnským dopravcem, který je převzal. Teď právě čte strojový opis mého deníku, který pořídila jeho manželka. Jsem velmi zvědav, co z něho vyčtou. Právě přichází…
 
-  
+</section>
+
+<section>
 
 _Později._ – Je opravdu podivné, že mě nikdy nenapadlo, že by právě sousední dům mohl být úkrytem hraběte Draculy! Renfieldovo chování nás skutečně mělo uvést na stopu! K strojopisu byl přiložen i svazek dopisů týkajících se prodeje toho domu. Ach, kdybychom je byli měli dříve, snad jsme stačili zachránit ubohou Lucy! Dost! Tohle je nejlepší cesta k šílenství! Harker se vrátil a pokračuje v pořádání svého materiálu. Prohlásil, že po večeři budou moci předložit příběh v celé souvislosti. Mezitím bych se měl, jak se domnívají, podívat na Renfielda, protože se až dosud z jeho chování dalo usuzovat na příchody a odchody hraběte. Mně to sice tak nepřipadá, ale až si srovnám data, dám jim nejspíš za pravdu. Je dobře, že paní Harkerová přepsala mé válečky na stroji. Jinak bychom se těch dat vůbec nemohli dopátrat…
 
@@ -121,11 +139,15 @@ Renfielda jsem zastihl, jak sedí klidně ve svém pokoji, ruce sepjaté a na o
 
 ### DENÍK JONATHANA HARKERA
 
-  
+</section>
+
+<section>
 
 _29\. září, ve vlaku do Londýna._ – Když se mi dostalo od pana Billingtona zdvořilého ujištění, že mi poskytne všechny dosažitelné informace, považoval jsem za nejlepší zajet přímo do Whitby a provést na místě všechno potřebné šetření. Mým cílem bylo zjistit, do které části Londýna dal hrabě dopravit svou odpornou zásilku. Snad se s tím později bude moci něco udělat. Billington junior, sympatický mládenec, mě čekal na nádraží a zavezl mě do otcova domu, kde bylo rozhodnuto, že tam musím přenocovat. Jsou velmi pohostinní, jak všude v Yorkshiru; hostu všechno poskytnou a nechávají mu volnost. Všichni věděli, že mám práce nad hlavu a že se zdržím jen krátce, a pan Billington už měl v kanceláři připraveny všechny listiny týkající se zásilky beden. Vzalo mi dech, když jsem znovu spatřil jeden z oněch dopisů, který jsem zahlédl u hraběte na psacím stole ještě předtím, než jsem zjistil jeho ďábelské plány. Všechno bylo pečlivě promyšleno a systematicky i přesně provedeno. Hrabě byl zřejmě připraven na každou překážku, která by mu náhodou mohla zkřížit provedení jeho záměrů. Řečeno po americku „nic neriskoval“ a logickým důsledkem jeho péče byla právě absolutní přesnost, s níž byly splněny jeho instrukce. Viděl jsem fakturu a opsal jsem si ji: „Padesát beden obyčejné hlíny k experimentálním účelům.“ Také jsem si opatřil kopie dopisu firmě Carter Paterson a její odpovědi. Víc informací mi pan Billington nemohl poskytnout; odešel jsem proto do přístavu a promluvil s pobřežními strážci, celníky a správcem přístavu. Každý z nich přispěl nějakým poznatkem k záhadnému příjezdu oné lodi, která už od té doby zaujala své místo v místní tradici, ale o těch bednách nevěděl nikdo víc, než že to bylo „padesát beden obyčejné hlíny“. Nato jsem zašel za přednostou stanice, a ten mě zavedl k mužům, kteří bedny převzali. Jejich záznamy souhlasily s fakturou a oni sami mně neřekli nic víc, než že ty bedny byly „velký a zatraceně těžký“ a že jim z jejich přenášení pořádně vyschlo v krku. Jeden z nich dodal, že tam tehdy bohužel nebyl žádný džentlmen „jako vy, milospane“, který by jim projevil vděčnost tekutou formou; další zažertoval, že žízeň, kterou tehdy měli, byla tak velká, že ji neuhasil ani dlouhý čas, jenž už mezitím uplynul. Snad ani nemusím dodat, že jsem se ještě před odchodem postaral, abych je navždy a přiměřeným způsobem zbavil příčiny k takové výčitce.
 
-  
+</section>
+
+<section>
 
 _30\. září_. – Přednosta stanice mi velmi ochotně napsal několik řádek pro svého starého kamaráda, přednostu na Kingscrosském nádraží, takže jsem se dnes ráno po příjezdu mohl u něho informovat, jak došly ony bedny. I on mě ihned zavedl k příslušným zřízencům a ti mi ukázali své záznamy, které se shodovaly s fakturou. Zde už ovšem byla možnost dostat abnormální žízeň omezena; přesto však jí zřízenci plně využili a já jsem byl opět nucen vyrovnat se s touto záležitostí _ex post facto_.
 
@@ -137,17 +159,23 @@ Jednou věcí jsem si už jist: že _všechny_ bedny, které došly na _Demeter_
 
 Pokusím se najít povozníky, kteří odváželi bedny z Carfaxu a které Renfield napadl. Z téhle stopy snad budeme moci leccos zjistit.
 
-  
+</section>
+
+<section>
 
 _Později._ – Mina a já jsme celý den pracovali a všechny doklady jsme dali do pořádku.
 
 ### DENÍK MINY HARKEROVÉ
 
-  
+</section>
+
+<section>
 
 _30\. září._ – Jsem tak šťastná, že snad provedu něco bláznivého. Je to zřejmě reakce na tíživý strach, který mě až dosud pronásledoval: že by ten hrůzný případ a otevření staré rány mohly mít na Jonathana zhoubný účinek. Při jeho odjezdu do Whitby jsem se sice tvářila co nejstatečněji, ale srdce se mi svíralo neblahou předtuchou. To nové úsilí mu však prospělo. Ještě nikdy nebyl tak odhodlaný, tak silný, tak plný výbušné energie jako teď. Ten milý, hodný profesor Van Helsing měl úplně pravdu: Jonathan je odvážný chlapík a pod tlakem, který by člověka slabšího charakteru zabil, rozkvétá. Vrátil se pln života, naděje a odhodlání; pro dnešek večer máme už všechno připraveno. Jsem rozčilením málem bez sebe. Člověk by vlastně měl mít soucit s někým tak pronásledovaným, jako je hrabě. Jenže on není člověk, ba ani ne zvíře! Kdo si přečte zprávu dr. Sewarda o Lucyině smrti a o tom, co následovalo, tomu už v srdci vyschne i ten nejmenší pramének soucitu.
 
-  
+</section>
+
+<section>
 
 _Později._ – Lord Godalming a pan Morris přijeli dřív, než jsme je čekali. Dr. Seward byl služebně mimo dům a Jonathana vzal s sebou, takže jsem je musela přivítat sama. Bylo to pro mne bolestné setkání, vždyť mi připomnělo, kolik nadějí chovala ubohý drahoušek Lucy ještě před několika málo měsíci. Lucy jim pochopitelně o mně vyprávěla a zřejmě i dr. Van Helsing na mne „pěl chvalozpěvy“, jak se vyjádřil pan Morris. Chudáčkové, ani jeden z nich netuší, že vím všechno o tom, jak se ucházeli o Lucy. Nevěděli, co mají mluvit a jak si mají počínat, protože jim nebylo jasné, do jaké míry jsem informována, a raději se omezili na bezvýznamné záležitosti. Protože však už považuji celou věc za skončenou, dospěla jsem k závěru, že je raději zasvětím do všeho, co se až dosud událo. Z deníku dr. Sewarda vím, že byli při Lucyině smrti – její skutečné smrti –, takže se nemusím obávat, že bych předčasně vyzradila nějaké tajemství. Sdělila jsem jim tedy co nejšetrněji, že jsem přečetla všechny listiny a deníky, že jsme je s manželem přepsali na stroji a právě dorovnali. Každému z nich jsem dala kopii s tím, aby si ji v knihovně přečetli. Když si lord Godalming vzal svou kopii a rozevřel ji – je to hezky tlustý balík –, otázal se mě:
 
@@ -176,3 +204,5 @@ Pan Morris nesl vlastní zármutek tak statečně, že mi srdce pro něj krváce
 „Holčičko, co živa budete, nikdy nebudete litovat, že jste byla tak strašně hodná a milá!“ Nato se vrátil do pracovny ke svému příteli.
 
 „Holčičko!“ – stejně oslovil kdysi i Lucy, a také prokázal, jak dobrým je přítelem!
+
+</section>

@@ -3,6 +3,8 @@ title: Kapitola 4
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK JONATHANA HARKERA
 
 _(Pokračování)_
@@ -12,11 +14,15 @@ _(Pokračování)_
 
 Probudil jsem se na svém loži. Pokud to tedy nebyl sen, musel mě sem donést hrabě. Pokoušel jsem se ujasnit si to, nepodařilo se mi však dospět k žádnému jednoznačnému závěru. Jistě, měl jsem určité drobné důkazy, například můj oblek ležel vedle postele urovnán jinak, než je mým zvykem. Hodinky ještě nebyly nataženy a já je vždycky pečlivě natahuji těsně před spaním, a mnoho dalších maličkostí. Jenže tohle všechno nejsou žádné důkazy, může to být totiž pouze jen svědectví toho, že má mysl není v normálním stavu, a já přece jen jsem z nejrůznějších důvodů nadmíru rozrušen. Musím pátrat po nějakém důkazu. Jedno mě těší: jestliže mě sem donesl a svlékl sám hrabě, pak jistě velmi spěchal, protože v mých kapsách zůstalo vše, jak bylo. Tenhle deník by jistě byl pro něj tajemstvím, které by nedokázal odhalit. Ale buď by si ho vzal, nebo ho zničil. A tak se teď rozhlížím po tomto pokoji; vždyť je to moje útočiště, i když mě předtím naplňoval takovým strachem. Nic totiž nemůže být hrůznější než ty strašné ženy, které hodlaly – které hodlají – vysát mi krev.
 
-  
+</section>
+
+<section>
 
 _18\. května._ – Sešel jsem dolů prohlédnout si ten pokoj znovu za denního světla, protože _musím_ poznat pravdu. Došel jsem ke dveřím na konci schodiště, ale byly zavřeny. Někdo je tak prudce zarazil do veřejí, až se třísky odštíply. Všiml jsem si, že závora nebyla zastrčena, ale dveře byly zamčeny zevnitř. Zřejmě to tedy nebyl sen, a podle tohoto předpokladu se musím zařídit.
 
-  
+</section>
+
+<section>
 
 _19\. května._ – Jsem jasně v pasti. Včera večer mě hrabě vyzval tím nejlichotivějším způsobem, abych napsal tři dopisy. Jedním mám oznámit, že má práce tady je téměř u konce a že se za několik dní vydám na zpáteční cestu; druhým, že odjíždím příštího rána od data dopisu, a třetím, že jsem opustil zámek a přijel do Bystřice. Rád bych se byl vzepřel, usoudil jsem však, že v dané situaci, kdy jsem tak naprosto v jeho moci, by bylo šílené pustit se s ním do otevřeného sporu, a odmítnout by znamenalo vzbudit jeho podezření a přivolat jeho hněv. Hrabě si je vědom, že toho vím až příliš a že nesmím zůstat naživu, protože by to pro něj bylo nebezpečné. Mou jedinou nadějí je tedy získat čas. Třeba se něco přihodí, co mi umožní útěk. V jeho očích jsem objevil rodící se odlesk stejné zběsilosti, jakou projevil, když odstrčil onu plavovlasou ženu. Vysvětlil mi, že pošta jezdí zřídka a nepravidelně a že moje dopisy zaručeně mé přátele uklidní. Velmi důrazně mě ujišťoval, že ony dva dopisy dá pozdržet v Bystřici až do mého skutečného odjezdu, protože je možné, že snad svůj pobyt náhodou prodloužím. Odmítnutí by znamenalo vyvolat další podezření; proto jsem s ním naoko souhlasil a otázal se, jaká data mám do dopisů napsat. Chvíli uvažoval a pak řekl:
 
@@ -24,7 +30,9 @@ _19\. května._ – Jsem jasně v pasti. Včera večer mě hrabě vyzval tím 
 
 Znám teď dobu, která je mi vymezena k životu. Bůh mi pomoz!
 
-  
+</section>
+
+<section>
 
 _28\. května._ – Naskytla se mi naděje na útěk nebo alespoň na možnost poslat domů zprávu. Do zámku přišla tlupa Szganyů a táboří na nádvoří. Je to cikánský kmen a vypsal jsem si o nich několik poznámek. Žijí pouze v této zemi, i když jsou spřízněni s cikány z celého světa. V Uhrách a Transylvánii jich žijí tisíce a jsou téměř zcela bezprávní. Obyčejně se svěřují pod ochranu některého velmože neboli _bojara_ a přebírají jeho jméno. Neznají strach, nemají žádné náboženství, věří jen v pověry a ovládají pouze vlastní nářečí cikánského jazyka.
 
@@ -42,7 +50,9 @@ Asi za hodinu či dvě vešel hrabě tiše do mého pokoje. Jeho příchod mě v
 
 „Ale, příteli, přemohla vás únava? Odeberte se tedy na lůžko. Tam je odpočinek nejzaručenější. Dnes večer nebudu mít asi potěšení rozmlouvat s vámi, čeká mě totiž mnoho práce, ale vy prosím spěte.“ Odešel jsem do svého pokoje, ulehl a kupodivu jsem spal beze snů. I zoufalství má své klidné chvíle.
 
-  
+</section>
+
+<section>
 
 _31\. května._ – Když jsem se dnes ráno probudil, řekl jsem si, že si vezmu ze zavazadla několik dopisních papírů a obálek a nechám si je v kapse pro případ, že by se mi naskytla příležitost k napsání dopisů. Ale nové překvapení, nový otřes!
 
@@ -50,13 +60,17 @@ Nebyl tam jediný kousek papíru, a zároveň zmizely všechny mé poznámky, z
 
 Oblek, v němž jsem cestoval, zmizel, a s ním svrchník a přikrývka. Nikde jsem po nich nenašel ani stopu. Zřejmě další zlotřilý kousek…
 
-  
+</section>
+
+<section>
 
 _17\. června._ – Dnes ráno jsem seděl na pelesti postele a lámal si hlavu. Vtom jsem zaslechl práskání bičů a dusot kopyt, jak se koně hnali vzhůru kamenitou cestou k nádvoří. Pln radosti jsem přiskočil k oknu a spatřil, jak na nádvoří vjíždějí dva velké žebřiňáky; každý táhlo osm statných koní. Na kozlících seděly dvojice Slováků, s širokými klobouky, s opasky posetými velkými cvočky, ve špinavých ovčích kožiších a holínkách. V rukou třímali jako obvykle dlouhé sekyrky. Řekl jsem si, že by vchod do hlavní haly mohl být pro ně otevřen, a rozběhl jsem se proto ke dveřím, abych sešel dolů. Další otřes: dveře byly zvenčí zamčeny.
 
 Přiskočil jsem proto k oknu a zavolal na ně. Nechápavě ke mně vzhlédli a ukazovali na mě, jenže právě v tomto okamžiku vyšel hejtman Szganyů, a když je viděl, jak ukazují na mé okno, prohodil k nim několik slov, která je rozesmála. Od toho okamžiku je už žádný můj pokus, žádné žalostné volání nebo zoufalá prosba nepřiměly, aby se na mě alespoň podívali. S rozhodným výrazem se ode mne odvraceli. Na žebřiňácích byly naloženy velké, podlouhlé bedny s držadly z tlustého provazu. Byly zřejmě prázdné; usuzuji tak podle lehkosti, s níž je Slováci sundávali, i podle dutého rachotu, který vydávaly, jak je vlekli po zemi. Když je Slováci všechny složili a nakupili v jednom koutě nádvoří na velkou hromadu, dostali od Szganyů nějaké peníze, poplivali je, aby jim přinesly štěstí, a loudali se zpět ke kozlíkům. Krátce nato jsem slyšel, jak v dálce doznívá práskání jejich bičů.
 
-  
+</section>
+
+<section>
 
 _24\. června, před úsvitem._ – Včera v noci mě hrabě brzy opustil a zamkl se ve svém pokoji. Jakmile jsem sebral odvahu, vyběhl jsem točitými schody a vyhlédl z okna vedoucího na jih. Říkal jsem si, že počkám, až se hrabě objeví – něco se totiž děje. Szganyové táboří někde v zámku a konají nějaké práce. Vím to proto, že chvílemi ke mně zdáli dolehne tlumený zvuk krumpáčů a rýčů, a ať už dělají cokoli, určitě jde zase o hanebnou lotrovinu.
 
@@ -84,7 +98,9 @@ Ani mi jí nemohlo být líto; vždyť jsem věděl, co se stalo s jejím dít�
 
 Co budu dělat? Co mohu dělat? Jak uniknout z toho úděsného otroctví noci a tmy a hrůzy?
 
-  
+</section>
+
+<section>
 
 _25\. června, ráno._ – Každý, komu noc přináší utrpení, ví, jak sladké a drahé je lidskému srdci a zraku jitro. Když dnešního rána vystoupilo slunce na obloze tak vysoko, že se už přehouplo přes horní okraj široké brány proti mému oknu, připadalo mi, jako by se na oné jásavě zářné skvrně byla usadila holubice z Noemovy archy. Strach ze mne spadl jako šat z mlžných cárů, který se rozpustil v teple dne. Musím něco podniknout, dokud mi denní světlo dodává odvahu. Včera v noci byl odeslán jeden z mých dříve datovaných dopisů, první z osudné série, která má vyhladit ze země všechny stopy mé lidské existence!
 
@@ -94,7 +110,9 @@ Jenom v noci jsem napadán a ohrožován, jenom noc mi vždy přináší něja
 
 Jenomže přece jen existuje jedna možnost, pokud by to ovšem člověk riskoval. Proč by někdo jiný nemohl použít stejné cesty jako on? Na vlastní oči jsem ho viděl vylézat z okna; proč bych tedy neučinil podobně a nevnikl k němu oknem? Byl by to zoufalý pokus, jenže má situace je ještě zoufalejší. Budu to riskovat! Přinejhorším to bude znamenat jenom smrt, ale člověk přece neumírá jako ovce, a snad by mě pak alespoň na onom světě nečekalo zatracení. Bůh mi pomáhej při mých činech! Jestliže neuspěji, pak sbohem, Mino; sbohem, můj věrný příteli a druhý otče; sbohem, všichni, a nakonec ještě jednou, sbohem, Mino!
 
-  
+</section>
+
+<section>
 
 _Téhož dne, později._ – S vypětím sil se mi to zdařilo a s boží pomocí jsem se vrátil sem do pokoje. Musím teď všechno po pořádku zaznamenat. Dokud ve mně byla odvaha, vylezl jsem rovnou z okna na jižním průčelí; venku jsem stanul na úzké kamenné římse, táhnoucí se po této straně budovy. Ze škvír mezi jednotlivými velkými, hrubě otesanými kameny smyl zub času všechnu maltu. Zul jsem si boty a pustil se na nebezpečnou cestu. Jenom jednou jsem se podíval dolů, aby mě případně nečekaný pohled na onu strašnou hloubku nepřemohl, ale od onoho okamžiku jsem tam už zrak raději nestočil. Věděl jsem celkem dobře, kde a jak daleko je okno hraběte, a zamířil jsem k němu podle svého nejlepšího odhadu, využívaje všech výhod, které se mi naskytly. Závrať jsem necítil – byl jsem nejspíš příliš rozčilen – a za chvíli, která mi připadala směšně krátká, jsem už stál na okenním pražci a pokoušel se otevřít okno. Navýsost vzrušen jsem se skrčil a nohama napřed vklouzl dovnitř. Poohlédl jsem se po hraběti, ale čekalo mě milé překvapení. Pokoj byl prázdný! Bylo tu několik málo předmětů, které vypadaly, jako by nebyly nikdy používány; nábytek byl podobného slohu jako v jižním křídle a ležel na něm vysoko prach. Hledal jsem klíč, v zámku však netrčel, a nikde jsem ho nemohl najít. Zato jsem našel v jednom koutě velkou hromadu zlatých mincí nejrůznějších druhů, římských, britských, rakouských a uherských, a řecké i turecké peníze. Všechno bylo pokryto tenkou vrstvou prachu, jako by tam už ležely hodně dlouho. Žádná z mincí, které jsem viděl, nebyla mladší než 300 let. Byly tam také řetězy a šperky, některé z nich vykládané drahokamy, ale všechny starobylé a zašlé.
 
@@ -102,7 +120,9 @@ V jednom rohu byly těžké dveře. Stiskl jsem kliku; když už jsem totiž ne
 
 V jedné z velkých beden – bylo jich tam celkem padesát – ležel na čerstvě nakopané hlíně hrabě! Nevím, zda byl mrtev, nebo spal – oči měl totiž otevřené a strnulé, ale bez skelného povlaku smrti, z tváří mu vanulo vzdor bledosti teplo života a rty měl jako vždy rudé. Nejevil však jedinou známku pohybu, žádný tep, žádný dech, žádný tlukot srdce. Sklonil jsem se k němu a hledal sebemenší náznak života, leč marně. Dlouho tam určitě neležel, protože pach čerstvosti vyprchá z hlíny za několik málo hodin. Vedle bedny leželo víko, provrtané na několika místech otvory. Usoudil jsem, že by mohl mít u sebe klíče, když jsem ho však chtěl prohledat, spatřil jsem jeho mrtvé oči a z nich, i když byly mrtvé a nevěděly ani o mně, ani o mé přítomnosti, vyzařovala taková nenávist, že jsem odsud uprchl. Pokoj hraběte jsem opět opustil oknem a vyškrábal se vzhůru po zdi. Po návratu do svého pokoje jsem se celý udýchaný vrhl na lůžko a pokusil se přemýšlet…
 
-  
+</section>
+
+<section>
 
 _29\. června._ – Dneškem je datován můj poslední dopis a hrabě učinil opatření, aby prokázal jeho pravost; opět jsem ho totiž spatřil, jak opouští zámek stejným oknem a v mém obleku. Jak slézal jako ještěrka dolů po zdi, zatoužil jsem po pušce nebo jiné smrtonosné zbrani, abych ho mohl zabít. Obávám se však, že by mu asi žádná zbraň vyrobená pouhou lidskou rukou neublížila. Tentokráte jsem se neodvážil čekat, abych byl svědkem jeho návratu; bál jsem se totiž, že spatřím ty strašidelné přítelkyně. Vrátil jsem se do knihovny a tam jsem četl, až jsem usnul.
 
@@ -142,7 +162,9 @@ Chystal jsem se ulehnout, a tu se mi zazdálo, že se za dveřmi ozývá nějak
 
 Vrátil jsem se dovnitř a klesl na kolena. Je tedy můj konec už tak blízký? Zítra! Zítra! Bože, pomoz mně i těm, jimž jsem drahý!
 
-  
+</section>
+
+<section>
 
 _30\. června, ráno._ – Toto jsou možná poslední slova, která do deníku zapisuji. Spal jsem téměř až do úsvitu, a když jsem se probudil, vrhl jsem se na kolena; usoudil jsem totiž, že má-li už smrt přijít, musí mě najít připraveného.
 
@@ -169,3 +191,5 @@ Nezůstanu tu s nimi sám, pokusím se slézt po zdi zámku níž, než jsem se
 A potom rychle domů! Pryč k nejbližšímu a nejrychlejšímu vlaku! Pryč od tohoto prokletého místa, z téhle prokleté země, kde se dosud potulují ďáblové a jejich děti v lidské podobě.
 
 Boží milosrdenství je alespoň lepší než milosrdenství těchto netvorů – a propast je srázná a hluboká. Na jejím dně může člověk spát – jako člověk. Sbohem, všichni, sbohem, Mino!
+
+</section>

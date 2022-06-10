@@ -3,6 +3,8 @@ title: Kapitola 16
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK Dr. SEWARDA
 
 _(Pokračování)_
@@ -123,3 +125,5 @@ Dříve než jsme se vydali na cestu, řekl Van Helsing:
 Jeden po druhém jsme mu stiskli ruku a složili slib. Při odchodu nám profesor pravil:
 
 „Pozítří se všichni sejdeme v sedm hodin u našeho přítele Johna a povečeříme tam. Pozvu ještě dva další přátele, které neznáte. Vyložím vám, co hodlám udělati, a vysvětlím vám své plány. Vy, příteli Johne, mě teď doprovodíte domů; musím se s vámi poraditi o různých věcech a vy mi v tom můžete pomoci. Dnes večer odjíždím do Amsterodamu, ale zítra večer se vrátím a zahájíme velké pátrání. Ale napřed vám budu muset mnoho pověděti, abyste věděli, co vám bude vykonati a čeho se budete muset vyvarovati. Potom obnovíme svůj slib, neboť nás bude čekati strašný úkol, a jakmile se dáme na pochod, nebudeme už smět couvnouti.“
+
+</section>

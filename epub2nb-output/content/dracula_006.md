@@ -3,6 +3,8 @@ title: Kapitola 1
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK JONATHANA HARKERA
 
 _(Psán těsnopisem)_
@@ -26,13 +28,17 @@ Do Bystřice, velmi zajímavého starého města, jsme dojeli až po setmění. 
 
 Hrabě Dracula mi doporučil hotel Zlatá koruna, který vypadal k mé velké radosti zcela starobyle; rád bych totiž viděl co nejvíc ze zdejších kuriozit. Zřejmě jsem byl očekáván; jak jsem totiž přicházel ke vchodu, spatřil jsem dobromyslně vypadající starší ženu v obvyklých venkovských šatech – bílé spodní šaty, pro ženu jejího věku až příliš těsně přiléhající, s dlouhou dvojitou zástěrou z barevné látky, splývající vpředu i vzadu. Když jsem se přiblížil, uklonila se a zeptala se: „Pan Angličan?“ – „Ano,“ přitakal jsem. „Jonathan Harker.“ Žena se usmála a prohodila několik slov k staršímu muži v bílé košili bez kabátu, který s ní stál ve dveřích. Muž odešel, ale vzápětí se vrátil s tímto dopisem:
 
-  
+</section>
+
+<section>
 
 Milý příteli – buďte vítán v Karpatech. Netrpělivě Vás oče­kávám. Dobře se dnes v noci vyspěte. Zítra ve tři ráno odjíždí dostavník do Bukoviny; máte v něm zamluvené místo. V Bor­goském průsmyku bude čekat můj kočár a odveze Vás ke mně. Doufám, že cesta z Londýna uběhla příjemně a že se Vám pobyt v mé krásné zemi bude zamlouvat.
 
 Váš přítel DRACULA
 
-  
+</section>
+
+<section>
 
 _4\. května._ – Zjistil jsem, že hostinský dostal od hraběte dopis s příkazem zajistit pro mne v dostavníku to nejlepší místo. Když jsem se však vyptával na podrobnosti, trochu se zřejmě zdráhal a předstíral, že mé němčině nerozumí. Určitě tomu tak nebylo, vždyť až posud mi dokonale rozuměl; alespoň mi odpovídal na otázky tak, jako by jim byl rozuměl. On a jeho manželka – ta stará paní, která mě přivítala – se na sebe vyděšeně podívali. Muž zamumlal, že mu peníze poslali v dopise, a nic víc neví. Na mou otázku, zda zná hraběte Draculu a zda mi něco může říci o jeho zámku, se oba pokřižovali, prohlásili, že nevědí vůbec nic, a prostě odmítli mluvit dál. Doba odjezdu se už tak přiblížila, že jsem neměl čas zeptat se někoho jiného; to, co se událo předtím, bylo totiž velmi záhadné a vůbec mi nedodávalo klid.
 
@@ -46,7 +52,9 @@ Těsně před odjezdem přišla ke mně nahoru do pokoje ta stará paní a velm
 
 „Je předvečer svátku svatého Jiří. Víte přece, že až dnes v noci odbijí hodiny půlnoc, bude mít všechno zlo na světě volnost? Víte vůbec, kam jedete a co vás tam čeká?“ Zmocnila se jí úzkost natolik zřejmá, že jsem se pokoušel ji uklidnit, leč marně. Nakonec přede mnou poklekla a úpěnlivě prosila, abych neodjížděl, nýbrž alespoň posečkal s odjezdem jeden či dva dny. Bylo to všechno velmi skli­čující a nebylo mi lehko u srdce. Jenže nezbývá mi nic jiného než vyřídit svůj úkol, a nesmím připustit, aby mi cokoli stálo v cestě. Pokusil jsem se ji proto zvednout se země a co nejdůtklivěji jí říci, že jí děkuji, že však nemohu zanedbat své povinnosti a odjet musím. Nato vstala, otřela si oči, s krku sňala růženec a podala mi ho. Nevěděl jsem, co dělat. Jako příslušník anglikánské církve mám totiž hluboce vštípený názor, že takovéhle předměty jsou do jisté míry projevem modlářství, přesto však mi připadalo neslušné odmítnout takový dárek staré paní, která to určitě myslí dobře a je neobyčejně rozrušená. Zřejmě postřehla pochyby na mé tváři, protože mi se slovy „Kvůli vaší mamince“ pověsila růženec kolem krku a vyšla z pokoje. Tuto část deníku píši při čekání na dostavník, který se pochopitelně zpozdil; a růženec mám stále kolem krku. Nevím, zda to způsobily obavy té staré ženy, ale rozhodně nejsem tak klidný jako obvykle. Kdyby snad Mina měla spatřit tento zápisník dříve než mne, nechť jí přinese můj pozdrav na rozloučenou! Už přijíždí dostavník!
 
-  
+</section>
+
+<section>
 
 _5\. května. Zámek._ – Ranní šero se vytratilo a slunce stojí vysoko nad vzdáleným obzorem, jakoby vroubeným kopci nebo stromy – ani nevím, vždyť je to odsud tak daleko, že člověk nerozpozná, co je velké a co malé. Nejsem ospalý, a protože mě nikdo nevyhledá, dokud se neprobudím, budu pochopitelně psát tak dlouho, až mě spánek přemůže. Musím zaznamenat příliš mnoho podivných věcí, a aby si snad ten, kdo tyto řádky bude číst, nemyslil, že jsem před odjezdem z Bystřice nějak bohatě povečeřel, raději svou večeři přesně popíši. Měl jsem k večeři něco, co zde nazývají „zbojnická pečeně“ – kousky slaniny, cibule a hovězího, okořeněné paprikou, napíchnuté na jehlici a opékané nad ohněm stejně jednoduše jako londýnské „šláchotiny“. Víno bylo Zlatý mediáš; vyvolává zvláštní, nikoli však nepříjemný štiplavý pocit na jazyku. Vypil jsem pouze dvě sklenky, jiného nic.
 
@@ -68,15 +76,21 @@ Vozka zakoktal v odpověď: „Anglický pán měl naspěch.“
 
 „Proto jsi mu zřejmě doporučoval, aby pokračoval v cestě do Bukoviny. Mne neoklameš, příteli; vím toho příliš mnoho a koně mám rychlé.“ Při těchto slovech se usmál a záře svítilny dopadla na krutá ústa s neobyčejně rudými rty a ostrými zuby, bílými jako slonovina. Jeden ze spolucestujících zašeptal svému sousedovi verš z Bürgerovy _Lenory_:
 
-  
+</section>
+
+<section>
 
 _„Denn die Toten reiten schnell.“_
 
-  
+</section>
+
+<section>
 
 _(Neboť mrtví cválají rychle.)_
 
-  
+</section>
+
+<section>
 
 Neznámý to zřejmě zaslechl; vzhlédl totiž s rozzářeným úsměvem. Cestující odvrátil tvář a současně se dvěma prsty pokřižoval. „Podej mi pánova zavazadla!“ nařídil neznámý. S neobvyklou ochotou mu je podali a uložili v bryčce. Protože bryčka stála těsně vedle dostavníku, vystoupil jsem postranními dvířky. Neznámý vozka mi přitom pomáhal a rukou mi sevřel paži ocelovým stiskem; určitě má obrovskou sílu. Bez jediného slova trhl otěžemi, koně se otočili a my jsme vyrazili do ztemnělého průsmyku. Ohlédl jsem se a ve světle svítilen dostavníku jsem uviděl, jak se z nozder koní valí pára a jak se na jejím pozadí rýsují postavy mých bývalých společníků. Křižovali se. Potom vozka zapráskal bičem, pobídl koně a dostavník vyrazil na další cestu do Bukoviny.
 
@@ -93,3 +107,5 @@ Jednou si kočí odskočil od silnice dál než předtím a za jeho nepřítomn
 Vtom začali vlci výt, jako by na ně byla zapůsobila měsíční zář. Koně sebou trhali, vzpínali se a bezmocně se rozhlíželi vypoulenýma očima, na něž bylo smutno pohledět; ale strašný živý kruh je svíral ze všech stran a jim nezbývalo než v něm setrvat. Volal jsem na kočího, aby přišel blíž, protože podle mého názoru bylo naší jedinou nadějí pokusit se prorazit kruh a přispěchat mu tímto způsobem na pomoc. Křičel jsem a tloukl do boku bryčky v naději, že hluk odežene vlky z této strany a umožní kočímu dostat se k vozu. Vtom se rozlehl jeho velitelský hlas, a když jsem se otočil po zvuku, spatřil jsem ho stát u dvířek – jak se tam dostal, nevím. Mával dlouhými pažemi, jako by odstrkoval nějakou neviditelnou překážku, a vlci couvali víc a víc. Tu zakryl velký mrak tvář měsíce a my jsme se znovu octli v temnotě.
 
 Když zase bylo trochu vidět, nasedal kočí právě na kozlík a vlci už zmizeli. To všechno bylo tak zvláštní a přízračné, že na mě dolehl hrozný strach, a já se bál hlesnout nebo se pohnout. Čas se nekonečně vlekl a my jsme stále uháněli dál, tentokráte už v úplné tmě, protože převalující se mraky zakrývaly měsíc. Jeli jsme ustavičně do kopce, jen chvílemi jsme sjížděli prudce dolů, ale v podstatě jsme neustále stoupali. Pojednou jsem zjistil, že kočí zastavuje koně na nádvoří velkého pobořeného zámku; z vysokých tmavých oken nepronikal jediný paprsek a zvětralé cimbuří se rozeklaně rýsovalo proti obloze zalité měsíčním světlem.
+
+</section>

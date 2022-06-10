@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stoker-dracula-e2be3b1",
-  "revision": "e2be3b1",
+  "identifier": "stoker-dracula-aa7506b",
+  "revision": "aa7506b",
   "readingOrder": [
     "promo.html",
     "dracula_005.html",
@@ -45,8 +45,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:40:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352020804
+    "date": "Fri Jun 10 2022 17:49:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883357255
   },
   "documents": [
     {
@@ -64,9 +64,9 @@
     {
       "title": "Poznámka autora",
       "file": "dracula_005.html",
-      "words": 2,
-      "chars": 15,
-      "ideas": 1,
+      "words": 68,
+      "chars": 439,
+      "ideas": 2,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -664,9 +664,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 122,
-      "chars": 771,
-      "ideas": 17,
+      "words": 83,
+      "chars": 557,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "dracula_034.html",
@@ -684,14 +684,14 @@
   ],
   "totals": {
     "all": {
-      "words": 135473,
-      "chars": 797706,
-      "ideas": 2029
+      "words": 135500,
+      "chars": 797916,
+      "ideas": 2020
     },
     "chapters": {
-      "words": 135346,
-      "chars": 796906,
-      "ideas": 2008
+      "words": 135412,
+      "chars": 797330,
+      "ideas": 2009
     }
   }
 }

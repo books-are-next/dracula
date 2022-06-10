@@ -3,9 +3,13 @@ title: Kapitola 22
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK JONATHANA HARKERA
 
-  
+</section>
+
+<section>
 
 _3\. října._ – Musím něco dělat, jinak se asi zblázním; proto raději píši deník. Teď je šest hodin a za půl hodiny se máme sejít v pracovně a něco pojíst; dr. Van Helsing a dr. Seward jsou totiž toho názoru, že můžeme nasadit všechny síly jen tehdy, jestliže něco sníme. Bůh ví, že dnes musíme vydat ze sebe to nejlepší. Musím využít každé volné chvíle ke psaní, jinak bych musel přemýšlet. Musím zaznamenat všechno, od nejnepatrnějších věcí k nejdůležitějším. Možná že se nakonec nejvíc poučíme právě z maličkostí. Všechno, co jsme se zatím dozvěděli, ať šlo o drobnosti nebo věci důležité, nemohlo zabránit hroznému osudu, který stihl Minu a mě. Musíme však doufat a věřit. Chudáček Mina mi právě řekla – a přitom jí slzy stékaly po tvářích –, že naše víra se musí osvědčit v utrpení a protivenství, že nesmíme přestat věřit a že Bůh nám bude pomáhat až do konce! Do konce! Ach, můj Bože, do jakého konce…? K dílu! K dílu!
 
@@ -109,7 +113,9 @@ Když jsme za sebou zavřeli dveře, prohlásil profesor slavnostně: „Část 
 
 Toto jsem napsal ve vlaku.
 
-  
+</section>
+
+<section>
 
 _Piccadilly, 12.30._ – Těsně před příjezdem na Fenchurchstreetské nádraží mi lord Godalming řekl:
 
@@ -124,3 +130,5 @@ Sotva se řemeslník trochu vzdálil, my tři jsme přešli ulici a zaklepali n
 „Odporně to tu zapáchá,“ prohlásil, jak jsme vcházeli. Opravdu to tam odporně páchlo – jako ve staré kapli v Carfaxu –, a z dřívější zkušenosti nám bylo jasné, že tady hrabě pobýval poměrně často. Pustili jsme se do prohlídky domu a drželi jsme se pohromadě pro případ, že by nás napadl. Věděli jsme přece, že máme co činit se silným a úskočným nepřítelem, a přitom jsme ani nevěděli, zda hrabě náhodou přece jen není v domě. V jídelně, umístěné za halou, jsme našli osm beden s hlínou. Pouze osm z oněch devíti, které jsme tu doufali najít! Náš úkol tedy ještě nebyl splněn a bude moci být splněn teprve tehdy, až najdeme chybějící bednu. Napřed jsme otevřeli okenice okna vedoucího na stísněný dlážděný dvorek. Naproti byla hladká stěna nějaké stáje, upravená jako průčelí malinkého domku. Nebyla v ní okna, nemuseli jsme se tedy obávat, že budeme pozorováni. Prohlídkou beden jsme se nijak nezdržovali. Nářadím, které jsme si přinesli, jsme jednu po druhé otevřeli a naložili s nimi stejným způsobem jako s bednami v kapli. Teď už nám bylo jasné, že hrabě tady není, a tak jsme začali prohledávat dům.
 
 Po zběžné prohlídce všech místností od přízemí po půdu jsme dospěli k závěru, že všechny věci, které patří hraběti, jsou shromážděny v jídelně. Podrobili jsme je tedy zevrubnému zkoumání. Byly rozloženy ve spořádaném nepořádku na velkém stole jídelny. Ležel tam objemný svazek listin o koupi domu na Piccadilly, doklady o koupi domů v Mile Endu a Bermondsey, dopisní papíry, obálky, pera a inkoust. Všechno bylo na ochranu před prachem pokryto tenkým balicím papírem. Byl tam také kartáč na šaty, kartáč na vlasy a hřeben, džbán a umývadlo; v něm byla špinavá voda, začervenalá jakoby od krve. Posledním nálezem byl malý svazek klíčů nejrůznějších druhů a velikostí, nejspíš od ostatních domů. Nato si lord Godalming a Quincey Morris poznamenali přesné adresy domů na východě a jihu města, vzali si svazek klíčů a vydali se na cestu, aby všude zneškodnili bedny. My tři zatím budeme co nejtrpělivěji očekávat jejich návrat – nebo příchod hraběte.
+
+</section>

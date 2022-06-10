@@ -3,7 +3,7 @@ title: Poznámka
 contentType: prose
 ---
 
-  
+<section>
 
 Před sedmi lety jsme všichni prošli plameny; ale štěstí, jehož někteří z nás od té doby dosáhli, přece jen vyváží bolest, kterou jsme vytrpěli. Minu i mě obzvlášť těší, že náš chlapec má narozeniny téhož dne, kdy zemřel Quincey Morris. Jeho matka věří, že po našem statečném příteli převzal některé jeho vlastnosti. Hoch je pojmenován po všech členech naší početné společnosti, ale říkáme mu Quincey.
 
@@ -14,3 +14,5 @@ Když jsme se vrátili domů, rozmlouvali jsme o starých časech, k nimž se 
 „Žádné důkazy nechceme a nikoho se neprosíme, aby nám věřil. Tenhle chlapec se jednoho dne dozví, jak statečnou a ušlechtilou je jeho matka. Už teď zná její něhu a láskyplnou péči; později pochopí, proč ji někteří muži tak milovali, že byli ochotni vykonati tolik odvážných činů.“
 
 JONATHAN HARKER
+
+</section>

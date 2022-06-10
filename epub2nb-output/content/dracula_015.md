@@ -3,12 +3,16 @@ title: Kapitola 10
 contentType: prose
 ---
 
+<section>
+
 ### DOPIS Dr. SEWARDA  
 CTIHODNÉMU ARTHURU HOLMWOODOVI
 
 _6\. září_
 
-  
+</section>
+
+<section>
 
 „Milý Arte,
 
@@ -20,7 +24,9 @@ JOHN SEWARD“
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _7\. září_. – První, co mi Van Helsing řekl, když jsme se setkali na Liver­poolstreetském nádraží, bylo:
 
@@ -133,7 +139,9 @@ Probděl jsem u ní celou noc. Ani jednou se nepohnula, naopak, celou noc spala
 
 Časně zrána přišla služebná a já jí předal péči o Lucy. Odjel jsem domů, protože jsem měl nejrůznější starosti. Van Helsingovi a Arthurovi jsem poslal telegramy a informoval je o skvělém výsledku transfúze. V práci jsem měl hodně co dohánět a to mi zabralo celý den; byla už tma, když jsem se konečně mohl vyptat na svého zoofagního pacienta. Zpráva byla příznivá: minulý den i noc byl zcela klidný. Při večeři došel z Amsterodamu telegram od Van Helsinga, v němž mě vyzýval, abych zítra večer zase přijel do Hillinghamu, protože mě tam možná bude zapotřebí. On sám odjede nočním parníkem a přibude časně ráno.
 
-  
+</section>
+
+<section>
 
 _9\. září._ – Do Hillinghamu jsem dojel značně unaven a vyčerpán. Už dvě noci jsem téměř nezamhouřil oko a v mozku se mi začala rozpínat ona tupá prázdnota, která svědčí o duševním vyčerpání. Lucy byla vzhůru a v dobré náladě. Když jsme si potřásli rukama, pohlédla mi pátravě do obličeje a prohlásila:
 
@@ -141,13 +149,17 @@ _9\. září._ – Do Hillinghamu jsem dojel značně unaven a vyčerpán. Už
 
 ### DENÍK LUCY WESTENROVÉ
 
-  
+</section>
+
+<section>
 
 _9\. září_.– Dnes večer je mi moc blaze. Cítila jsem se strašně slabá, a teď už zase mohu přemýšlet a pohybovat se, a připadám si, jako bych se po několika dnech sychravého větru z ocelově šedé oblohy zase jednou hřála ve sluneční záři. Zdá se mi, že Arthur je velmi, velmi blízko a že dokonce cítím kolem sebe jeho vřelou přítomnost. Zřejmě nás nemoc a slabost činí sobeckými a obracejí náš vnitřní zrak a náchylnost k sobě samým, zatímco zdraví a síla popřávají volnost Amorovi, a ten pak řídí naše myšlenky a city tam, kam chce. Vím, kde teď jsou mé myšlenky. Kéž by to jen Arthur věděl! Můj drahý, můj drahý, ty spíš a určitě ti zní v uších, a mně v nich zní, když bdím! Ach, ty blažený odpočinku minulé noci! Jak krásně jsem spala, když nade mnou bděl ten milý, hodný dr. Seward! A dnes v noci se spánku nebojím, vždyť doktor je vedle a může přijít na pouhé zavolání. Díky všem, že jste ke mně tak hodní! Díky, Bože! Dobrou noc, Arthure!
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _10\. září._ – Ucítil jsem na hlavě profesorovu ruku a ve zlomku vteřiny jsem se zcela probudil. Tohle je rozhodně jedna z věcí, kterým se člověk v blázinci naučí.
 
@@ -189,7 +201,9 @@ Van Helsing se vrátil za několik hodin a ihned mi přikázal: „Vy teď bě�
 
 V hale ke mně přistoupily dvě služebné a zeptaly se, zda by jedna z nich nemohla bdít u slečny Lucy. Žadonily, abych jim to dovolil, a když jsem jim řekl, že podle přání doktora Van Helsinga bude u ní bdít jeden z nás dvou, velmi úpěnlivě mě prosily, abych se za ně u toho „cizího pána“ přimluvil. Jejich obětavost mě opravdu dojala. Snad to udělaly proto, že viděly, jak hodně jsem zesláblý, nebo snad tím chtěly projevit oddanost k Lucy; při podobných příležitostech jsem se totiž velmi často setkával s příklady ženské laskavosti. Vrátil jsem se sem ještě včas k večeři, udělal vizitu – všechno v pořádku – a než se dostavil spánek, zapsal jsem, co se událo. A spánek už přichází.
 
-  
+</section>
+
+<section>
 
 _11\. září_. – Dnes odpoledne jsem zajel do Hillinghamu. Van Helsinga jsem zastihl ve výborné náladě a Lucy se daří mnohem lépe. Krátce po mém příchodu byl profesorovi doručen velký balík z ciziny. S dychtivostí – pochopitelně předstíranou – ho otevřel a vytáhl z něho velký svazek bílých květů.
 
@@ -224,3 +238,5 @@ Před domem na mě čekala bryčka. Když jsme odjížděli, řekl Van Helsing:
 „Dnes v noci mohu klidně spáti, a já se chci vyspati – dvě noci na cestách, mnoho četby během dne mezi oběma nocemi, hodně strachu následujícího dne a další noc probděná, aniž jsem oka zamhouřil! Zítra časně ráno pro mě přijeďte a pojedeme se spolu podívati na naši krásnou slečnu, které ‚kouzlo‘, jež jsem vyrobil, určitě dodá novou sílu.“
 
 Byl zřejmě tak pln důvěry, že jsem si bezděčně vzpomněl, jak jsem byl přede dvěma nocemi také pln důvěry a jak žalostně to skončilo. Tato myšlenka mě naplnila strachem a neurčitou hrůzou. Jistě mi jen slabost zabránila, abych svému příteli nevyjevil, co mi blesklo hlavou, ale tím víc mě to tížilo, jako neprolité slzy.
+
+</section>

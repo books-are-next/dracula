@@ -3,6 +3,8 @@ title: Kapitola 2
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK JONATHANA HARKERA
 
 _(Pokračování)_
@@ -56,7 +58,9 @@ Až dosud jsem viděl ve světle ohně toliko hřbet jeho rukou, jak mu spočív
 
 Připadám si jako v Jiříkově vidění. Zmítají mnou pochybnosti i obavy a napadají mě podivné představy, které se neodvažuji přiznat ani své duši. Bůh mě ochraňuj, alespoň kvůli těm, kdo mi jsou drazí!
 
-  
+</section>
+
+<section>
 
 _7\. května._ – Je opět časné ráno a já jsem si za těch uplynulých čtyřia­dvacet hodin příjemně a vydatně odpočinul. Spal jsem dlouho a probudil se sám až za bílého dne. Oblékl jsem se, pak jsem odešel do pokoje, kde jsem večeřel, a tam jsem našel připravenou studenou snídani; káva byla ovšem horká, konvice totiž stála na krbu. Na stole ležel lístek se vzkazem:
 
@@ -118,7 +122,9 @@ Hrabě se vrátil skoro za hodinu. „Podívejme se!“ prohlásil. „Stále je
 
 Odešel jsem do svého pokoje a roztáhl záclony, ale mnoho toho k vidění nebylo. Okno vedlo na nádvoří a neviděl jsem nic než teplou šeď úsvitu. Zatáhl jsem tedy opět záclony a pustil se do popisu dnešního dne.
 
-  
+</section>
+
+<section>
 
 _8\. května._ – Původně, když jsem začal psát tyto zápisky, obával jsem se přílišné rozvláčnosti; nyní jsem však rád, že jsem se od samého začátku pouštěl do podrobností, protože tenhle celý zámek a všechno v něm je obklopeno něčím tak záhadným, že se chtě nechtě cítím nesvůj. Jak rád bych už byl odsud pryč a v bezpečí, a ještě lepší by bylo, kdybych sem nikdy nebyl přijel! Snad na mě začíná působit onen nezvyklý noční život; jenže kdyby to opravdu záleželo pouze v tom! Být tady někdo, s kým bych mohl mluvit, snad bych to vydržel, ale nikdo tu není. Tady mohu mluvit pouze s hrabětem, a on –! Jímá mě strach, že jedinou živou duší tady v zámku jsem já! Pokusím se být tak prozaický, jak jen to skutečnosti dovolují; to mi pomůže všechno vydržet a nepovolit uzdu fantazii. Kdybych povolil, jsem ztracen. Musím proto rovnou vyjevit, na čem jsem – anebo na čem se zdá, že jsem.
 
@@ -131,3 +137,5 @@ Když jsem vešel do jídelny, bylo již prostřeno k snídani; hraběte jsem v
 Nemám však další chuť líčit krásu; když jsem se totiž dosyta potěšil vyhlídkou, pokračoval jsem v prohlídce: dveře, dveře, všude dveře, a všechny na závoru zamčené. Nikudy se nemohu ze zámku dostat – kromě okny v zámeckých zdech!
 
 Zámek je opravdový žalář a já jsem vězeň!
+
+</section>

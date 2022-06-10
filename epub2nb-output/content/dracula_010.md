@@ -3,12 +3,16 @@ title: Kapitola 5
 contentType: prose
 ---
 
+<section>
+
 ### DOPIS SLEČNY MINY MURRAYOVÉ  
 SLEČNĚ LUCY WESTENROVÉ
 
 _9\. května._
 
-  
+</section>
+
+<section>
 
 „Nejdražší Lucy,
 
@@ -22,7 +26,9 @@ Až mi budeš psát, napiš, co je nového. Už dlouho jsi mi nic nesdělila. Sl
 
 _Chatham Street, středa 17. května_
 
-  
+</section>
+
+<section>
 
 „Nejdražší Mino,
 
@@ -38,7 +44,9 @@ L.“
 
 _24\. května_
 
-  
+</section>
+
+<section>
 
 „Nejdražší Mino,
 
@@ -88,7 +96,9 @@ CTIHODNÉMU ARTHURU HOLMWOODOVI
 
 _25\. května_
 
-  
+</section>
+
+<section>
 
 „Milý Arte,
 
@@ -104,3 +114,5 @@ QUINCEYMU P. MORRISOVI
 „Rozhodně se mnou počítej. Přinesu zprávy, z nichž vám oběma budou brnět uši.
 
 ART“
+
+</section>

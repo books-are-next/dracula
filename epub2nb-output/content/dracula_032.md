@@ -3,23 +3,33 @@ title: Kapitola 27
 contentType: prose
 ---
 
+<section>
+
 ### DENÍK MINY HARKEROVÉ
 
-  
+</section>
+
+<section>
 
 _1\. listopadu._ – Jeli jsme celý den a dost rychle. Koně zřejmě cítí, že se s nimi dobře zachází, a ochotně se ženou vpřed. Už jsme je mnohokrát vystřídali, pokaždé úspěšně, takže jsme plni naděje, že cesta proběhne hladce. Dr. Van Helsing toho moc nenamluví; sedlákům říká, že spěcháme do Bystřice, a za výměnu koní jim dobře platí. Vždycky dostaneme horkou polévku, kávu nebo čaj a vzápětí vyrážíme dál. Krajina je tu líbezná, plná nejrůznějších krás, a lidé jsou nebojácní, urostlí, prostí a nadáni opravdu neobyčejnou dobro­srdečností. Jsou _velmi_, _velmi_ pověrčiví. Když si žena, která nás obsluhovala v prvním domě, kde jsme se zastavili, všimla jizvy na mém čele, pokřižovala se a napřáhla ke mně dva prsty na ochranu proti uřknutí. Myslím, že nám dokonce přidali do jídla víc česneku, než je obvyklé; a mně je česnek odporný. Od té doby pečlivě dbám, abych neodkládala klobouk nebo neshrnula závoj a nevyvolávala podezření. Jedeme rychle, a protože nemáme vozku, který by roztrušoval pověsti, nevzbuzujeme nikde pozornost; jsem ovšem přesvědčena, že celou dobu budeme mít v patách strach z uřknutí. Profesor je snad neúnavný; celý den si neodpočinul, i když mě nechal hezky dlouho spát. Při západu slunce mě hypnotizoval a prý jsem jako obvykle odpověděla: „Tma, šplouchající voda, vrzající dřevo“; náš nepřítel je tedy ještě stále na řece. Mám strach myslet na Jonathana, ale ani o něho, ani o sebe se vlastně nebojím. Právě čekáme na jednom statku, až nám připraví koně, a já zatím tohle píši. Dr. Van Helsing spí. Chudáček vypadá velmi znaveně, staře a šedivě, ale ústa má pevně sevřená jako dobyvatel; i ve spánku mu z obličeje vyzařuje odhodlanost. Až vyrazíme, převezmu otěže a přinutím ho, aby si odpočinul. Vysvětlím mu, kolik těžkých dnů nás ještě čeká; nesmí se přece zhroutit právě teď, kdy jeho sílu budeme nejvíc potřebovat… Všechno je připraveno; hned vyjedeme.
 
-  
+</section>
+
+<section>
 
 _1\. listopadu, ráno._ – Profesor na mě dal a celou noc jsme se střídali u otěží. Teď už se rozednilo, ale je chladno. Ve vzduchu leží podivná tíha – říkám tíha proto, že mě nenapadá vhodnější výraz; chci tím říci, že nás oba svírá jakási tíseň. Je dost zima a cítíme se dobře jen díky kožichům. Za úsvitu mě Van Helsing hypnotizoval; prý jsem odpověděla: „Tma, vrzající dřevo a burácející voda“, takže se tedy charakter řeky postupně mění. Doufám, že mému miláčkovi nehrozí žádné nebezpečí – alespoň ne větší, než s jakým lze počítat; jsme ovšem v rukou božích.
 
-  
+</section>
+
+<section>
 
 _2\. listopadu, večer._ – Celý den jsme jeli. Kraj je stále divočejší a mo­hutné výběžky Karpat, které nám z Veresti připadaly tak vzdálené a nevysoké nad obzorem, jako by se teď kolem nás shlukovaly a uzavíraly nám cestu. Oba máme dobrou náladu a jeden druhého se snažíme povzbuzovat, a tím zároveň povzbuzovat sebe sama. Podle dr. Van Helsinga dorazíme k Borgoskému průsmyku ráno. Stavení jsou tu řídce roztroušena a profesor řekl, že poslední koně, které opatřil, si budeme muset ponechat, protože už asi nebudeme moci přepřahat. Profesor přikoupil k dvěma, které jsme vyměnili, ještě další dva, takže máme primitivní čtyřspřeží. Jsou to trpěliví a hodní koníčci a dají nám málo práce. Žádné spolucestující nevezeme, takže klidně mohu řídit i já. Do průsmyku vjedeme za denního světla; dříve tam ani nechceme dorazit. Nijak proto nespěcháme a oba jsme si dopřáli vydatný odpočinek. Co nám asi přinese zítřek? Musíme najít místo, kde můj ubohý miláček tolik trpěl. Snad nás Bůh povede správnou cestou a bude milostivě chránit mého manžela a ty, kdo jsou nám tak drazí a jimž hrozí smrtelné nebezpečí. Já bohužel jsem v božích očích nečistá a zůstanu jí tak dlouho, dokud milostivě nesvolí, abych před ním směla hrdě stát jako člověk, na němž už netkví jeho hněv.
 
 ### MEMORANDUM ABRAHAMA VAN HELSINGA
 
-  
+</section>
+
+<section>
 
 _4\. listopadu._ – Toto je určeno mému starému věrnému příteli MUDr. Johnu Sewardovi z Purfleetu v Londýně pro případ, že bych ho snad již neměl spatřiti. Budiž mu to vysvětlením. Je ráno a toto píši u ohně, který jsem udržoval celou noc – paní Mina mi při tom pomáhala. Je chladno, chladno, citelné chladno; šedá těžká obloha je plna sněhu, a až ten napadá, zůstane ležeti celou zimu, protože půda již natolik ztvrdla, že ho nemůže vsáknouti. Zřejmě to zapůsobilo i na paní Minu; byla celý den tak zádumčivá, že jsem ji ani nepoznával. Spala a spala a spala. Ona, která je jindy tak živá, nedělala celý den doslova nic, a dokonce ztratila chuť k jídlu. Ani si nepíše do deníčku, do něhož každou volnou chvíli tak pořádně zapisovala. Mám pocit, že tu něco není v pořádku. Dnes večer však poněkud oživla. Dlouhý denní spánek ji zřejmě osvěžil a vzpružil; teď je veselá a milá jako jindy. Při západu slunce jsem se ji pokusil hypnotizovati, ale bohužel marně; má moc nad ní den ode dne slábne a dnes večer mě již zcela opustila. Nu, děj se vůle boží – ať bude jakákoli a povede nás kamkoli!
 
@@ -37,7 +47,9 @@ Pustili jsme se tedy tudy; když jsme míjeli další odbočky – nebyli jsme 
 
 Nakonec jsem přece paní Minu probudil; tentokráte to šlo snad­no a začal jsem ji nutiti k hypnotickému spánku. Pokoušel jsem se vytrvale, až jsem náhle zjistil, že nás obklopuje tma. Rozhlédl jsem se a shledal, že slunce už zapadlo. Paní Mina se zasmála; otočil jsem se a pohlédl na ni. Byla úplně probuzená a vypadala tak dobře, jak ještě nevypadala od oné noci, kdy jsme poprvé vešli do domu hraběte v Carfaxu. Překvapilo mě to a znepokojilo, jenže paní Mina byla tak veselá, milá a pozorná, že jsem zapomněl na všechen strach. Rozdělal jsem oheň – vzali jsme s sebou zásobu dříví –, vypřáhl koně, uvázal je nedaleko a nakrmil. Paní Mina zatím připravila večeři. Když jsem se vrátil k ohni, měla ji už hotovou. Chtěl jsem jí posloužiti, jenže ona se usmála a pravila, že se již najedla – prý měla takový hlad, že nemohla čekat. To se mi nezamlouvalo a měl jsem vážné pochybnosti; bál jsem se však ji vylekati a raději jsem mlčel. Paní Mina mi podala jídlo a já je snědl sám; pak jsme se zahalili do kožichů a ulehli k ohni. Řekl jsem jí, aby spala, že budu hlídati. Jenže vzápětí jsem na hlídání plně zapomněl, a když jsem si náhle uvědomil, že bych měl hlídati, všiml jsem si, že leží klidně, ale že je vzhůru a pozoruje mě jasným zrakem. Toto se opakovalo ještě jednou nebo dvakrát. Spal jsem dobře až skoro do rozbřesku. Sotva jsem se probudil, pokusil jsem se ji hypnotizovati, ale ačkoli poslušně zavřela oči, bohužel neusnula. Slunce stoupalo výš a výš, a pak se konečně dostavil hluboký spánek, jenže tak hluboký, že se neprobudila. Zapřáhl jsem koně, všechno jsem připravil, a potom jsem ji musel zdvihnouti a spící odnésti do kočáru. Paní Mina dosud spí a spí a ve spánku vypadá zdravěji a růžověji než předtím. Nezamlouvá se mi to. A bojím se, bojím, bojím – bojím se všeho – i myšlenek, musíme se však vydati na cestu. Ve hře, kterou hrajeme, jde o život a smrt, vlastně o víc, a nesmíme couvnouti.
 
-  
+</section>
+
+<section>
 
 _5\. listopadu, ráno._ – Musím býti velmi přesný, protože i když jsme my dva spolu už spatřili dost zvláštních věcí, mohl byste si v prvním okamžiku třeba pomysleti, že já, Van Helsing, jsem se zbláznil – že ty četné hrůzy a dlouhý nápor na mé nervy mě nakonec připravily o rozum.
 
@@ -65,19 +77,25 @@ Nyní se posilním snídaní, a pak se vypravím za svým strašným úkolem. P
 
 ### DENÍK JONATHANA HARKERA
 
-  
+</section>
+
+<section>
 
 _4\. listopadu, večer._ – Nehoda parního člunu nás značně zdržela. Nebýt jí, dávno už bychom byli ten člun předhonili a má drahá Mina by už teď byla osvobozena. Bojím se myslet na ni, tak vzdálenou na pláních u strašného zámku. Opatřili jsme si koně a pojedeme po stopách. Tohle píšu, zatímco Godalming končí přípravy. Své zbraně máme s sebou. Szganyové ať se mají na pozoru, jestli se chtějí s námi utkat! Ach, kdyby tu jen byli Morris a Seward! Nezbývá než doufat. Kdybych už víc nemohl psát, pak sbohem, Mino! Bůh ti žehnej a ochraňuj tě!
 
 ### DENÍK Dr. SEWARDA
 
-  
+</section>
+
+<section>
 
 _5\. listopadu._ – Za úsvitu jsme zahlédli tlupu Szganyů, ujížděli s žebřiňákem od řeky. Rojili se kolem vozu a uháněli jako posedlí. Lehce sněží a vzduch se tetelí zvláštním vzrušením. Snad to zaviňují naše rozjitřené city, ale padá na nás podivná tíseň. Zdáli se ozývá vytí vlků; sníh je vyhání z hor do údolí. Mohli by nám být nebezpeční, zejména kdyby na nás zaútočili ze všech stran. Koně už jsou skoro připraveni a zakrátko vyrazíme. Jedeme vstříc něčí smrti. Pouze Bůh ví, kdo, kde, co, kdy či jak to bude…
 
 ### MEMORANDUM Dr. VAN HELSINGA
 
-  
+</section>
+
+<section>
 
 _5\. listopadu, odpoledne_. – Nejsem tedy šílený! Děkuji pokorně Bohu za tuto milost, ačkoli dokázati to bylo příšerné. Nechal jsem paní Minu spáti uvnitř posvěceného kruhu a vydal jsem se k zámku. Kovářské kladivo, které jsem si přivezl z Veresti, mi přišlo vhod. Všechny dveře sice byly otevřené, ale přesto jsem je vysadil ze zrezavělých veřejí, aby je snad zlý úklad nebo nešťastná náhoda nezavřely a já se pak nedostal ven. V zámku mi posloužila Jonathanova trpká zkušenost. Podle toho, co jsem si z jeho deníku zapamatoval, jsem našel cestu do staré kaple, kde mě právě čekala má práce. Vzduch tam byl těžký a jakoby prosycený sirnými výpary; několikrát se mi zamotala hlava. Také mi snad hučelo v uších, nebo jsem snad v dáli slyšel výti vlky. Tu jsem si vzpomněl na drahou paní Minu a zmocnily se mě strašné obavy. Musel jsem se rozhodnouti. Neodvážil jsem se zavésti ji sem na toto místo a nechal jsem ji v bezpečí před upírem v onom posvěceném kruhu; jenže tam ji mohou přepadnouti vlci! Usoudil jsem nakonec, že můj úkol je zde, a pokud jde o vlky, musíme se podrobiti vůli boží! Stejně by ji nečekalo nic jiného než smrt a spása. Rozhodl jsem tedy za ni. U mne by volba byla snazší; raději bych skončil ve chřtánu vlčím než v hrobě upíra! Proto jsem pokračoval v práci.
 
@@ -87,11 +105,15 @@ Když dokonce mě samotného omámí přítomnost takového tvora, ležícího t
 
 Vzchopil jsem se tedy, abych přikročil k hrozné povinnosti, a jak jsem snímal víka z rakví, nalezl jsem druhou ze snědých sester. Neodvážil jsem se už zastaviti se a hleděti na ni jako na její sestru, abych snad nepodlehl onomu kouzlu. Pátral jsem dál, až jsem ve velké, vysoké rakvi, jakoby určené tomu, koho milujeme nejvíce, objevil plavovlasou sestru, kterou jsem podobně jako Jonathan viděl zhmotňovati se z mlžného prachu. Byla tak půvabná, tak zářivě krásná, tak svůdně smyslná, že mi má mužnost, která ve mně vyvolává touhu milovati a chrániti druhé pohlaví, zatemnila mysl novým citem. Ale zoufalý výkřik drahé paní Miny mi bohudík dosud zněl v uších, a než jsem mohl podlehnouti, obrnil jsem se pro svou krutou práci. Pokud vím, prohledal jsem už všechny rakve, a protože k nám v noci přišly pouze tři Nemrtvé, usoudil jsem, že víc Nemrtvých tu už není. Jeden náhrobek vynikal okázalostí nad všechny ostatní; byl mohutný a nádherně provedený. Bylo na něm napsáno jediné slovo –
 
-  
+</section>
+
+<section>
 
 **DRACULA**
 
-  
+</section>
+
+<section>
 
 Tak toto byl prokletý domov krále upírů, jemuž bylo poddáno tolik dalších Nemrtvých. Byl prázdný, což výmluvně dokazovalo správnost všeho, co jsem už věděl. Ještě předtím, než jsem se pustil do strašné práce, jíž jsem tyto ženy navracel jejich pravé mrtvé podobě, vložil jsem do Draculovy rakve kousek hostie, a tím jsem ho z tohoto hrobu Nemrtvých navždy vypudil.
 
@@ -109,7 +131,9 @@ A tak v důvěře a naději, a přesto plni obav vydáváme se k východu, 
 
 ### DENÍK MINY HARKEROVÉ
 
-  
+</section>
+
+<section>
 
 _6\. listopadu._ – Teprve pozdě odpoledne jsme vyšli s profesorem směrem k východu, odkud, jak vím, přijíždí Jonathan. Nešli jsme rychle, ačkoli se cesta prudce svažovala; nesli jsme totiž těžké kožichy a přikrývky; nechtěli jsme riskovat, že bychom se v zimě a sněhu neměli čím zahřát. Museli jsme vzít s sebou také nějaké zásoby, vždyť jsme byli v úplné pustině, a pokud se dalo v chumelenici vidět, nikde nebylo ani stopy po lidském obydlí. Když jsme ušli asi jednu míli, obtížná chůze mě znavila a usedli jsme, abychom si odpočali. Ohlédli jsme se a proti obloze se ostře rýsoval zámek Dracula; byli jsme tak nízko pod horou, na níž stál, že nám v perspektivním pohledu připadalo, jako by hřebeny Karpat byly hluboko pod ní. Viděli jsme zámek v celé jeho vznešenosti, tyčící se ve výši tisíce stop nad sráznou roklí, ze všech stran viditelně oddělený hlubokými propastmi od přilehlých hor. Z celého zámku vyzařovalo cosi divokého a přízračného. V dáli se ozývalo vytí vlků. Přestože bylo daleko od nás a hustě padající sníh je tlumil, naplňovalo nás hrůzou. Z toho, jak profesor zkoumal okolí, jsem pochopila, že se snaží najít nějaké výhodné místo, kde bychom za útoku byli lépe chráněni. Hrbolatá cesta vedla přímo po svahu dolů; byla znát i pod napadaným sněhem.
 
@@ -158,3 +182,5 @@ Pan Morris klesl předtím k zemi, opíral se o loket a ruku si tiskl k boku
 Slunce se právě přehouplo za vrcholek hory a jeho rudé paprsky mi dopadly na obličej a zalily ho růžovou září. Jako na povel klesli muži na kolena a ze rtů jim splynulo upřímné a vážné „Amen“, když jim zrak padl tam, kam umírající ukazoval, a uslyšeli jeho slova: „Poděkujme teď Bohu, že nic nebylo nadarmo! Vidíte? Sníh není čistší než její čelo. Kletba pominula!“
 
 A tak s úsměvem na rtech a bez dalších slov skonal k našemu nejhlubšímu zármutku ten odvážný a šlechetný muž.
+
+</section>
