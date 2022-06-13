@@ -13,6 +13,7 @@ meta:
   modified: '2020-03-18T00:00:00.000Z'
   edition: beletrie
   publisherShort: mkp
+  isbn: 978-80-274-2493-1
 readingOrder:
   - promo.html
   - dracula_005.html

@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stoker-dracula-b6a189a",
-  "revision": "b6a189a",
+  "identifier": "stoker-dracula-134be87",
+  "revision": "134be87",
   "readingOrder": [
     "promo.html",
     "dracula_005.html",
@@ -45,8 +45,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 11:55:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654948554097
+    "date": "Mon Jun 13 2022 21:31:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655155874291
   },
   "documents": [
     {
@@ -664,9 +664,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 83,
-      "chars": 557,
-      "ideas": 7,
+      "words": 116,
+      "chars": 735,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "dracula_034.html",
@@ -684,9 +684,9 @@
   ],
   "totals": {
     "all": {
-      "words": 135500,
-      "chars": 797916,
-      "ideas": 2020
+      "words": 135533,
+      "chars": 798094,
+      "ideas": 2029
     },
     "chapters": {
       "words": 135412,
