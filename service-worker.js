@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-134be87';
+const CACHE = 'cache-89fc4aa';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./dracula_005.html","./dracula_006.html","./dracula_007.html","./dracula_008.html","./dracula_009.html","./dracula_010.html","./dracula_012.html","./dracula_011.html","./dracula_013.html","./dracula_015.html","./dracula_016.html","./dracula_014.html","./dracula_017.html","./dracula_018.html","./dracula_019.html","./dracula_020.html","./dracula_021.html","./dracula_022.html","./dracula_023.html","./dracula_025.html","./dracula_024.html","./dracula_026.html","./dracula_027.html","./dracula_029.html","./dracula_028.html","./dracula_030.html","./dracula_031.html","./dracula_033.html","./dracula_032.html","./dracula_034.html","./favicon.png","./index.html","./manifest.json","./promo.html","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_dracula_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./dracula_006.html","./dracula_005.html","./dracula_007.html","./dracula_008.html","./dracula_009.html","./dracula_010.html","./dracula_011.html","./dracula_012.html","./dracula_013.html","./dracula_014.html","./dracula_015.html","./dracula_016.html","./dracula_017.html","./dracula_018.html","./dracula_019.html","./dracula_020.html","./dracula_021.html","./dracula_022.html","./dracula_023.html","./dracula_024.html","./dracula_025.html","./dracula_026.html","./dracula_027.html","./dracula_028.html","./dracula_029.html","./dracula_030.html","./dracula_031.html","./dracula_032.html","./dracula_033.html","./dracula_034.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_dracula_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
