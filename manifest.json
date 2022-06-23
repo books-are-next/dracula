@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stoker-dracula-77dc277",
-  "revision": "77dc277",
+  "identifier": "stoker-dracula-6e45843",
+  "revision": "6e45843",
   "readingOrder": [
     "promo.html",
     "dracula_005.html",
@@ -45,8 +45,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:48:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272129248
+    "date": "Thu Jun 23 2022 10:00:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655978446674
   },
   "documents": [
     {
