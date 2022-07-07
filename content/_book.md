@@ -46,7 +46,7 @@ readingOrder:
   - dracula_032.html
   - dracula_033.html
   - dracula_034.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
