@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stoker-dracula-5eaf305",
-  "revision": "5eaf305",
+  "identifier": "stoker-dracula-9a0c428",
+  "revision": "9a0c428",
   "readingOrder": [
     "promo.html",
     "dracula_005.html",
@@ -45,8 +45,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:01:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151318034
+    "date": "Mon Oct 10 2022 15:54:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417243795
   },
   "documents": [
     {
@@ -665,7 +665,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 134,
-      "chars": 879,
+      "chars": 880,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -685,7 +685,7 @@
   "totals": {
     "all": {
       "words": 135551,
-      "chars": 798238,
+      "chars": 798239,
       "ideas": 2030
     },
     "chapters": {
